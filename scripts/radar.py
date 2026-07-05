@@ -39,7 +39,7 @@ DOCS.mkdir(parents=True, exist_ok=True)
 
 UTCNOW = dt.datetime.now(dt.timezone.utc)
 TODAY = UTCNOW.strftime("%Y-%m-%d")
-UA = "traction-radar/1.0 (personal research; contact: you@example.com)"
+UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36"
 
 # ---- Config: what we watch ------------------------------------------------
 # App Store: (country, feed_type, category_id, human_label)
