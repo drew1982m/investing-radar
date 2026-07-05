@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-05T12:15:34.257117+00:00",
+  "generated_utc": "2026-07-05T12:27:42.187167+00:00",
   "date": "2026-07-05",
   "appstore": [
     {
@@ -281,7 +281,7 @@
   "trends": [
     {
       "term": "stablecoin",
-      "signal": "search +59% (7d)",
+      "signal": "search +58% (7d)",
       "score": 31
     }
   ],
@@ -290,29 +290,29 @@
     {
       "name": "DietrichGebert/ponytail",
       "topic": "developer-tools",
-      "stars": 74317,
+      "stars": 74326,
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "signal": "74317\u2605 in <30d",
-      "score": 74317
+      "signal": "74326\u2605 in <30d",
+      "score": 74326
     },
     {
       "name": "omnigent-ai/omnigent",
       "topic": "ai-agent",
-      "stars": 6275,
+      "stars": 6276,
       "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
       "url": "https://github.com/omnigent-ai/omnigent",
-      "signal": "6275\u2605 in <30d",
-      "score": 6275
+      "signal": "6276\u2605 in <30d",
+      "score": 6276
     },
     {
       "name": "omnigent-ai/omnigent",
       "topic": "developer-tools",
-      "stars": 6275,
+      "stars": 6276,
       "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
       "url": "https://github.com/omnigent-ai/omnigent",
-      "signal": "6275\u2605 in <30d",
-      "score": 6275
+      "signal": "6276\u2605 in <30d",
+      "score": 6276
     },
     {
       "name": "tigicion/dao-code",
@@ -326,11 +326,11 @@
     {
       "name": "shy3130/tickflow-stock-panel",
       "topic": "ai-agent",
-      "stars": 1459,
+      "stars": 1462,
       "desc": "\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0 | \u57fa\u4e8e TickFlow \u6570\u636e\u6e90  | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90 ,\u975eTickFlow\u5b98\u65b9\u9879\u76ee",
       "url": "https://github.com/shy3130/tickflow-stock-panel",
-      "signal": "1459\u2605 in <30d",
-      "score": 1459
+      "signal": "1462\u2605 in <30d",
+      "score": 1462
     },
     {
       "name": "eli-labz/Third-Eye",
