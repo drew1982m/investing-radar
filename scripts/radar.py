@@ -284,11 +284,9 @@ def main():
     except Exception as e:
         result["notes"].append(f"trends error: {e}")
 
-    print("Scraping Reddit...")
-    try:
-        result["reddit"] = scrape_reddit()
-    except Exception as e:
-        result["notes"].append(f"reddit error: {e}")
+    # Reddit scraping disabled: Reddit blocks datacenter IPs (GitHub Actions).
+    # Dashboard links to a Reddit search per item, opened on demand in your browser.
+    result["reddit"] = []
 
     print("Scraping GitHub...")
     try:
