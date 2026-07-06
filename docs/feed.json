@@ -1,390 +1,384 @@
 {
-  "generated_utc": "2026-07-05T12:27:42.187167+00:00",
-  "date": "2026-07-05",
+  "generated_utc": "2026-07-06T17:19:51.818624+00:00",
+  "date": "2026-07-06",
   "appstore": [
     {
-      "name": "Australian Taxation Office",
-      "label": "AU / Finance (free)",
-      "rank": 1,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "664461825",
-      "country": "au",
-      "score": 139
-    },
-    {
-      "name": "Vinted: Pre-loved marketplace",
-      "label": "AU / Shopping (free)",
-      "rank": 1,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "632064380",
-      "country": "au",
-      "score": 139
-    },
-    {
-      "name": "Kalshi: Trade the World Cup",
+      "name": "fomo - never miss out",
       "label": "US / Finance (free)",
-      "rank": 1,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "1632713844",
+      "rank": 24,
+      "prev_rank": 66,
+      "delta": 42,
+      "signal": "+42 rank climb",
+      "app_id": "6741115427",
       "country": "us",
-      "score": 139
+      "score": 202
     },
     {
-      "name": "Depop - Buy & Sell Clothes",
-      "label": "US / Shopping (free)",
-      "rank": 1,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "518684914",
-      "country": "us",
-      "score": 139
-    },
-    {
-      "name": "HMRC",
+      "name": "Xero Verify",
       "label": "GB / Finance (free)",
-      "rank": 1,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "514561561",
+      "rank": 55,
+      "prev_rank": 96,
+      "delta": 41,
+      "signal": "+41 rank climb",
+      "app_id": "1510862201",
       "country": "gb",
-      "score": 139
+      "score": 168
     },
     {
-      "name": "DoorDash: Food, Grocery, More",
-      "label": "US / Food & Drink (free)",
-      "rank": 1,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "719972451",
-      "country": "us",
-      "score": 139
+      "name": "MyAviva - Insurance & finance",
+      "label": "GB / Finance (free)",
+      "rank": 21,
+      "prev_rank": 43,
+      "delta": 22,
+      "signal": "+22 rank climb",
+      "app_id": "852352703",
+      "country": "gb",
+      "score": 145
     },
     {
-      "name": "Wise - Global Money",
+      "name": "ANZ Shield",
       "label": "AU / Finance (free)",
-      "rank": 2,
+      "rank": 59,
+      "prev_rank": 91,
+      "delta": 32,
+      "signal": "+32 rank climb",
+      "app_id": "898121037",
+      "country": "au",
+      "score": 137
+    },
+    {
+      "name": "St.George Mobile Banking",
+      "label": "AU / Finance (free)",
+      "rank": 40,
+      "prev_rank": 64,
+      "delta": 24,
+      "signal": "+24 rank climb",
+      "app_id": "294380705",
+      "country": "au",
+      "score": 132
+    },
+    {
+      "name": "KCL: Coupons, Deals, Discounts",
+      "label": "US / Shopping (free)",
+      "rank": 13,
       "prev_rank": null,
       "delta": null,
       "signal": "NEW to chart",
-      "app_id": "612261027",
-      "country": "au",
-      "score": 138
+      "app_id": "962133447",
+      "country": "us",
+      "score": 127
     },
     {
-      "name": "Depop - Buy & Sell Clothing",
-      "label": "AU / Shopping (free)",
-      "rank": 2,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "518684914",
+      "name": "Refundid: Returns Tracking",
+      "label": "AU / Finance (free)",
+      "rank": 44,
+      "prev_rank": 67,
+      "delta": 23,
+      "signal": "+23 rank climb",
+      "app_id": "6476960779",
       "country": "au",
-      "score": 138
+      "score": 125
     },
     {
-      "name": "Trump Accounts: Official App",
+      "name": "Empower \u00ae",
       "label": "US / Finance (free)",
-      "rank": 2,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "6767364919",
+      "rank": 43,
+      "prev_rank": 65,
+      "delta": 22,
+      "signal": "+22 rank climb",
+      "app_id": "1001257338",
       "country": "us",
-      "score": 138
+      "score": 123
     },
     {
-      "name": "Temu: Shop Like a Billionaire",
-      "label": "US / Shopping (free)",
-      "rank": 2,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "1641486558",
-      "country": "us",
-      "score": 138
-    },
-    {
-      "name": "Monzo Bank - Mobile Banking",
+      "name": "Scottish Widows",
       "label": "GB / Finance (free)",
-      "rank": 2,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "1052238659",
+      "rank": 41,
+      "prev_rank": 61,
+      "delta": 20,
+      "signal": "+20 rank climb",
+      "app_id": "1502431233",
       "country": "gb",
-      "score": 138
+      "score": 119
     },
     {
-      "name": "McDonald's",
-      "label": "US / Food & Drink (free)",
-      "rank": 2,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "922103212",
-      "country": "us",
-      "score": 138
-    },
-    {
-      "name": "PayPal - Send, Manage, Pay",
+      "name": "Amex Australia",
       "label": "AU / Finance (free)",
-      "rank": 3,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "283646709",
+      "rank": 27,
+      "prev_rank": 40,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "418350340",
       "country": "au",
-      "score": 137
+      "score": 112
     },
     {
-      "name": "AliExpress Shopping App",
+      "name": "Chipotle",
+      "label": "US / Food & Drink (free)",
+      "rank": 15,
+      "prev_rank": 24,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "327228455",
+      "country": "us",
+      "score": 112
+    },
+    {
+      "name": "ReciMe: Recipes & Meal Planner",
+      "label": "US / Food & Drink (free)",
+      "rank": 10,
+      "prev_rank": 17,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "1593779280",
+      "country": "us",
+      "score": 111
+    },
+    {
+      "name": "Rest Super",
+      "label": "AU / Finance (free)",
+      "rank": 20,
+      "prev_rank": 30,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "1159541365",
+      "country": "au",
+      "score": 110
+    },
+    {
+      "name": "Shop: All your favorite brands",
       "label": "AU / Shopping (free)",
-      "rank": 3,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "436672029",
-      "country": "au",
-      "score": 137
-    },
-    {
-      "name": "Polymarket: Trade Soccer",
-      "label": "US / Finance (free)",
-      "rank": 3,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "6648798962",
-      "country": "us",
-      "score": 137
-    },
-    {
-      "name": "Whatnot: Shop, Sell, Connect",
-      "label": "US / Shopping (free)",
-      "rank": 3,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "1488269261",
-      "country": "us",
-      "score": 137
-    },
-    {
-      "name": "Revolut \u2014 Mobile Finance",
-      "label": "GB / Finance (free)",
-      "rank": 3,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "932493382",
-      "country": "gb",
-      "score": 137
-    },
-    {
-      "name": "Uber Eats: Food & Groceries",
-      "label": "US / Food & Drink (free)",
-      "rank": 3,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "1058959277",
-      "country": "us",
-      "score": 137
-    },
-    {
-      "name": "Revolut: Spend, send and save",
-      "label": "AU / Finance (free)",
-      "rank": 4,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "932493382",
-      "country": "au",
-      "score": 136
-    },
-    {
-      "name": "Amazon - Shopping made easy",
-      "label": "AU / Shopping (free)",
-      "rank": 4,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "297606951",
-      "country": "au",
-      "score": 136
-    },
-    {
-      "name": "PayPal - Pay, Send, Save",
-      "label": "US / Finance (free)",
-      "rank": 4,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "283646709",
-      "country": "us",
-      "score": 136
-    },
-    {
-      "name": "Walmart: Shopping & Savings",
-      "label": "US / Shopping (free)",
-      "rank": 4,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "338137227",
-      "country": "us",
-      "score": 136
-    },
-    {
-      "name": "Lloyds Mobile Banking",
-      "label": "GB / Finance (free)",
-      "rank": 4,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "469964520",
-      "country": "gb",
-      "score": 136
-    },
-    {
-      "name": "Taco Bell Fast Food & Delivery",
-      "label": "US / Food & Drink (free)",
-      "rank": 4,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "497387361",
-      "country": "us",
-      "score": 136
-    },
-    {
-      "name": "CommBank",
-      "label": "AU / Finance (free)",
       "rank": 5,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "310251202",
+      "prev_rank": 10,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1223471316",
       "country": "au",
-      "score": 135
-    }
-  ],
-  "trends": [
+      "score": 110
+    },
     {
-      "term": "stablecoin",
-      "signal": "search +58% (7d)",
-      "score": 31
+      "name": "Starbucks",
+      "label": "US / Food & Drink (free)",
+      "rank": 7,
+      "prev_rank": 12,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "331177714",
+      "country": "us",
+      "score": 108
+    },
+    {
+      "name": "Dunkin'",
+      "label": "US / Food & Drink (free)",
+      "rank": 13,
+      "prev_rank": 20,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "1056813463",
+      "country": "us",
+      "score": 108
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "label": "US / Food & Drink (free)",
+      "rank": 34,
+      "prev_rank": 48,
+      "delta": 14,
+      "signal": "+14 rank climb",
+      "app_id": "1530642656",
+      "country": "us",
+      "score": 108
+    },
+    {
+      "name": "Factor_ Prepared Meal Delivery",
+      "label": "US / Food & Drink (free)",
+      "rank": 67,
+      "prev_rank": 92,
+      "delta": 25,
+      "signal": "+25 rank climb",
+      "app_id": "1015997735",
+      "country": "us",
+      "score": 108
+    },
+    {
+      "name": "Bendigo Bank",
+      "label": "AU / Finance (free)",
+      "rank": 42,
+      "prev_rank": 58,
+      "delta": 16,
+      "signal": "+16 rank climb",
+      "app_id": "482844929",
+      "country": "au",
+      "score": 106
+    },
+    {
+      "name": "Kroger",
+      "label": "US / Shopping (free)",
+      "rank": 36,
+      "prev_rank": 50,
+      "delta": 14,
+      "signal": "+14 rank climb",
+      "app_id": "403901186",
+      "country": "us",
+      "score": 106
+    },
+    {
+      "name": "Panera Bread",
+      "label": "US / Food & Drink (free)",
+      "rank": 37,
+      "prev_rank": 51,
+      "delta": 14,
+      "signal": "+14 rank climb",
+      "app_id": "692365393",
+      "country": "us",
+      "score": 105
+    },
+    {
+      "name": "ANZ Australia",
+      "label": "AU / Finance (free)",
+      "rank": 11,
+      "prev_rank": 16,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "870929663",
+      "country": "au",
+      "score": 104
+    },
+    {
+      "name": "People First Bank",
+      "label": "AU / Finance (free)",
+      "rank": 14,
+      "prev_rank": 20,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "6503123279",
+      "country": "au",
+      "score": 104
+    },
+    {
+      "name": "Hostplus",
+      "label": "AU / Finance (free)",
+      "rank": 19,
+      "prev_rank": 26,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "1499755194",
+      "country": "au",
+      "score": 102
+    },
+    {
+      "name": "Nespresso Store",
+      "label": "US / Shopping (free)",
+      "rank": 28,
+      "prev_rank": 38,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "1609639566",
+      "country": "us",
+      "score": 102
     }
   ],
+  "trends": [],
   "reddit": [],
   "github": [
     {
       "name": "DietrichGebert/ponytail",
       "topic": "developer-tools",
-      "stars": 74326,
+      "stars": 75759,
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "signal": "74326\u2605 in <30d",
-      "score": 74326
+      "signal": "75759\u2605 in <30d",
+      "score": 75759
     },
     {
       "name": "omnigent-ai/omnigent",
       "topic": "ai-agent",
-      "stars": 6276,
+      "stars": 6392,
       "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
       "url": "https://github.com/omnigent-ai/omnigent",
-      "signal": "6276\u2605 in <30d",
-      "score": 6276
+      "signal": "6392\u2605 in <30d",
+      "score": 6392
     },
     {
       "name": "omnigent-ai/omnigent",
       "topic": "developer-tools",
-      "stars": 6276,
+      "stars": 6392,
       "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
       "url": "https://github.com/omnigent-ai/omnigent",
-      "signal": "6276\u2605 in <30d",
-      "score": 6276
-    },
-    {
-      "name": "tigicion/dao-code",
-      "topic": "ai-agent",
-      "stars": 1592,
-      "desc": "Open-source TypeScript terminal coding agent for DeepSeek-V4 \u2014 builds on DeepSeek's strong price-performance and ultra-c",
-      "url": "https://github.com/tigicion/dao-code",
-      "signal": "1592\u2605 in <30d",
-      "score": 1592
+      "signal": "6392\u2605 in <30d",
+      "score": 6392
     },
     {
       "name": "shy3130/tickflow-stock-panel",
       "topic": "ai-agent",
-      "stars": 1462,
-      "desc": "\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0 | \u57fa\u4e8e TickFlow \u6570\u636e\u6e90  | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90 ,\u975eTickFlow\u5b98\u65b9\u9879\u76ee",
+      "stars": 1682,
+      "desc": "\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0 | \u57fa\u4e8e TickFlow \u6570\u636e\u6e90  | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u6570\u636e\u6e90\u4e0e\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90 ,\u975eTickFlow\u5b98\u65b9\u9879\u76ee",
       "url": "https://github.com/shy3130/tickflow-stock-panel",
-      "signal": "1462\u2605 in <30d",
-      "score": 1462
+      "signal": "1682\u2605 in <30d",
+      "score": 1682
+    },
+    {
+      "name": "tigicion/dao-code",
+      "topic": "ai-agent",
+      "stars": 1608,
+      "desc": "Open-source TypeScript terminal coding agent for DeepSeek-V4 \u2014 builds on DeepSeek's strong price-performance and ultra-c",
+      "url": "https://github.com/tigicion/dao-code",
+      "signal": "1608\u2605 in <30d",
+      "score": 1608
     },
     {
       "name": "eli-labz/Third-Eye",
       "topic": "ai-agent",
-      "stars": 923,
+      "stars": 933,
       "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
       "url": "https://github.com/eli-labz/Third-Eye",
-      "signal": "923\u2605 in <30d",
-      "score": 923
+      "signal": "933\u2605 in <30d",
+      "score": 933
     },
     {
       "name": "AI-Builder-Club/skills",
       "topic": "developer-tools",
-      "stars": 769,
+      "stars": 779,
       "desc": "Codebase harness + loop engineer",
       "url": "https://github.com/AI-Builder-Club/skills",
-      "signal": "769\u2605 in <30d",
-      "score": 769
+      "signal": "779\u2605 in <30d",
+      "score": 779
     },
     {
       "name": "raiyanyahya/recall",
       "topic": "developer-tools",
-      "stars": 674,
+      "stars": 680,
       "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory \u2014 entirely off",
       "url": "https://github.com/raiyanyahya/recall",
-      "signal": "674\u2605 in <30d",
-      "score": 674
+      "signal": "680\u2605 in <30d",
+      "score": 680
     },
     {
-      "name": "duckbugio/flock",
+      "name": "synthetic-sciences/openscience",
       "topic": "ai-agent",
-      "stars": 572,
-      "desc": "Autonomous AI dev-team bot",
-      "url": "https://github.com/duckbugio/flock",
-      "signal": "572\u2605 in <30d",
-      "score": 572
+      "stars": 647,
+      "desc": "The open-source AI workbench for scientific research",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "signal": "647\u2605 in <30d",
+      "score": 647
     },
     {
       "name": "royalbhati/sqltoerdiagram",
       "topic": "developer-tools",
-      "stars": 555,
+      "stars": 557,
       "desc": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD \u2014 runs 100% in your browser, nothin",
       "url": "https://github.com/royalbhati/sqltoerdiagram",
-      "signal": "555\u2605 in <30d",
-      "score": 555
+      "signal": "557\u2605 in <30d",
+      "score": 557
     },
     {
       "name": "Krever/fintech-engineering-handbook",
       "topic": "fintech",
-      "stars": 363,
+      "stars": 372,
       "desc": "Patterns for building software that handles money",
       "url": "https://github.com/Krever/fintech-engineering-handbook",
-      "signal": "363\u2605 in <30d",
-      "score": 363
+      "signal": "372\u2605 in <30d",
+      "score": 372
     },
     {
       "name": "dwebagents/AgentPipe",
@@ -396,7 +390,5 @@
       "score": 199
     }
   ],
-  "notes": [
-    "First run: velocity needs a prior snapshot to compare against. App Store rank-climb flags will start appearing on the next run. New-to-chart and other sources work immediately."
-  ]
+  "notes": []
 }
