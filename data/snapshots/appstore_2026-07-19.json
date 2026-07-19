@@ -1,0 +1,4805 @@
+{
+  "date": "2026-07-19",
+  "items": {
+    "au:6015:664461825": {
+      "rank": 1,
+      "name": "Australian Taxation Office",
+      "app_id": "664461825",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:612261027": {
+      "rank": 2,
+      "name": "Wise - Global Money",
+      "app_id": "612261027",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:283646709": {
+      "rank": 3,
+      "name": "PayPal - Send, Manage, Pay",
+      "app_id": "283646709",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:932493382": {
+      "rank": 4,
+      "name": "Revolut: Spend, send and save",
+      "app_id": "932493382",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:310251202": {
+      "rank": 5,
+      "name": "CommBank",
+      "app_id": "310251202",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6503263049": {
+      "rank": 6,
+      "name": "Do your thing - ING Banking",
+      "app_id": "6503263049",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1495738612": {
+      "rank": 7,
+      "name": "ANZ Plus",
+      "app_id": "1495738612",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:299111811": {
+      "rank": 8,
+      "name": "Westpac",
+      "app_id": "299111811",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:942349750": {
+      "rank": 9,
+      "name": "Macquarie Mobile Banking",
+      "app_id": "942349750",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1020067456": {
+      "rank": 10,
+      "name": "AustralianSuper",
+      "app_id": "1020067456",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:458023433": {
+      "rank": 11,
+      "name": "Splitwise",
+      "app_id": "458023433",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1350717115": {
+      "rank": 12,
+      "name": "Up \u2014 Simplify Money",
+      "app_id": "1350717115",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:373434223": {
+      "rank": 13,
+      "name": "NAB Mobile Banking",
+      "app_id": "373434223",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6503123279": {
+      "rank": 14,
+      "name": "People First Bank",
+      "app_id": "6503123279",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:870929663": {
+      "rank": 15,
+      "name": "ANZ Australia",
+      "app_id": "870929663",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1441276749": {
+      "rank": 16,
+      "name": "Macquarie Authenticator",
+      "app_id": "1441276749",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1449543099": {
+      "rank": 17,
+      "name": "Ubank: Digital Banking",
+      "app_id": "1449543099",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1115120118": {
+      "rank": 18,
+      "name": "Klarna | Smarter payments",
+      "app_id": "1115120118",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1499755194": {
+      "rank": 19,
+      "name": "Hostplus",
+      "app_id": "1499755194",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1411824359": {
+      "rank": 20,
+      "name": "Zip - Shop Now, Pay Later",
+      "app_id": "1411824359",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1510862201": {
+      "rank": 21,
+      "name": "Xero Verify",
+      "app_id": "1510862201",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1080870587": {
+      "rank": 22,
+      "name": "Spriggy",
+      "app_id": "1080870587",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1510690149": {
+      "rank": 23,
+      "name": "AAMI App",
+      "app_id": "1510690149",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1481419515": {
+      "rank": 24,
+      "name": "The Card Network",
+      "app_id": "1481419515",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6752379941": {
+      "rank": 25,
+      "name": "moomoo - Trading & Investing",
+      "app_id": "6752379941",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1065771295": {
+      "rank": 26,
+      "name": "Raiz | Earn, Save & Invest",
+      "app_id": "1065771295",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:674258465": {
+      "rank": 27,
+      "name": "Remitly: Send money overseas",
+      "app_id": "674258465",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1373059866": {
+      "rank": 28,
+      "name": "Latitude App",
+      "app_id": "1373059866",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1413346006": {
+      "rank": 29,
+      "name": "Taptap Send: Money Transfer",
+      "app_id": "1413346006",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1399461540": {
+      "rank": 30,
+      "name": "Stake \u2013 Stocks | ETFs | SMSF",
+      "app_id": "1399461540",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1159541365": {
+      "rank": 31,
+      "name": "Rest Super",
+      "app_id": "1159541365",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:418350340": {
+      "rank": 32,
+      "name": "Amex Australia",
+      "app_id": "418350340",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1559149606": {
+      "rank": 33,
+      "name": "CMC Invest",
+      "app_id": "1559149606",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:924418916": {
+      "rank": 34,
+      "name": "Vehicle Logbook by Driversnote",
+      "app_id": "924418916",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:427100193": {
+      "rank": 35,
+      "name": "ING Australia Banking",
+      "app_id": "427100193",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:880540304": {
+      "rank": 36,
+      "name": "CommSec",
+      "app_id": "880540304",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1384798989": {
+      "rank": 37,
+      "name": "Vanguard | ETFs and super",
+      "app_id": "1384798989",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1559930798": {
+      "rank": 38,
+      "name": "Pearler",
+      "app_id": "1559930798",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1669109591": {
+      "rank": 39,
+      "name": "Betashares Direct | Investing",
+      "app_id": "1669109591",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1170055821": {
+      "rank": 40,
+      "name": "PhonePe: Secure Payments App",
+      "app_id": "1170055821",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1587276031": {
+      "rank": 41,
+      "name": "Flare",
+      "app_id": "1587276031",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1156875272": {
+      "rank": 42,
+      "name": "Suica",
+      "app_id": "1156875272",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1228562274": {
+      "rank": 43,
+      "name": "YouTrip",
+      "app_id": "1228562274",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:473941634": {
+      "rank": 44,
+      "name": "Paytm: Secure UPI Payments",
+      "app_id": "473941634",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1618405276": {
+      "rank": 45,
+      "name": "ReceiptHub",
+      "app_id": "1618405276",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1122288720": {
+      "rank": 46,
+      "name": "Western Union Australia",
+      "app_id": "1122288720",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:667318376": {
+      "rank": 47,
+      "name": "NRMA Insurance",
+      "app_id": "667318376",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:419259235": {
+      "rank": 48,
+      "name": "Bankwest",
+      "app_id": "419259235",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1363864739": {
+      "rank": 49,
+      "name": "Beem - Digital Wallet",
+      "app_id": "1363864739",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6479733294": {
+      "rank": 50,
+      "name": "Qantas Pay",
+      "app_id": "6479733294",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1575314832": {
+      "rank": 51,
+      "name": "Wagepay: Access up to 3,000",
+      "app_id": "1575314832",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1205990992": {
+      "rank": 52,
+      "name": "TradingView: Track All Markets",
+      "app_id": "1205990992",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1478582360": {
+      "rank": 53,
+      "name": "Beforepay: Borrow up to 5000",
+      "app_id": "1478582360",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:839333328": {
+      "rank": 54,
+      "name": "Toss - Make finance easier",
+      "app_id": "839333328",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1232128380": {
+      "rank": 55,
+      "name": "Australian Retirement Trust",
+      "app_id": "1232128380",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1179563005": {
+      "rank": 56,
+      "name": "Frollo - Feel good about money",
+      "app_id": "1179563005",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1056640628": {
+      "rank": 57,
+      "name": "ClearScore \u2013 Credit Score",
+      "app_id": "1056640628",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:566325832": {
+      "rank": 58,
+      "name": "Trading 212 - Stocks & ETFs",
+      "app_id": "566325832",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1541949985": {
+      "rank": 59,
+      "name": "CoinSpot - Buy & Sell Bitcoin",
+      "app_id": "1541949985",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6746297021": {
+      "rank": 60,
+      "name": "Fundo: Fast & Easy Loans",
+      "app_id": "6746297021",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6741115427": {
+      "rank": 61,
+      "name": "fomo - never miss out",
+      "app_id": "6741115427",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:294380705": {
+      "rank": 62,
+      "name": "St.George Mobile Banking",
+      "app_id": "294380705",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1601301148": {
+      "rank": 63,
+      "name": "invo: involio",
+      "app_id": "1601301148",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:936422955": {
+      "rank": 64,
+      "name": "Buddy: Money & Budget Planner",
+      "app_id": "936422955",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:482844929": {
+      "rank": 65,
+      "name": "Bendigo Bank",
+      "app_id": "482844929",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1522988743": {
+      "rank": 66,
+      "name": "MyPayNow",
+      "app_id": "1522988743",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1622758023": {
+      "rank": 67,
+      "name": "Kit - Pocket Money App & Card",
+      "app_id": "1622758023",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:886427730": {
+      "rank": 68,
+      "name": "Coinbase: Buy BTC, ETH, SOL",
+      "app_id": "886427730",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6752628611": {
+      "rank": 69,
+      "name": "MoveBank",
+      "app_id": "6752628611",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6680185694": {
+      "rank": 70,
+      "name": "Mercer Super",
+      "app_id": "6680185694",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1663706652": {
+      "rank": 71,
+      "name": "HESTA",
+      "app_id": "1663706652",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:988583982": {
+      "rank": 72,
+      "name": "Etax Mobile App (Australia)",
+      "app_id": "988583982",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6743446315": {
+      "rank": 73,
+      "name": "Computershare Investor Centre",
+      "app_id": "6743446315",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1461702710": {
+      "rank": 74,
+      "name": "Aware Super",
+      "app_id": "1461702710",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6496129289": {
+      "rank": 75,
+      "name": "Qantas Money Credit Cards",
+      "app_id": "6496129289",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6738336566": {
+      "rank": 76,
+      "name": "Welcome Suica Mobile",
+      "app_id": "6738336566",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:674984916": {
+      "rank": 77,
+      "name": "eToro: Trade & Invest",
+      "app_id": "674984916",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:454558592": {
+      "rank": 78,
+      "name": "IBKR Mobile - Invest Worldwide",
+      "app_id": "454558592",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6479383014": {
+      "rank": 79,
+      "name": "humm",
+      "app_id": "6479383014",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6751791423": {
+      "rank": 80,
+      "name": "Smart Salary Packaging",
+      "app_id": "6751791423",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1524236901": {
+      "rank": 81,
+      "name": "WeMoney: Pay off debt faster",
+      "app_id": "1524236901",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1402529056": {
+      "rank": 82,
+      "name": "Investor Centre - MUFG CM",
+      "app_id": "1402529056",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1500360633": {
+      "rank": 83,
+      "name": "XTrend Speed Trading",
+      "app_id": "1500360633",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6476960779": {
+      "rank": 84,
+      "name": "Refundid: Returns Tracking",
+      "app_id": "6476960779",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6446101163": {
+      "rank": 85,
+      "name": "Suncorp Insurance App",
+      "app_id": "6446101163",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1457525026": {
+      "rank": 86,
+      "name": "CommSec Pocket",
+      "app_id": "1457525026",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1571805487": {
+      "rank": 87,
+      "name": "Sharesies: Grow your wealth",
+      "app_id": "1571805487",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1436799971": {
+      "rank": 88,
+      "name": "Binance: Buy Bitcoin & Crypto",
+      "app_id": "1436799971",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1231393474": {
+      "rank": 89,
+      "name": "YONO SBI:Banking and Lifestyle",
+      "app_id": "1231393474",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:915194831": {
+      "rank": 90,
+      "name": "CBUS Super",
+      "app_id": "915194831",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:6578432956": {
+      "rank": 91,
+      "name": "AMP Bank GO",
+      "app_id": "6578432956",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:315241195": {
+      "rank": 92,
+      "name": "Xe Money Transfer & Currency",
+      "app_id": "315241195",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1409544432": {
+      "rank": 93,
+      "name": "CareSuper",
+      "app_id": "1409544432",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:349866256": {
+      "rank": 94,
+      "name": "tricount: Split & Settle Bills",
+      "app_id": "349866256",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1288339409": {
+      "rank": 95,
+      "name": "Trust: Crypto & Bitcoin Wallet",
+      "app_id": "1288339409",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:875855935": {
+      "rank": 96,
+      "name": "WorldRemit Send Money Overseas",
+      "app_id": "875855935",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1466020462": {
+      "rank": 97,
+      "name": "Vault Payments",
+      "app_id": "1466020462",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:898121037": {
+      "rank": 98,
+      "name": "ANZ Shield",
+      "app_id": "898121037",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:417962622": {
+      "rank": 99,
+      "name": "Plus500: AU & Global Trading",
+      "app_id": "417962622",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6015:1065921908": {
+      "rank": 100,
+      "name": "Ria Money Transfer",
+      "app_id": "1065921908",
+      "label": "AU / Finance (free)",
+      "country": "au",
+      "category": 6015
+    },
+    "au:6024:632064380": {
+      "rank": 1,
+      "name": "Vinted: Pre-loved marketplace",
+      "app_id": "632064380",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:518684914": {
+      "rank": 2,
+      "name": "Depop - Buy & Sell Clothing",
+      "app_id": "518684914",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1489403660": {
+      "rank": 3,
+      "name": "Everyday Rewards",
+      "app_id": "1489403660",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:436672029": {
+      "rank": 4,
+      "name": "AliExpress Shopping App",
+      "app_id": "436672029",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:975089690": {
+      "rank": 5,
+      "name": "Woolworths",
+      "app_id": "975089690",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:297606951": {
+      "rank": 6,
+      "name": "Amazon - Shopping made easy",
+      "app_id": "297606951",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1641486558": {
+      "rank": 7,
+      "name": "Temu: Shop Like a Billionaire",
+      "app_id": "1641486558",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1488269261": {
+      "rank": 8,
+      "name": "Whatnot: Shop, Sell, Connect",
+      "app_id": "1488269261",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:529118855": {
+      "rank": 9,
+      "name": "Coles",
+      "app_id": "529118855",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:377842707": {
+      "rank": 10,
+      "name": "Flybuys",
+      "app_id": "377842707",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1086505626": {
+      "rank": 11,
+      "name": "ShopBack: Shop & Earn Cashback",
+      "app_id": "1086505626",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1223471316": {
+      "rank": 12,
+      "name": "Shop: All your favorite brands",
+      "app_id": "1223471316",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:859120662": {
+      "rank": 13,
+      "name": "UNIQLO AU",
+      "app_id": "859120662",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1559409852": {
+      "rank": 14,
+      "name": "Costco Wholesale Australia",
+      "app_id": "1559409852",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:878577184": {
+      "rank": 15,
+      "name": "SHEIN-Shopping Online",
+      "app_id": "878577184",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1611129681": {
+      "rank": 16,
+      "name": "Kmart Shop Low Prices For Life",
+      "app_id": "1611129681",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1230286588": {
+      "rank": 17,
+      "name": "Afterpay. Pay over time",
+      "app_id": "1230286588",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:503451073": {
+      "rank": 18,
+      "name": "Alibaba.com B2B Trade App",
+      "app_id": "503451073",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1589874371": {
+      "rank": 19,
+      "name": "BIG W",
+      "app_id": "1589874371",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1476031964": {
+      "rank": 20,
+      "name": "Bunnings",
+      "app_id": "1476031964",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6477397747": {
+      "rank": 21,
+      "name": "David Jones",
+      "app_id": "6477397747",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:282614216": {
+      "rank": 22,
+      "name": "eBay Marketplace: Shop & Sell",
+      "app_id": "282614216",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1452164827": {
+      "rank": 23,
+      "name": "IKEA",
+      "app_id": "1452164827",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:387682726": {
+      "rank": 24,
+      "name": "Taobao - Online Shopping App",
+      "app_id": "387682726",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1456060976": {
+      "rank": 25,
+      "name": "Westfield ANZ",
+      "app_id": "1456060976",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:429158202": {
+      "rank": 26,
+      "name": "ALDI Australia",
+      "app_id": "429158202",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1558969341": {
+      "rank": 27,
+      "name": "MECCA - Beauty Shopping",
+      "app_id": "1558969341",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:834465911": {
+      "rank": 28,
+      "name": "H&M",
+      "app_id": "834465911",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:336693856": {
+      "rank": 29,
+      "name": "Gumtree: Find local ads & jobs",
+      "app_id": "336693856",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:477128284": {
+      "rank": 30,
+      "name": "Etsy: Shop Home, Style & More",
+      "app_id": "477128284",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1032594453": {
+      "rank": 31,
+      "name": "My 7-Eleven",
+      "app_id": "1032594453",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1152899196": {
+      "rank": 32,
+      "name": "Sephora - Beauty Shopping",
+      "app_id": "1152899196",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1633382307": {
+      "rank": 33,
+      "name": "Zyft: Compare Prices & Save",
+      "app_id": "1633382307",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1545920983": {
+      "rank": 34,
+      "name": "Halara",
+      "app_id": "1545920983",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:440622971": {
+      "rank": 35,
+      "name": "Target Australia",
+      "app_id": "440622971",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1095459556": {
+      "rank": 36,
+      "name": "Nike: Engineered for Athletes",
+      "app_id": "1095459556",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6511222021": {
+      "rank": 37,
+      "name": "Petbarn: Pet Store & Advice",
+      "app_id": "6511222021",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6529527364": {
+      "rank": 38,
+      "name": "IGA Rewards",
+      "app_id": "6529527364",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1213279685": {
+      "rank": 39,
+      "name": "Bunnings PowerPass",
+      "app_id": "1213279685",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1633002640": {
+      "rank": 40,
+      "name": "OnePass: Get more value",
+      "app_id": "1633002640",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1609639566": {
+      "rank": 41,
+      "name": "Nespresso Store",
+      "app_id": "1609639566",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1569202865": {
+      "rank": 42,
+      "name": "Cars24 - Quality Used Cars",
+      "app_id": "1569202865",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:686483021": {
+      "rank": 43,
+      "name": "THE ICONIC \u2013 Fashion Shopping",
+      "app_id": "686483021",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:599608562": {
+      "rank": 44,
+      "name": "UNiDAYS: Student Deals",
+      "app_id": "599608562",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1637398997": {
+      "rank": 45,
+      "name": "Blue Light Card",
+      "app_id": "1637398997",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1525273016": {
+      "rank": 46,
+      "name": "Glassons",
+      "app_id": "1525273016",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1163043312": {
+      "rank": 47,
+      "name": "Officeworks",
+      "app_id": "1163043312",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1467166838": {
+      "rank": 48,
+      "name": "Cotton On",
+      "app_id": "1467166838",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1497477178": {
+      "rank": 49,
+      "name": "Temple & Webster",
+      "app_id": "1497477178",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:348364305": {
+      "rank": 50,
+      "name": "Next: Shop Fashion & Homeware",
+      "app_id": "348364305",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:742044692": {
+      "rank": 51,
+      "name": "Flipkart - Online Shopping App",
+      "app_id": "742044692",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1266591536": {
+      "rank": 52,
+      "name": "adidas: Shoes & Clothing",
+      "app_id": "1266591536",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:905869418": {
+      "rank": 53,
+      "name": "DHgate-Online Wholesale Stores",
+      "app_id": "905869418",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:935546571": {
+      "rank": 54,
+      "name": "Kogan.com Shopping",
+      "app_id": "935546571",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:547951480": {
+      "rank": 55,
+      "name": "ZARA",
+      "app_id": "547951480",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:690602681": {
+      "rank": 56,
+      "name": "JD Sports",
+      "app_id": "690602681",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1457958492": {
+      "rank": 57,
+      "name": "Meesho: Online Shopping",
+      "app_id": "1457958492",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:934030757": {
+      "rank": 58,
+      "name": "Foot Locker - Shop Releases",
+      "app_id": "934030757",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1591312803": {
+      "rank": 59,
+      "name": "Sortd | Shopping Wishlist App",
+      "app_id": "1591312803",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1539133680": {
+      "rank": 60,
+      "name": "CIDER - Clothing & Fashion",
+      "app_id": "1539133680",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1466755724": {
+      "rank": 61,
+      "name": "OLIVE YOUNG Global",
+      "app_id": "1466755724",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1583672828": {
+      "rank": 62,
+      "name": "White Fox Boutique",
+      "app_id": "1583672828",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:457876088": {
+      "rank": 63,
+      "name": "ASOS - Discover Fashion Online",
+      "app_id": "457876088",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1138840268": {
+      "rank": 64,
+      "name": "PrettyLittleThing",
+      "app_id": "1138840268",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1047060902": {
+      "rank": 65,
+      "name": "Prezzee eGift cards",
+      "app_id": "1047060902",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:636609212": {
+      "rank": 66,
+      "name": "iHerb: Vitamins & Supplements",
+      "app_id": "636609212",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6636519914": {
+      "rank": 67,
+      "name": "truly local Rewards",
+      "app_id": "6636519914",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6748931915": {
+      "rank": 68,
+      "name": "Priceline Pharmacy | Shopping",
+      "app_id": "6748931915",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1491420831": {
+      "rank": 69,
+      "name": "Princess Polly: Fashion Shop",
+      "app_id": "1491420831",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6469306608": {
+      "rank": 70,
+      "name": "City Beach",
+      "app_id": "6469306608",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:907394059": {
+      "rank": 71,
+      "name": "Myntra - Fashion Shopping App",
+      "app_id": "907394059",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:446366839": {
+      "rank": 72,
+      "name": "ShopFully",
+      "app_id": "446366839",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:352683833": {
+      "rank": 73,
+      "name": "Groupon - Local Deals Near Me",
+      "app_id": "352683833",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:946403534": {
+      "rank": 74,
+      "name": "Lush Fresh Handmade Cosmetics",
+      "app_id": "946403534",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6462980236": {
+      "rank": 75,
+      "name": "Go Rewards - Loyalty, Receipts",
+      "app_id": "6462980236",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1243002302": {
+      "rank": 76,
+      "name": "Engage (SmartSpending)",
+      "app_id": "1243002302",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1612155383": {
+      "rank": 77,
+      "name": "Pet Circle: Shop pet supplies",
+      "app_id": "1612155383",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:899147555": {
+      "rank": 78,
+      "name": "DJI - Try Virtual Flight",
+      "app_id": "899147555",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1460077113": {
+      "rank": 79,
+      "name": "Coupert: Coupons & Cash Back",
+      "app_id": "1460077113",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1439872423": {
+      "rank": 80,
+      "name": "Nykaa Fashion - Shopping App",
+      "app_id": "1439872423",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1022363908": {
+      "rank": 81,
+      "name": "Nykaa \u2013 Makeup/Beauty Shopping",
+      "app_id": "1022363908",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1563024677": {
+      "rank": 82,
+      "name": "PUMA | Shop Clothes & Trainers",
+      "app_id": "1563024677",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1640761158": {
+      "rank": 83,
+      "name": "Cellarbrations",
+      "app_id": "1640761158",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1660656699": {
+      "rank": 84,
+      "name": "Muscle Republic",
+      "app_id": "1660656699",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1154027990": {
+      "rank": 85,
+      "name": "LTK: Shop Trusted Recs",
+      "app_id": "1154027990",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6738619733": {
+      "rank": 86,
+      "name": "Instamart: Groceries & more",
+      "app_id": "6738619733",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1575323645": {
+      "rank": 87,
+      "name": "Zepto: Groceries in minutes",
+      "app_id": "1575323645",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6447516226": {
+      "rank": 88,
+      "name": "Post Tracking App in Australia",
+      "app_id": "6447516226",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6581479710": {
+      "rank": 89,
+      "name": "Hairhouse",
+      "app_id": "6581479710",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6447824575": {
+      "rank": 90,
+      "name": "IGA",
+      "app_id": "6447824575",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1044283059": {
+      "rank": 91,
+      "name": "Pinduoduo",
+      "app_id": "1044283059",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6482576688": {
+      "rank": 92,
+      "name": "SuperCards: Store Card",
+      "app_id": "6482576688",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6737223418": {
+      "rank": 93,
+      "name": "BABYBOO",
+      "app_id": "6737223418",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1642630011": {
+      "rank": 94,
+      "name": "Ally Fashion",
+      "app_id": "1642630011",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6450524262": {
+      "rank": 95,
+      "name": "Best&Less",
+      "app_id": "6450524262",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:6630376768": {
+      "rank": 96,
+      "name": "Savana - Fashion from London",
+      "app_id": "6630376768",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:472912032": {
+      "rank": 97,
+      "name": "Chrono24",
+      "app_id": "472912032",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1521952371": {
+      "rank": 98,
+      "name": "Spudshed",
+      "app_id": "1521952371",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1177423676": {
+      "rank": 99,
+      "name": "Cupshe - Clothing & Swimsuit",
+      "app_id": "1177423676",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "au:6024:1619068287": {
+      "rank": 100,
+      "name": "TopCashback: Cashback & Offers",
+      "app_id": "1619068287",
+      "label": "AU / Shopping (free)",
+      "country": "au",
+      "category": 6024
+    },
+    "us:6015:1632713844": {
+      "rank": 1,
+      "name": "Kalshi: Trade the World Cup",
+      "app_id": "1632713844",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6648798962": {
+      "rank": 2,
+      "name": "Polymarket",
+      "app_id": "6648798962",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:283646709": {
+      "rank": 3,
+      "name": "PayPal - Pay, Send, Save",
+      "app_id": "283646709",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:711923939": {
+      "rank": 4,
+      "name": "Cash App",
+      "app_id": "711923939",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:351727428": {
+      "rank": 5,
+      "name": "Venmo",
+      "app_id": "351727428",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:407558537": {
+      "rank": 6,
+      "name": "Capital One Mobile",
+      "app_id": "407558537",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6767364919": {
+      "rank": 7,
+      "name": "Trump Accounts: Official App",
+      "app_id": "6767364919",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:298867247": {
+      "rank": 8,
+      "name": "Chase Mobile\u00ae: Bank & Invest",
+      "app_id": "298867247",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:836215269": {
+      "rank": 9,
+      "name": "Chime\u00ae \u2013 Mobile Banking",
+      "app_id": "836215269",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1494523953": {
+      "rank": 10,
+      "name": "OnePay \u2013 Mobile Banking",
+      "app_id": "1494523953",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1115120118": {
+      "rank": 11,
+      "name": "Klarna: Smarter everyday money",
+      "app_id": "1115120118",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:349731802": {
+      "rank": 12,
+      "name": "Progressive",
+      "app_id": "349731802",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:348177453": {
+      "rank": 13,
+      "name": "Fidelity Investments",
+      "app_id": "348177453",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:519817714": {
+      "rank": 14,
+      "name": "Intuit Credit Karma",
+      "app_id": "519817714",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1130616675": {
+      "rank": 15,
+      "name": "Rocket Money - Bills & Budgets",
+      "app_id": "1130616675",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:284847138": {
+      "rank": 16,
+      "name": "Bank of America Mobile Banking",
+      "app_id": "284847138",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1191985736": {
+      "rank": 17,
+      "name": "SoFi: Bank, Invest & Crypto",
+      "app_id": "1191985736",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:311548709": {
+      "rank": 18,
+      "name": "Wells Fargo Mobile\u00ae",
+      "app_id": "311548709",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:301724680": {
+      "rank": 19,
+      "name": "Citi Mobile\u00ae",
+      "app_id": "301724680",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1447274646": {
+      "rank": 20,
+      "name": "Cleo AI: Cash Advance & Budget",
+      "app_id": "1447274646",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6472350114": {
+      "rank": 21,
+      "name": "Grant Cash Advance",
+      "app_id": "6472350114",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:331763096": {
+      "rank": 22,
+      "name": "GEICO Mobile - Car Insurance",
+      "app_id": "331763096",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:938003185": {
+      "rank": 23,
+      "name": "Robinhood: Trading & Investing",
+      "app_id": "938003185",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1193801909": {
+      "rank": 24,
+      "name": "Dave: Credit, Cash & Money App",
+      "app_id": "1193801909",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:362348516": {
+      "rank": 25,
+      "name": "Amex",
+      "app_id": "362348516",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:318142137": {
+      "rank": 26,
+      "name": "State Farm\u00ae",
+      "app_id": "318142137",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1554623825": {
+      "rank": 27,
+      "name": "Alinea: Automated Investing",
+      "app_id": "1554623825",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1087101090": {
+      "rank": 28,
+      "name": "Experian\u00ae",
+      "app_id": "1087101090",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1341884073": {
+      "rank": 29,
+      "name": "Brigit: Cash Advance & Credit",
+      "app_id": "1341884073",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:674258465": {
+      "rank": 30,
+      "name": "Remitly: Send money abroad",
+      "app_id": "674258465",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1241984225": {
+      "rank": 31,
+      "name": "Testerup: Test & Earn Rewards",
+      "app_id": "1241984225",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1136397354": {
+      "rank": 32,
+      "name": "Tilt: Cash Advance & Credit",
+      "app_id": "1136397354",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1617487581": {
+      "rank": 33,
+      "name": "Atlas - Rewards Credit Card",
+      "app_id": "1617487581",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1128712763": {
+      "rank": 34,
+      "name": "Credit One Bank Mobile",
+      "app_id": "1128712763",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1064677082": {
+      "rank": 35,
+      "name": "MoneyLion: Banking & Cash Back",
+      "app_id": "1064677082",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1077366211": {
+      "rank": 36,
+      "name": "Current - Mobile Banking",
+      "app_id": "1077366211",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1525159784": {
+      "rank": 37,
+      "name": "Kikoff \u2013\u00a0Build Credit Quickly",
+      "app_id": "1525159784",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:886427730": {
+      "rank": 38,
+      "name": "Coinbase: Buy Crypto & Stocks",
+      "app_id": "886427730",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1471211372": {
+      "rank": 39,
+      "name": "Klover - Instant Cash Advance",
+      "app_id": "1471211372",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1511043796": {
+      "rank": 40,
+      "name": "Bright: Loans & Credit Builder",
+      "app_id": "1511043796",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1613625799": {
+      "rank": 41,
+      "name": "Autopilot: Automated Investing",
+      "app_id": "1613625799",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1413346006": {
+      "rank": 42,
+      "name": "Taptap Send: Money Transfer",
+      "app_id": "1413346006",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1205990992": {
+      "rank": 43,
+      "name": "TradingView: Track All Markets",
+      "app_id": "1205990992",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1588301749": {
+      "rank": 44,
+      "name": "Credit Genie: Get Cash Advance",
+      "app_id": "1588301749",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:932493382": {
+      "rank": 45,
+      "name": "Revolut: Send, spend and save",
+      "app_id": "932493382",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:458023433": {
+      "rank": 46,
+      "name": "Splitwise",
+      "app_id": "458023433",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:612261027": {
+      "rank": 47,
+      "name": "Wise - Global Money",
+      "app_id": "612261027",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6469882919": {
+      "rank": 48,
+      "name": "Bank OZK Mobile Banking",
+      "app_id": "6469882919",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6741115427": {
+      "rank": 49,
+      "name": "fomo - never miss out",
+      "app_id": "6741115427",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6757243731": {
+      "rank": 50,
+      "name": "Cash Advance - Payday Brin",
+      "app_id": "6757243731",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1459319842": {
+      "rank": 51,
+      "name": "Monarch: Budget & Track Money",
+      "app_id": "1459319842",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1001257338": {
+      "rank": 52,
+      "name": "Empower \u00ae",
+      "app_id": "1001257338",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:338010821": {
+      "rank": 53,
+      "name": "Discover Mobile",
+      "app_id": "338010821",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1450304211": {
+      "rank": 54,
+      "name": "Super.com - Save, Earn, Travel",
+      "app_id": "1450304211",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:364376344": {
+      "rank": 55,
+      "name": "Allstate\u00ae Mobile",
+      "app_id": "364376344",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:723815926": {
+      "rank": 56,
+      "name": "EarnIn: Beyond Cash Advance",
+      "app_id": "723815926",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1517676784": {
+      "rank": 57,
+      "name": "Varo Bank: Online Banking",
+      "app_id": "1517676784",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1280992496": {
+      "rank": 58,
+      "name": "MySynchrony",
+      "app_id": "1280992496",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1057771088": {
+      "rank": 59,
+      "name": "Albert: Budgeting and Banking",
+      "app_id": "1057771088",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:397404511": {
+      "rank": 60,
+      "name": "Liberty Mutual Mobile",
+      "app_id": "397404511",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1380384597": {
+      "rank": 61,
+      "name": "Possible: Fast Cash & Credit",
+      "app_id": "1380384597",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1600495551": {
+      "rank": 62,
+      "name": "Bread Financial",
+      "app_id": "1600495551",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1399085077": {
+      "rank": 63,
+      "name": "DailyPay On-Demand Pay",
+      "app_id": "1399085077",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6449258739": {
+      "rank": 64,
+      "name": "Concora Credit",
+      "app_id": "6449258739",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:425199399": {
+      "rank": 65,
+      "name": "Barclays US",
+      "app_id": "425199399",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1458274896": {
+      "rank": 66,
+      "name": "Flex - Rent On Your Schedule",
+      "app_id": "1458274896",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:458734623": {
+      "rank": 67,
+      "name": "U.S. Bank Mobile Banking",
+      "app_id": "458734623",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:424716908": {
+      "rank": 68,
+      "name": "Western Union: Send Money",
+      "app_id": "424716908",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:407358186": {
+      "rank": 69,
+      "name": "Schwab Mobile",
+      "app_id": "407358186",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:640179084": {
+      "rank": 70,
+      "name": "NetBenefits",
+      "app_id": "640179084",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1398046228": {
+      "rank": 71,
+      "name": "ebtEDGE",
+      "app_id": "1398046228",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6450968733": {
+      "rank": 72,
+      "name": "Upstart: Personal Loans + More",
+      "app_id": "6450968733",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:370811491": {
+      "rank": 73,
+      "name": "Navy Federal Credit Union",
+      "app_id": "370811491",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1395667279": {
+      "rank": 74,
+      "name": "FloatMe: Fast Cash Advance App",
+      "app_id": "1395667279",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:883324671": {
+      "rank": 75,
+      "name": "Acorns: Save & Invest Money",
+      "app_id": "883324671",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:514374715": {
+      "rank": 76,
+      "name": "Ally: Bank, Auto & Invest",
+      "app_id": "514374715",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6502468755": {
+      "rank": 77,
+      "name": "myEquifax",
+      "app_id": "6502468755",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6443564349": {
+      "rank": 78,
+      "name": "True Finance: Cash Advance",
+      "app_id": "6443564349",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6779553876": {
+      "rank": 79,
+      "name": "Money Borrowing: Cash Advance",
+      "app_id": "6779553876",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6467380679": {
+      "rank": 80,
+      "name": "OPay Business",
+      "app_id": "6467380679",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1112719759": {
+      "rank": 81,
+      "name": "Propel: EBT, SNAP, WIC, & more",
+      "app_id": "1112719759",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:303113127": {
+      "rank": 82,
+      "name": "PNC Mobile Banking",
+      "app_id": "303113127",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1258315950": {
+      "rank": 83,
+      "name": "Jerry: Insurance & Car Care",
+      "app_id": "1258315950",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:642959434": {
+      "rank": 84,
+      "name": "HealthEquity Mobile",
+      "app_id": "642959434",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1569801600": {
+      "rank": 85,
+      "name": "Gerald - Cash Advance",
+      "app_id": "1569801600",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:335186209": {
+      "rank": 86,
+      "name": "Vanguard: Save, Invest, Retire",
+      "app_id": "335186209",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:942571931": {
+      "rank": 87,
+      "name": "EveryDollar: Budget Management",
+      "app_id": "942571931",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1507829573": {
+      "rank": 88,
+      "name": "ATM Cash Advance\u30fbInstant Money",
+      "app_id": "1507829573",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1486647561": {
+      "rank": 89,
+      "name": "Copper: Earn Cash",
+      "app_id": "1486647561",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1565576987": {
+      "rank": 90,
+      "name": "Bilt Rewards",
+      "app_id": "1565576987",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1230221247": {
+      "rank": 91,
+      "name": "MyCardWallet.",
+      "app_id": "1230221247",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:649008868": {
+      "rank": 92,
+      "name": "TransUnion\u00ae",
+      "app_id": "649008868",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:6751225067": {
+      "rank": 93,
+      "name": "Gocrypto: Crypto Trading",
+      "app_id": "6751225067",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1409169287": {
+      "rank": 94,
+      "name": "Lenme: Investing and Borrowing",
+      "app_id": "1409169287",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1584183782": {
+      "rank": 95,
+      "name": "Ava: Build Credit Fast",
+      "app_id": "1584183782",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1525101476": {
+      "rank": 96,
+      "name": "Beem: Cash Advance & Banking",
+      "app_id": "1525101476",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1055653645": {
+      "rank": 97,
+      "name": "Lemonade Insurance",
+      "app_id": "1055653645",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1421276642": {
+      "rank": 98,
+      "name": "Perpay - Shop and Build Credit",
+      "app_id": "1421276642",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1288339409": {
+      "rank": 99,
+      "name": "Trust: Crypto & Bitcoin Wallet",
+      "app_id": "1288339409",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6015:1049340702": {
+      "rank": 100,
+      "name": "Greenlight: For Families",
+      "app_id": "1049340702",
+      "label": "US / Finance (free)",
+      "country": "us",
+      "category": 6015
+    },
+    "us:6024:518684914": {
+      "rank": 1,
+      "name": "Depop - Buy & Sell Clothes",
+      "app_id": "518684914",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:632064380": {
+      "rank": 2,
+      "name": "Vinted: Pre-loved marketplace",
+      "app_id": "632064380",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1641486558": {
+      "rank": 3,
+      "name": "Temu: Shop Like a Billionaire",
+      "app_id": "1641486558",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1488269261": {
+      "rank": 4,
+      "name": "Whatnot: Shop, Sell, Connect",
+      "app_id": "1488269261",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:338137227": {
+      "rank": 5,
+      "name": "Walmart: Shopping & Savings",
+      "app_id": "338137227",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:878577184": {
+      "rank": 6,
+      "name": "SHEIN - Shopping Online",
+      "app_id": "878577184",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1223471316": {
+      "rank": 7,
+      "name": "Shop: All your favorite brands",
+      "app_id": "1223471316",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:297606951": {
+      "rank": 8,
+      "name": "Amazon Shopping",
+      "app_id": "297606951",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:436672029": {
+      "rank": 9,
+      "name": "AliExpress - Shopping App",
+      "app_id": "436672029",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:6751921248": {
+      "rank": 10,
+      "name": "Rips by Triumph",
+      "app_id": "6751921248",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:6745274862": {
+      "rank": 11,
+      "name": "DealSeek: Coupons & Discounts",
+      "app_id": "6745274862",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1182474649": {
+      "rank": 12,
+      "name": "Fetch: America\u2019s Rewards App",
+      "app_id": "1182474649",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1089294040": {
+      "rank": 13,
+      "name": "Capital One Shopping: Save Now",
+      "app_id": "1089294040",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:535509415": {
+      "rank": 14,
+      "name": "Costco",
+      "app_id": "535509415",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:282614216": {
+      "rank": 15,
+      "name": "eBay online shopping & selling",
+      "app_id": "282614216",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:297430070": {
+      "rank": 16,
+      "name": "Target: Shop. Style. Save.",
+      "app_id": "297430070",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:503451073": {
+      "rank": 17,
+      "name": "Alibaba.com",
+      "app_id": "503451073",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:382497397": {
+      "rank": 18,
+      "name": "Sam's Club Shopping & Delivery",
+      "app_id": "382497397",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1667151711": {
+      "rank": 19,
+      "name": "KashKick: Get paid to have fun",
+      "app_id": "1667151711",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1238611143": {
+      "rank": 20,
+      "name": "Lidl Plus",
+      "app_id": "1238611143",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:314855255": {
+      "rank": 21,
+      "name": "Best Buy: Tech Deals & Savings",
+      "app_id": "314855255",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:967040652": {
+      "rank": 22,
+      "name": "Affirm: Buy now, pay over time",
+      "app_id": "967040652",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:477128284": {
+      "rank": 23,
+      "name": "Etsy: Shop Home, Style & More",
+      "app_id": "477128284",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:342527639": {
+      "rank": 24,
+      "name": "The Home Depot",
+      "app_id": "342527639",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:429396645": {
+      "rank": 25,
+      "name": "ALDI Grocery Pickup & Delivery",
+      "app_id": "429396645",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:457954781": {
+      "rank": 26,
+      "name": "Lowe's Home Improvement",
+      "app_id": "457954781",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:836767708": {
+      "rank": 27,
+      "name": "Wayfair \u2013 Shop All Things Home",
+      "app_id": "836767708",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:474349412": {
+      "rank": 28,
+      "name": "Nordstrom",
+      "app_id": "474349412",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:468996152": {
+      "rank": 29,
+      "name": "OfferUp Buy & Sell Marketplace",
+      "app_id": "468996152",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:556653197": {
+      "rank": 30,
+      "name": "DICK\u2019S Sporting Goods",
+      "app_id": "556653197",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1095459556": {
+      "rank": 31,
+      "name": "Nike: Engineered for Athletes",
+      "app_id": "1095459556",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:335364882": {
+      "rank": 32,
+      "name": "Walgreens",
+      "app_id": "335364882",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:561930308": {
+      "rank": 33,
+      "name": "Ulta Beauty: Makeup & Skincare",
+      "app_id": "561930308",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1256027729": {
+      "rank": 34,
+      "name": "Bath & Body Works | B&BW",
+      "app_id": "1256027729",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1401019110": {
+      "rank": 35,
+      "name": "Afterpay: Pay over time",
+      "app_id": "1401019110",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1266591536": {
+      "rank": 36,
+      "name": "adidas: Shop Shoes & Clothing",
+      "app_id": "1266591536",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:905869418": {
+      "rank": 37,
+      "name": "DHgate-Online Wholesale Stores",
+      "app_id": "905869418",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:561311442": {
+      "rank": 38,
+      "name": "Dollar General-Digital Coupons",
+      "app_id": "561311442",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:393328150": {
+      "rank": 39,
+      "name": "Sephora US: Makeup & Skincare",
+      "app_id": "393328150",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1477500619": {
+      "rank": 40,
+      "name": "JD Sports: Exclusive rewards",
+      "app_id": "1477500619",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:352683833": {
+      "rank": 41,
+      "name": "Groupon - Local Deals Near Me",
+      "app_id": "352683833",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1609639566": {
+      "rank": 42,
+      "name": "Nespresso Store",
+      "app_id": "1609639566",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:336860594": {
+      "rank": 43,
+      "name": "Victoria's Secret\u2014Bras & More",
+      "app_id": "336860594",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:6504824477": {
+      "rank": 44,
+      "name": "Aeropostale: Teen Clothing",
+      "app_id": "6504824477",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:383915209": {
+      "rank": 45,
+      "name": "Hollister Co.",
+      "app_id": "383915209",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:814517475": {
+      "rank": 46,
+      "name": "CarGurus: Used & New Cars",
+      "app_id": "814517475",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:479267592": {
+      "rank": 47,
+      "name": "CARFAX - New & Used Cars",
+      "app_id": "479267592",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1452164827": {
+      "rank": 48,
+      "name": "IKEA",
+      "app_id": "1452164827",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1175467091": {
+      "rank": 49,
+      "name": "PetSmart",
+      "app_id": "1175467091",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1196434600": {
+      "rank": 50,
+      "name": "Family Dollar",
+      "app_id": "1196434600",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:342792281": {
+      "rank": 51,
+      "name": "Old Navy: Shop for New Clothes",
+      "app_id": "342792281",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:920098546": {
+      "rank": 52,
+      "name": "lululemon",
+      "app_id": "920098546",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:6670251421": {
+      "rank": 53,
+      "name": "Quince: Luxury Essentials",
+      "app_id": "6670251421",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:881599819": {
+      "rank": 54,
+      "name": "StockX - Sneakers and Apparel",
+      "app_id": "881599819",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1149449468": {
+      "rank": 55,
+      "name": "Chewy - Pet Care & Pharmacy",
+      "app_id": "1149449468",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1659445743": {
+      "rank": 56,
+      "name": "Dollar Tree",
+      "app_id": "1659445743",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1592397814": {
+      "rank": 57,
+      "name": "Circle K",
+      "app_id": "1592397814",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:470412147": {
+      "rank": 58,
+      "name": "Poshmark: Shop & Sell Fashion",
+      "app_id": "470412147",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1367363988": {
+      "rank": 59,
+      "name": "Fashion Nova: Trendy Shopping",
+      "app_id": "1367363988",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:437373394": {
+      "rank": 60,
+      "name": "Pacsun",
+      "app_id": "437373394",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:467738064": {
+      "rank": 61,
+      "name": "AE + Aerie",
+      "app_id": "467738064",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1425045070": {
+      "rank": 62,
+      "name": "Zip - Buy Now, Pay Later",
+      "app_id": "1425045070",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:472014516": {
+      "rank": 63,
+      "name": "Kohl's - Shopping & Discounts",
+      "app_id": "472014516",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:341036067": {
+      "rank": 64,
+      "name": "Macy's: Shop, Save, and Earn",
+      "app_id": "341036067",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:6752552771": {
+      "rank": 65,
+      "name": "GovAuctions.com - Shop Surplus",
+      "app_id": "6752552771",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:6742427992": {
+      "rank": 66,
+      "name": "Coop Co-op",
+      "app_id": "6742427992",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:547951480": {
+      "rank": 67,
+      "name": "ZARA",
+      "app_id": "547951480",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:403901186": {
+      "rank": 68,
+      "name": "Kroger",
+      "app_id": "403901186",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:934030757": {
+      "rank": 69,
+      "name": "Foot Locker - Shop Releases",
+      "app_id": "934030757",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1403420067": {
+      "rank": 70,
+      "name": "Boat Trader - Boats for Sale",
+      "app_id": "1403420067",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:896130944": {
+      "rank": 71,
+      "name": "Mercari: Buying & Selling App",
+      "app_id": "896130944",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1527063669": {
+      "rank": 72,
+      "name": "Four | Buy Now, Pay Later",
+      "app_id": "1527063669",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1273426583": {
+      "rank": 73,
+      "name": "Carvana: Buy/Sell Used Cars",
+      "app_id": "1273426583",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1539133680": {
+      "rank": 74,
+      "name": "CIDER - Clothing & Fashion",
+      "app_id": "1539133680",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:718582092": {
+      "rank": 75,
+      "name": "Babylist Baby Registry",
+      "app_id": "718582092",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:521487551": {
+      "rank": 76,
+      "name": "Safeway Deals & Delivery",
+      "app_id": "521487551",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:834465911": {
+      "rank": 77,
+      "name": "H&M",
+      "app_id": "834465911",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:6472232952": {
+      "rank": 78,
+      "name": "Koupon: Real Deals & Codes",
+      "app_id": "6472232952",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:326347260": {
+      "rank": 79,
+      "name": "Gap: Apparel, denim and more",
+      "app_id": "326347260",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1545920983": {
+      "rank": 80,
+      "name": "Halara",
+      "app_id": "1545920983",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1503741784": {
+      "rank": 81,
+      "name": "ALO",
+      "app_id": "1503741784",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1336642410": {
+      "rank": 82,
+      "name": "craigslist",
+      "app_id": "1336642410",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:562794249": {
+      "rank": 83,
+      "name": "Publix",
+      "app_id": "562794249",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1243733345": {
+      "rank": 84,
+      "name": "Garage: Online Fashion",
+      "app_id": "1243733345",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1570643833": {
+      "rank": 85,
+      "name": "Staples - Deals and Shopping",
+      "app_id": "1570643833",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1287596508": {
+      "rank": 86,
+      "name": "BJs Wholesale Club",
+      "app_id": "1287596508",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:353263352": {
+      "rank": 87,
+      "name": "Cars.com - New & Used Cars",
+      "app_id": "353263352",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:966758561": {
+      "rank": 88,
+      "name": "GOAT \u2013 Sneakers & Apparel",
+      "app_id": "966758561",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:599608562": {
+      "rank": 89,
+      "name": "UNiDAYS: Student Discount App",
+      "app_id": "599608562",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1284609872": {
+      "rank": 90,
+      "name": "UNIQLO: Clothes Shopping",
+      "app_id": "1284609872",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1533833273": {
+      "rank": 91,
+      "name": "Harbor Freight Tools",
+      "app_id": "1533833273",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:853330019": {
+      "rank": 92,
+      "name": "Nordstrom Rack: Shop Deals",
+      "app_id": "853330019",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1231524763": {
+      "rank": 93,
+      "name": "T.J.Maxx",
+      "app_id": "1231524763",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:6758816716": {
+      "rank": 94,
+      "name": "IcyBox",
+      "app_id": "6758816716",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:387682726": {
+      "rank": 95,
+      "name": "Taobao - Online Shopping App",
+      "app_id": "387682726",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1460077113": {
+      "rank": 96,
+      "name": "Coupert: Coupons & Cash Back",
+      "app_id": "1460077113",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:339041767": {
+      "rank": 97,
+      "name": "Abercrombie & Fitch",
+      "app_id": "339041767",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:339883869": {
+      "rank": 98,
+      "name": "Bed Bath & Beyond",
+      "app_id": "339883869",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1477891300": {
+      "rank": 99,
+      "name": "My H-E-B",
+      "app_id": "1477891300",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "us:6024:1495294584": {
+      "rank": 100,
+      "name": "Ace Hardware",
+      "app_id": "1495294584",
+      "label": "US / Shopping (free)",
+      "country": "us",
+      "category": 6024
+    },
+    "gb:6015:469964520": {
+      "rank": 1,
+      "name": "Lloyds Mobile Banking",
+      "app_id": "469964520",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1052238659": {
+      "rank": 2,
+      "name": "Monzo Bank - Mobile Banking",
+      "app_id": "1052238659",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:932493382": {
+      "rank": 3,
+      "name": "Revolut \u2014 Mobile Finance",
+      "app_id": "932493382",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:514561561": {
+      "rank": 4,
+      "name": "HMRC",
+      "app_id": "514561561",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1241984225": {
+      "rank": 5,
+      "name": "Testerup: Test & Earn Rewards",
+      "app_id": "1241984225",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1115120118": {
+      "rank": 6,
+      "name": "Klarna: Smarter everyday money",
+      "app_id": "1115120118",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:283646709": {
+      "rank": 7,
+      "name": "PayPal - Send, Manage, Pay",
+      "app_id": "283646709",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1445703716": {
+      "rank": 8,
+      "name": "Zable - Mobile Finance",
+      "app_id": "1445703716",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6444340959": {
+      "rank": 9,
+      "name": "Creation Finance",
+      "app_id": "6444340959",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:566325832": {
+      "rank": 10,
+      "name": "Trading 212",
+      "app_id": "566325832",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1295066030": {
+      "rank": 11,
+      "name": "Hastings Direct Insurance",
+      "app_id": "1295066030",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:542355130": {
+      "rank": 12,
+      "name": "Nationwide Mobile Banking",
+      "app_id": "542355130",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:334855322": {
+      "rank": 13,
+      "name": "NatWest Mobile Banking",
+      "app_id": "334855322",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:458023433": {
+      "rank": 14,
+      "name": "Splitwise",
+      "app_id": "458023433",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:536248734": {
+      "rank": 15,
+      "name": "Barclays",
+      "app_id": "536248734",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:481679012": {
+      "rank": 16,
+      "name": "Capital One UK",
+      "app_id": "481679012",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1517121245": {
+      "rank": 17,
+      "name": "Chase UK",
+      "app_id": "1517121245",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:956806430": {
+      "rank": 18,
+      "name": "Starling - Mobile Banking",
+      "app_id": "956806430",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1220329065": {
+      "rank": 19,
+      "name": "HSBC UK Mobile Banking",
+      "app_id": "1220329065",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:979980804": {
+      "rank": 20,
+      "name": "Cuvva",
+      "app_id": "979980804",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1545361238": {
+      "rank": 21,
+      "name": "Zilch: Smart Credit",
+      "app_id": "1545361238",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1114748256": {
+      "rank": 22,
+      "name": "Experian: Credit Score",
+      "app_id": "1114748256",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:972986352": {
+      "rank": 23,
+      "name": "Compare the Market: Meerkat",
+      "app_id": "972986352",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1270062373": {
+      "rank": 24,
+      "name": "Emma - Budget Planner Tracker",
+      "app_id": "1270062373",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:612261027": {
+      "rank": 25,
+      "name": "Wise - Global Money",
+      "app_id": "612261027",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:596487185": {
+      "rank": 26,
+      "name": "Barclaycard",
+      "app_id": "596487185",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1049797239": {
+      "rank": 27,
+      "name": "Moneybox - Save and Invest",
+      "app_id": "1049797239",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:399021772": {
+      "rank": 28,
+      "name": "Amex United Kingdom",
+      "app_id": "399021772",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1504836142": {
+      "rank": 29,
+      "name": "Sprive - Mortgage Free, Faster",
+      "app_id": "1504836142",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6745947872": {
+      "rank": 30,
+      "name": "Argos Pay",
+      "app_id": "6745947872",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:482973524": {
+      "rank": 31,
+      "name": "Santander Mobile Banking",
+      "app_id": "482973524",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1570100560": {
+      "rank": 32,
+      "name": "DriveScore - Save on Insurance",
+      "app_id": "1570100560",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:852352703": {
+      "rank": 33,
+      "name": "MyAviva - Insurance & finance",
+      "app_id": "852352703",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1612215379": {
+      "rank": 34,
+      "name": "Frasers Plus",
+      "app_id": "1612215379",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1324011914": {
+      "rank": 35,
+      "name": "Zopa Bank \u2013 Mobile Banking",
+      "app_id": "1324011914",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1056640628": {
+      "rank": 36,
+      "name": "ClearScore: Check Credit Score",
+      "app_id": "1056640628",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:486355738": {
+      "rank": 37,
+      "name": "Halifax Mobile Banking",
+      "app_id": "486355738",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:935274056": {
+      "rank": 38,
+      "name": "MoneySuperMarket",
+      "app_id": "935274056",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1059355733": {
+      "rank": 39,
+      "name": "Aqua credit card",
+      "app_id": "1059355733",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:674258465": {
+      "rank": 40,
+      "name": "Remitly: Fast money transfers",
+      "app_id": "674258465",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1458682017": {
+      "rank": 41,
+      "name": "Bits Credit Card and More",
+      "app_id": "1458682017",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1552373275": {
+      "rank": 42,
+      "name": "Veygo by Admiral Insurance",
+      "app_id": "1552373275",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6547853209": {
+      "rank": 43,
+      "name": "Direct Line",
+      "app_id": "6547853209",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1456139507": {
+      "rank": 44,
+      "name": "Plum: Smart Saving & Investing",
+      "app_id": "1456139507",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1435763477": {
+      "rank": 45,
+      "name": "Virgin Money Credit Card",
+      "app_id": "1435763477",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:857834425": {
+      "rank": 46,
+      "name": "Tesco Bank",
+      "app_id": "857834425",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:670206860": {
+      "rank": 47,
+      "name": "Confused.com: Cheap Insurance",
+      "app_id": "670206860",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1413346006": {
+      "rank": 48,
+      "name": "Taptap Send: Money Transfer",
+      "app_id": "1413346006",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1590502794": {
+      "rank": 49,
+      "name": "MoneySavingExpert",
+      "app_id": "1590502794",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6747378638": {
+      "rank": 50,
+      "name": "Vanquis Credit Card",
+      "app_id": "6747378638",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1562164202": {
+      "rank": 51,
+      "name": "Renewal from Go.Compare",
+      "app_id": "1562164202",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:965170355": {
+      "rank": 52,
+      "name": "M&S Bank",
+      "app_id": "965170355",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1140086177": {
+      "rank": 53,
+      "name": "Tide - Mobile Business Banking",
+      "app_id": "1140086177",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:674984916": {
+      "rank": 54,
+      "name": "etoro: Trade & Invest",
+      "app_id": "674984916",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1571757427": {
+      "rank": 55,
+      "name": "Swiipr",
+      "app_id": "1571757427",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1502431233": {
+      "rank": 56,
+      "name": "Scottish Widows",
+      "app_id": "1502431233",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:349866256": {
+      "rank": 57,
+      "name": "tricount: Split & Settle Bills",
+      "app_id": "349866256",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1363511325": {
+      "rank": 58,
+      "name": "Stream - Workplace Finance",
+      "app_id": "1363511325",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1499857038": {
+      "rank": 59,
+      "name": "Revolut \u2014 Teen Finance",
+      "app_id": "1499857038",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1601301148": {
+      "rank": 60,
+      "name": "invo: involio",
+      "app_id": "1601301148",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1351183172": {
+      "rank": 61,
+      "name": "bKash",
+      "app_id": "1351183172",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:413251709": {
+      "rank": 62,
+      "name": "MetaTrader 5",
+      "app_id": "413251709",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:886427730": {
+      "rank": 63,
+      "name": "Coinbase: Buy BTC, ETH, SOL",
+      "app_id": "886427730",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1205990992": {
+      "rank": 64,
+      "name": "TradingView: Track All Markets",
+      "app_id": "1205990992",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1465077416": {
+      "rank": 65,
+      "name": "NS&I",
+      "app_id": "1465077416",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1544485226": {
+      "rank": 66,
+      "name": "Marshmallow Insurance",
+      "app_id": "1544485226",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1644278201": {
+      "rank": 67,
+      "name": "V12 Retail Finance",
+      "app_id": "1644278201",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1022334791": {
+      "rank": 68,
+      "name": "Pockit: Bank Card Alternative",
+      "app_id": "1022334791",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:938003185": {
+      "rank": 69,
+      "name": "Robinhood Trading & Investing",
+      "app_id": "938003185",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1102793407": {
+      "rank": 70,
+      "name": "Monese - A banking alternative",
+      "app_id": "1102793407",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6477530993": {
+      "rank": 71,
+      "name": "Nest Pensions",
+      "app_id": "6477530993",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1045347175": {
+      "rank": 72,
+      "name": "Western Union Money Transfer",
+      "app_id": "1045347175",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1533066809": {
+      "rank": 73,
+      "name": "LemFi",
+      "app_id": "1533066809",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1142518947": {
+      "rank": 74,
+      "name": "Dayinsure - Temp Car Cover",
+      "app_id": "1142518947",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:743769885": {
+      "rank": 75,
+      "name": "NatWest Rooster Money",
+      "app_id": "743769885",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:683249974": {
+      "rank": 76,
+      "name": "GoHenry: Kids & Teens Banking",
+      "app_id": "683249974",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6744527303": {
+      "rank": 77,
+      "name": "Love2shop Digital",
+      "app_id": "6744527303",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6449426245": {
+      "rank": 78,
+      "name": "Legal & General",
+      "app_id": "6449426245",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1398558151": {
+      "rank": 79,
+      "name": "Credit Karma \u2014 Credit Score",
+      "app_id": "1398558151",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:405905004": {
+      "rank": 80,
+      "name": "first direct",
+      "app_id": "405905004",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1436799971": {
+      "rank": 81,
+      "name": "Binance: Buy Bitcoin & Crypto",
+      "app_id": "1436799971",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1471844924": {
+      "rank": 82,
+      "name": "Nagad",
+      "app_id": "1471844924",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6751199382": {
+      "rank": 83,
+      "name": "Skipton by invite",
+      "app_id": "6751199382",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1160720878": {
+      "rank": 84,
+      "name": "TSB Mobile Banking",
+      "app_id": "1160720878",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:450465506": {
+      "rank": 85,
+      "name": "Hargreaves Lansdown",
+      "app_id": "450465506",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:687485560": {
+      "rank": 86,
+      "name": "MBNA Mobile App",
+      "app_id": "687485560",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6742173089": {
+      "rank": 87,
+      "name": "GoShorty - Temporary Insurance",
+      "app_id": "6742173089",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1436969262": {
+      "rank": 88,
+      "name": "Revolut Business",
+      "app_id": "1436969262",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1173230823": {
+      "rank": 89,
+      "name": "Zego Delivery",
+      "app_id": "1173230823",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6550910426": {
+      "rank": 90,
+      "name": "Mylo from Aegon",
+      "app_id": "6550910426",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6755972401": {
+      "rank": 91,
+      "name": "myEquifax UK",
+      "app_id": "6755972401",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1510862201": {
+      "rank": 92,
+      "name": "Xero Verify",
+      "app_id": "1510862201",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:485728109": {
+      "rank": 93,
+      "name": "Bank of Scotland Mobile Bank",
+      "app_id": "485728109",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6476108034": {
+      "rank": 94,
+      "name": "Vanguard UK",
+      "app_id": "6476108034",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1489511701": {
+      "rank": 95,
+      "name": "Marcus UK: Online savings bank",
+      "app_id": "1489511701",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6474373367": {
+      "rank": 96,
+      "name": "The People\u2019s Pension",
+      "app_id": "6474373367",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1481947260": {
+      "rank": 97,
+      "name": "Kraken: Buy Bitcoin & Crypto",
+      "app_id": "1481947260",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:6444683240": {
+      "rank": 98,
+      "name": "Aspora: Send Money to India",
+      "app_id": "6444683240",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1598432977": {
+      "rank": 99,
+      "name": "Phantom - Trade Markets",
+      "app_id": "1598432977",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "gb:6015:1339625620": {
+      "rank": 100,
+      "name": "Tempcover: car & van insurance",
+      "app_id": "1339625620",
+      "label": "GB / Finance (free)",
+      "country": "gb",
+      "category": 6015
+    },
+    "us:6023:719972451": {
+      "rank": 1,
+      "name": "DoorDash: Food, Grocery, More",
+      "app_id": "719972451",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:922103212": {
+      "rank": 2,
+      "name": "McDonald's",
+      "app_id": "922103212",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1058959277": {
+      "rank": 3,
+      "name": "Uber Eats: Food & Groceries",
+      "app_id": "1058959277",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:436491861": {
+      "rank": 4,
+      "name": "Domino's Pizza USA",
+      "app_id": "436491861",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:284910350": {
+      "rank": 5,
+      "name": "Yelp: Food, Services & Reviews",
+      "app_id": "284910350",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:488818252": {
+      "rank": 6,
+      "name": "Chick-fil-A",
+      "app_id": "488818252",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:497387361": {
+      "rank": 7,
+      "name": "Taco Bell Fast Food & Delivery",
+      "app_id": "497387361",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:454719277": {
+      "rank": 8,
+      "name": "Wingstop",
+      "app_id": "454719277",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1060683933": {
+      "rank": 9,
+      "name": "Too Good To Go: Save Good Food",
+      "app_id": "1060683933",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1529179884": {
+      "rank": 10,
+      "name": "Dutch Bros",
+      "app_id": "1529179884",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:545599256": {
+      "rank": 11,
+      "name": "Instacart: Groceries & Food",
+      "app_id": "545599256",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:296581815": {
+      "rank": 12,
+      "name": "OpenTable",
+      "app_id": "296581815",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:327228455": {
+      "rank": 13,
+      "name": "Chipotle",
+      "app_id": "327228455",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:331177714": {
+      "rank": 14,
+      "name": "Starbucks",
+      "app_id": "331177714",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1593779280": {
+      "rank": 15,
+      "name": "ReciMe: Recipes & Meal Planner",
+      "app_id": "1593779280",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1362180579": {
+      "rank": 16,
+      "name": "Toast - Local Restaurants",
+      "app_id": "1362180579",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:992600579": {
+      "rank": 17,
+      "name": "Little Caesars Pizza",
+      "app_id": "992600579",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:6756440767": {
+      "rank": 18,
+      "name": "Localize - Farmers Market",
+      "app_id": "6756440767",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:638323895": {
+      "rank": 19,
+      "name": "BURGER KING\u00ae App",
+      "app_id": "638323895",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:321560858": {
+      "rank": 20,
+      "name": "Pizza Hut - Delivery & Takeout",
+      "app_id": "321560858",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:589653414": {
+      "rank": 21,
+      "name": "7-Eleven: Rewards & Shopping",
+      "app_id": "589653414",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1056813463": {
+      "rank": 22,
+      "name": "Dunkin'",
+      "app_id": "1056813463",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:903990394": {
+      "rank": 23,
+      "name": "Panda Express",
+      "app_id": "903990394",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1386566985": {
+      "rank": 24,
+      "name": "Popeyes\u00ae",
+      "app_id": "1386566985",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:540518599": {
+      "rank": 25,
+      "name": "Wendy\u2019s",
+      "app_id": "540518599",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:302920553": {
+      "rank": 26,
+      "name": "Grubhub: Food Delivery",
+      "app_id": "302920553",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1359480496": {
+      "rank": 27,
+      "name": "Dairy Queen\u00ae Food & Treats",
+      "app_id": "1359480496",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:867827909": {
+      "rank": 28,
+      "name": "SONIC Drive-In - Order Online",
+      "app_id": "867827909",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1538999662": {
+      "rank": 29,
+      "name": "KFC US - Ordering App",
+      "app_id": "1538999662",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:718290805": {
+      "rank": 30,
+      "name": "Jersey Mike's",
+      "app_id": "718290805",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:901941015": {
+      "rank": 31,
+      "name": "Subway\u00ae",
+      "app_id": "901941015",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1153771822": {
+      "rank": 32,
+      "name": "inKind",
+      "app_id": "1153771822",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1031364004": {
+      "rank": 33,
+      "name": "Buffalo Wild Wings",
+      "app_id": "1031364004",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1530642656": {
+      "rank": 34,
+      "name": "Raising Cane's Chicken Fingers",
+      "app_id": "1530642656",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1438166219": {
+      "rank": 35,
+      "name": "Crumbl",
+      "app_id": "1438166219",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:464383246": {
+      "rank": 36,
+      "name": "Chilis",
+      "app_id": "464383246",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:407517450": {
+      "rank": 37,
+      "name": "Papa Johns Pizza & Delivery",
+      "app_id": "407517450",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:6450863099": {
+      "rank": 38,
+      "name": "Culver's",
+      "app_id": "6450863099",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:6777471316": {
+      "rank": 39,
+      "name": "mise - meal planner",
+      "app_id": "6777471316",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:6753362006": {
+      "rank": 40,
+      "name": "The Cheesecake Factory",
+      "app_id": "6753362006",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:938319774": {
+      "rank": 41,
+      "name": "Wawa",
+      "app_id": "938319774",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:866163372": {
+      "rank": 42,
+      "name": "Resy",
+      "app_id": "866163372",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1283768751": {
+      "rank": 43,
+      "name": "Jack in the Box\u00ae Order App",
+      "app_id": "1283768751",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:950774184": {
+      "rank": 44,
+      "name": "Chicken Salad Chick",
+      "app_id": "950774184",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1097534083": {
+      "rank": 45,
+      "name": "Texas Roadhouse Mobile",
+      "app_id": "1097534083",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1044651221": {
+      "rank": 46,
+      "name": "QuikTrip: Coupons, Fuel, Food",
+      "app_id": "1044651221",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1141643627": {
+      "rank": 47,
+      "name": "Whataburger",
+      "app_id": "1141643627",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:692365393": {
+      "rank": 48,
+      "name": "Panera Bread",
+      "app_id": "692365393",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1478375386": {
+      "rank": 49,
+      "name": "Beli",
+      "app_id": "1478375386",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1668228991": {
+      "rank": 50,
+      "name": "Dave\u2019s Hot Chicken\u00ae",
+      "app_id": "1668228991",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:699705083": {
+      "rank": 51,
+      "name": "Slice - Order Local Pizza",
+      "app_id": "699705083",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:6473964435": {
+      "rank": 52,
+      "name": "Nothing Bundt Cakes",
+      "app_id": "6473964435",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1067313166": {
+      "rank": 53,
+      "name": "Olive Garden Italian Kitchen",
+      "app_id": "1067313166",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:726270499": {
+      "rank": 54,
+      "name": "CAVA | Order Online",
+      "app_id": "726270499",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1348507359": {
+      "rank": 55,
+      "name": "Arby's - Fast Food Sandwiches",
+      "app_id": "1348507359",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:317279545": {
+      "rank": 56,
+      "name": "Shake Shack",
+      "app_id": "317279545",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:482752836": {
+      "rank": 57,
+      "name": "Krispy Kreme \u00ae",
+      "app_id": "482752836",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1187314160": {
+      "rank": 58,
+      "name": "Flashfood - Grocery deals",
+      "app_id": "1187314160",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1537602625": {
+      "rank": 59,
+      "name": "Tao Group Hospitality Rewards",
+      "app_id": "1537602625",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:722804810": {
+      "rank": 60,
+      "name": "Gopuff - Grocery Delivery",
+      "app_id": "722804810",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1470030691": {
+      "rank": 61,
+      "name": "Tropical Smoothie Cafe",
+      "app_id": "1470030691",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:409366411": {
+      "rank": 62,
+      "name": "Jimmy John\u2019s Sandwiches",
+      "app_id": "409366411",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:480603264": {
+      "rank": 63,
+      "name": "Zaxbys",
+      "app_id": "480603264",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1133765058": {
+      "rank": 64,
+      "name": "Baskin-Robbins",
+      "app_id": "1133765058",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1036172835": {
+      "rank": 65,
+      "name": "Applebee\u2019s",
+      "app_id": "1036172835",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:568047979": {
+      "rank": 66,
+      "name": "Speedway: Rewards & Shopping",
+      "app_id": "568047979",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:623188302": {
+      "rank": 67,
+      "name": "Sheetz Food Delivery & Rewards",
+      "app_id": "623188302",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1470522110": {
+      "rank": 68,
+      "name": "Casey's",
+      "app_id": "1470522110",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1504180759": {
+      "rank": 69,
+      "name": "Wonder: Food Delivery",
+      "app_id": "1504180759",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1435774227": {
+      "rank": 70,
+      "name": "Graeter\u2019s Ice Cream",
+      "app_id": "1435774227",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:888471562": {
+      "rank": 71,
+      "name": "Andy's Frozen Custard",
+      "app_id": "888471562",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1521577174": {
+      "rank": 72,
+      "name": "Waffle House Ordering",
+      "app_id": "1521577174",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:690080616": {
+      "rank": 73,
+      "name": "Cold Stone",
+      "app_id": "690080616",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1577790958": {
+      "rank": 74,
+      "name": "Carl's Jr. Mobile Ordering",
+      "app_id": "1577790958",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:457494327": {
+      "rank": 75,
+      "name": "Five Guys Burgers & Fries",
+      "app_id": "457494327",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:572284095": {
+      "rank": 76,
+      "name": "IHOP",
+      "app_id": "572284095",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1463076279": {
+      "rank": 77,
+      "name": "Freddy\u2019s",
+      "app_id": "1463076279",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:894658475": {
+      "rank": 78,
+      "name": "Firehouse Subs",
+      "app_id": "894658475",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:448122894": {
+      "rank": 79,
+      "name": "Smoothie King",
+      "app_id": "448122894",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:527548554": {
+      "rank": 80,
+      "name": "Denny's",
+      "app_id": "527548554",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:891379973": {
+      "rank": 81,
+      "name": "Insomnia Cookies",
+      "app_id": "891379973",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:582852042": {
+      "rank": 82,
+      "name": "Cicis Pizza",
+      "app_id": "582852042",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1277318070": {
+      "rank": 83,
+      "name": "Total Wine & More",
+      "app_id": "1277318070",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1151532978": {
+      "rank": 84,
+      "name": "Scooter's Coffee",
+      "app_id": "1151532978",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1591591442": {
+      "rank": 85,
+      "name": "TREAT: Play & impact REAL dogs",
+      "app_id": "1591591442",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1015997735": {
+      "rank": 86,
+      "name": "Factor_ Prepared Meal Delivery",
+      "app_id": "1015997735",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1437373132": {
+      "rank": 87,
+      "name": "Marco\u2019s Pizza",
+      "app_id": "1437373132",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:451001072": {
+      "rank": 88,
+      "name": "talabat: Food, grocery & more",
+      "app_id": "451001072",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:592161957": {
+      "rank": 89,
+      "name": "Maverik Rewards",
+      "app_id": "592161957",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1571725006": {
+      "rank": 90,
+      "name": "Bobby Approved - Food Scanner",
+      "app_id": "1571725006",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1531948632": {
+      "rank": 91,
+      "name": "Checkers & Rally's",
+      "app_id": "1531948632",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:6468945008": {
+      "rank": 92,
+      "name": "heytea",
+      "app_id": "6468945008",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:512393983": {
+      "rank": 93,
+      "name": "Postmates - Food Delivery",
+      "app_id": "512393983",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:1172435208": {
+      "rank": 94,
+      "name": "QDOBA Mexican Eats",
+      "app_id": "1172435208",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:6752922875": {
+      "rank": 95,
+      "name": "Tabelog - Food Guide in Japan",
+      "app_id": "6752922875",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:475738160": {
+      "rank": 96,
+      "name": "McAlisters Deli",
+      "app_id": "475738160",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:733359914": {
+      "rank": 97,
+      "name": "Auntie Anne\u2019s Rewards",
+      "app_id": "733359914",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:921864548": {
+      "rank": 98,
+      "name": "Weee! #1 Asian Grocery App",
+      "app_id": "921864548",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:971888874": {
+      "rank": 99,
+      "name": "Shipt: Order Grocery Delivery",
+      "app_id": "971888874",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    },
+    "us:6023:6480109616": {
+      "rank": 100,
+      "name": "Nespresso Smart",
+      "app_id": "6480109616",
+      "label": "US / Food & Drink (free)",
+      "country": "us",
+      "category": 6023
+    }
+  }
+}
