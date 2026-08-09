@@ -1,281 +1,281 @@
 {
-  "generated_utc": "2026-08-08T07:13:49.315980+00:00",
-  "date": "2026-08-08",
+  "generated_utc": "2026-08-09T07:15:05.375273+00:00",
+  "date": "2026-08-09",
   "appstore": [
     {
-      "name": "Bilt Rewards",
-      "label": "US / Finance (free)",
+      "name": "mise - meal planner",
+      "label": "US / Food & Drink (free)",
       "rank": 33,
-      "prev_rank": 59,
-      "delta": 26,
-      "signal": "+26 rank climb",
-      "app_id": "1565576987",
+      "prev_rank": 85,
+      "delta": 52,
+      "signal": "+52 rank climb",
+      "app_id": "6777471316",
       "country": "us",
-      "score": 145
+      "score": 223
     },
     {
-      "name": "7-Eleven: Rewards & Shopping",
+      "name": "Gopuff - Grocery Delivery",
       "label": "US / Food & Drink (free)",
-      "rank": 5,
-      "prev_rank": 13,
-      "delta": 8,
-      "signal": "+8 rank climb",
-      "app_id": "589653414",
+      "rank": 41,
+      "prev_rank": 69,
+      "delta": 28,
+      "signal": "+28 rank climb",
+      "app_id": "722804810",
       "country": "us",
-      "score": 119
+      "score": 143
     },
     {
-      "name": "Speedway: Rewards & Shopping",
-      "label": "US / Food & Drink (free)",
-      "rank": 31,
-      "prev_rank": 47,
-      "delta": 16,
-      "signal": "+16 rank climb",
-      "app_id": "568047979",
-      "country": "us",
-      "score": 117
-    },
-    {
-      "name": "ReceiptHub",
+      "name": "LemFi",
       "label": "AU / Finance (free)",
-      "rank": 34,
-      "prev_rank": 50,
-      "delta": 16,
-      "signal": "+16 rank climb",
-      "app_id": "1618405276",
+      "rank": 40,
+      "prev_rank": 67,
+      "delta": 27,
+      "signal": "+27 rank climb",
+      "app_id": "1533066809",
       "country": "au",
-      "score": 114
-    },
-    {
-      "name": "Zilch: Smart Credit",
-      "label": "GB / Finance (free)",
-      "rank": 16,
-      "prev_rank": 26,
-      "delta": 10,
-      "signal": "+10 rank climb",
-      "app_id": "1545361238",
-      "country": "gb",
-      "score": 114
-    },
-    {
-      "name": "CashFaster Australia",
-      "label": "AU / Finance (free)",
-      "rank": 33,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "6766170585",
-      "country": "au",
-      "score": 107
-    },
-    {
-      "name": "Wingstop",
-      "label": "US / Food & Drink (free)",
-      "rank": 11,
-      "prev_rank": 16,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "454719277",
-      "country": "us",
-      "score": 104
-    },
-    {
-      "name": "Little Caesars Pizza",
-      "label": "US / Food & Drink (free)",
-      "rank": 14,
-      "prev_rank": 19,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "992600579",
-      "country": "us",
-      "score": 101
-    },
-    {
-      "name": "moomoo - Trading & Investing",
-      "label": "AU / Finance (free)",
-      "rank": 19,
-      "prev_rank": 25,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "6752379941",
-      "country": "au",
-      "score": 99
+      "score": 141
     },
     {
       "name": "Suica",
       "label": "AU / Finance (free)",
-      "rank": 61,
-      "prev_rank": 81,
-      "delta": 20,
-      "signal": "+20 rank climb",
+      "rank": 38,
+      "prev_rank": 61,
+      "delta": 23,
+      "signal": "+23 rank climb",
       "app_id": "1156875272",
       "country": "au",
-      "score": 99
-    },
-    {
-      "name": "Toast - Local Restaurants",
-      "label": "US / Food & Drink (free)",
-      "rank": 16,
-      "prev_rank": 21,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1362180579",
-      "country": "us",
-      "score": 99
-    },
-    {
-      "name": "Taptap Send: Money Transfer",
-      "label": "AU / Finance (free)",
-      "rank": 29,
-      "prev_rank": 38,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "1413346006",
-      "country": "au",
-      "score": 98
-    },
-    {
-      "name": "Slice - Order Local Pizza",
-      "label": "US / Food & Drink (free)",
-      "rank": 51,
-      "prev_rank": 67,
-      "delta": 16,
-      "signal": "+16 rank climb",
-      "app_id": "699705083",
-      "country": "us",
-      "score": 97
-    },
-    {
-      "name": "Betashares Direct | Investing",
-      "label": "AU / Finance (free)",
-      "rank": 38,
-      "prev_rank": 49,
-      "delta": 11,
-      "signal": "+11 rank climb",
-      "app_id": "1669109591",
-      "country": "au",
-      "score": 95
-    },
-    {
-      "name": "Remitly: Send money overseas",
-      "label": "AU / Finance (free)",
-      "rank": 28,
-      "prev_rank": 35,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "674258465",
-      "country": "au",
-      "score": 93
-    },
-    {
-      "name": "Money Borrowing: Cash Advance",
-      "label": "US / Finance (free)",
-      "rank": 40,
-      "prev_rank": 51,
-      "delta": 11,
-      "signal": "+11 rank climb",
-      "app_id": "6779553876",
-      "country": "us",
-      "score": 93
-    },
-    {
-      "name": "Spriggy",
-      "label": "AU / Finance (free)",
-      "rank": 36,
-      "prev_rank": 45,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "1080870587",
-      "country": "au",
-      "score": 91
-    },
-    {
-      "name": "Klarna | Smarter payments",
-      "label": "AU / Finance (free)",
-      "rank": 26,
-      "prev_rank": 31,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1115120118",
-      "country": "au",
-      "score": 89
-    },
-    {
-      "name": "Circle K",
-      "label": "US / Shopping (free)",
-      "rank": 45,
-      "prev_rank": 56,
-      "delta": 11,
-      "signal": "+11 rank climb",
-      "app_id": "1592397814",
-      "country": "us",
-      "score": 88
-    },
-    {
-      "name": "Phantom - Trade Markets",
-      "label": "AU / Finance (free)",
-      "rank": 70,
-      "prev_rank": 88,
-      "delta": 18,
-      "signal": "+18 rank climb",
-      "app_id": "1598432977",
-      "country": "au",
-      "score": 84
-    },
-    {
-      "name": "Petbarn: Pet Store & Advice",
-      "label": "AU / Shopping (free)",
-      "rank": 38,
-      "prev_rank": 45,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "6511222021",
-      "country": "au",
-      "score": 83
-    },
-    {
-      "name": "ALDI Grocery Pickup & Delivery",
-      "label": "US / Shopping (free)",
-      "rank": 32,
-      "prev_rank": 37,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "429396645",
-      "country": "us",
-      "score": 83
-    },
-    {
-      "name": "Nike: Engineered for Athletes",
-      "label": "AU / Shopping (free)",
-      "rank": 36,
-      "prev_rank": 42,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "1095459556",
-      "country": "au",
-      "score": 82
-    },
-    {
-      "name": "Robinhood Trading & Investing",
-      "label": "GB / Finance (free)",
-      "rank": 48,
-      "prev_rank": 57,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "938003185",
-      "country": "gb",
-      "score": 79
+      "score": 131
     },
     {
       "name": "The Cheesecake Factory",
       "label": "US / Food & Drink (free)",
-      "rank": 40,
-      "prev_rank": 46,
-      "delta": 6,
-      "signal": "+6 rank climb",
+      "rank": 25,
+      "prev_rank": 40,
+      "delta": 15,
+      "signal": "+15 rank climb",
       "app_id": "6753362006",
       "country": "us",
-      "score": 78
+      "score": 120
+    },
+    {
+      "name": "Woolworths",
+      "label": "AU / Shopping (free)",
+      "rank": 2,
+      "prev_rank": 8,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "975089690",
+      "country": "au",
+      "score": 116
+    },
+    {
+      "name": "Testerup: Test & Earn Rewards",
+      "label": "US / Finance (free)",
+      "rank": 48,
+      "prev_rank": 69,
+      "delta": 21,
+      "signal": "+21 rank climb",
+      "app_id": "1241984225",
+      "country": "us",
+      "score": 115
+    },
+    {
+      "name": "Splitwise",
+      "label": "AU / Finance (free)",
+      "rank": 13,
+      "prev_rank": 21,
+      "delta": 8,
+      "signal": "+8 rank climb",
+      "app_id": "458023433",
+      "country": "au",
+      "score": 111
+    },
+    {
+      "name": "Dutch Bros",
+      "label": "US / Food & Drink (free)",
+      "rank": 10,
+      "prev_rank": 17,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "1529179884",
+      "country": "us",
+      "score": 111
+    },
+    {
+      "name": "Too Good To Go: Save Good Food",
+      "label": "US / Food & Drink (free)",
+      "rank": 12,
+      "prev_rank": 18,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "1060683933",
+      "country": "us",
+      "score": 106
+    },
+    {
+      "name": "ReciMe: Recipes & Meal Planner",
+      "label": "US / Food & Drink (free)",
+      "rank": 21,
+      "prev_rank": 30,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1593779280",
+      "country": "us",
+      "score": 106
+    },
+    {
+      "name": "Frasers Plus",
+      "label": "GB / Finance (free)",
+      "rank": 10,
+      "prev_rank": 15,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1612215379",
+      "country": "gb",
+      "score": 105
+    },
+    {
+      "name": "OpenTable",
+      "label": "US / Food & Drink (free)",
+      "rank": 13,
+      "prev_rank": 19,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "296581815",
+      "country": "us",
+      "score": 105
+    },
+    {
+      "name": "Spriggy",
+      "label": "AU / Finance (free)",
+      "rank": 26,
+      "prev_rank": 36,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "1080870587",
+      "country": "au",
+      "score": 104
+    },
+    {
+      "name": "Intuit Credit Karma",
+      "label": "US / Finance (free)",
+      "rank": 15,
+      "prev_rank": 21,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "519817714",
+      "country": "us",
+      "score": 103
+    },
+    {
+      "name": "Cash Advance - Payday Brin",
+      "label": "US / Finance (free)",
+      "rank": 58,
+      "prev_rank": 77,
+      "delta": 19,
+      "signal": "+19 rank climb",
+      "app_id": "6757243731",
+      "country": "us",
+      "score": 99
+    },
+    {
+      "name": "Cleo AI: Cash Advance & Budget",
+      "label": "US / Finance (free)",
+      "rank": 18,
+      "prev_rank": 23,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1447274646",
+      "country": "us",
+      "score": 97
+    },
+    {
+      "name": "IKEA",
+      "label": "US / Shopping (free)",
+      "rank": 42,
+      "prev_rank": 55,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1452164827",
+      "country": "us",
+      "score": 97
+    },
+    {
+      "name": "Whataburger",
+      "label": "US / Food & Drink (free)",
+      "rank": 30,
+      "prev_rank": 39,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1141643627",
+      "country": "us",
+      "score": 97
+    },
+    {
+      "name": "Qantas Pay",
+      "label": "AU / Finance (free)",
+      "rank": 49,
+      "prev_rank": 64,
+      "delta": 15,
+      "signal": "+15 rank climb",
+      "app_id": "6479733294",
+      "country": "au",
+      "score": 96
+    },
+    {
+      "name": "Grant Cash Advance",
+      "label": "US / Finance (free)",
+      "rank": 19,
+      "prev_rank": 24,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "6472350114",
+      "country": "us",
+      "score": 96
+    },
+    {
+      "name": "fomo - never miss out",
+      "label": "AU / Finance (free)",
+      "rank": 20,
+      "prev_rank": 25,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "6741115427",
+      "country": "au",
+      "score": 95
+    },
+    {
+      "name": "Koupon: Real Deals & Codes",
+      "label": "US / Shopping (free)",
+      "rank": 20,
+      "prev_rank": 25,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "6472232952",
+      "country": "us",
+      "score": 95
+    },
+    {
+      "name": "IKEA",
+      "label": "AU / Shopping (free)",
+      "rank": 22,
+      "prev_rank": 27,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1452164827",
+      "country": "au",
+      "score": 93
+    },
+    {
+      "name": "DHgate-Online Wholesale Stores",
+      "label": "US / Shopping (free)",
+      "rank": 28,
+      "prev_rank": 35,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "905869418",
+      "country": "us",
+      "score": 93
     }
   ],
   "trends": [],
@@ -284,47 +284,65 @@
     {
       "name": "kirodotdev/KiroCrew",
       "topic": "ai-agent",
-      "stars": 2333,
+      "stars": 2416,
       "desc": "A persistent workspace for development work that self-improves and continues beyond one session.",
       "url": "https://github.com/kirodotdev/KiroCrew",
-      "signal": "2333\u2605 in <30d",
-      "score": 2333
+      "signal": "2416\u2605 in <30d",
+      "score": 2416
+    },
+    {
+      "name": "QwenAudio/qwen-audio-agent",
+      "topic": "developer-tools",
+      "stars": 1994,
+      "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "signal": "1994\u2605 in <30d",
+      "score": 1994
     },
     {
       "name": "makecindy/cindy",
       "topic": "ai-agent",
-      "stars": 1892,
+      "stars": 1919,
       "desc": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
       "url": "https://github.com/makecindy/cindy",
-      "signal": "1892\u2605 in <30d",
-      "score": 1892
+      "signal": "1919\u2605 in <30d",
+      "score": 1919
     },
     {
       "name": "powerycy/goutoujunshi",
       "topic": "ai-agent",
-      "stars": 1787,
+      "stars": 1817,
       "desc": "\u4e00\u4e2a\u5148\u63a5\u4f4f\u60c5\u7eea\u3001\u518d\u5206\u6790\u5173\u7cfb\u5e76\u7ed9\u51fa\u53ef\u6267\u884c\u7b56\u7565\u7684 Codex \u604b\u7231\u519b\u5e08\uff0c\u5185\u7f6e\u5fc3\u7406\u3001\u6cd5\u5f8b\u3001\u793e\u4f1a\u3001\u4eba\u6587\u3001\u54f2\u5b66\u3001\u5a5a\u59fb\u5bb6\u5ead\u4e0e\u6027\u5b66\u77e5\u8bc6\u5e93\uff0c\u652f\u6301\u591a\u5143\u5173\u7cfb\u3002",
       "url": "https://github.com/powerycy/goutoujunshi",
-      "signal": "1787\u2605 in <30d",
-      "score": 1787
+      "signal": "1817\u2605 in <30d",
+      "score": 1817
     },
     {
-      "name": "ShenSeanChen/waku-agent",
-      "topic": "ai-agent",
-      "stars": 964,
-      "desc": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-      "url": "https://github.com/ShenSeanChen/waku-agent",
-      "signal": "964\u2605 in <30d",
-      "score": 964
+      "name": "Paritok-official/paritok-4b-v1",
+      "topic": "developer-tools",
+      "stars": 906,
+      "desc": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturate",
+      "url": "https://github.com/Paritok-official/paritok-4b-v1",
+      "signal": "906\u2605 in <30d",
+      "score": 906
     },
     {
       "name": "0xsline/OpenChatCut",
       "topic": "ai-agent",
-      "stars": 882,
+      "stars": 900,
       "desc": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP inte",
       "url": "https://github.com/0xsline/OpenChatCut",
-      "signal": "882\u2605 in <30d",
-      "score": 882
+      "signal": "900\u2605 in <30d",
+      "score": 900
+    },
+    {
+      "name": "tsingyuai/growth-lab",
+      "topic": "ai-agent",
+      "stars": 885,
+      "desc": "An end-to-end growth tool that understands the product, fetch the data it needs, researches the market, executes campaig",
+      "url": "https://github.com/tsingyuai/growth-lab",
+      "signal": "885\u2605 in <30d",
+      "score": 885
     },
     {
       "name": "mereyabdenbekuly-ctrl/clodex-ide",
@@ -336,49 +354,31 @@
       "score": 862
     },
     {
-      "name": "Paritok-official/paritok-4b-v1",
-      "topic": "developer-tools",
-      "stars": 784,
-      "desc": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturate",
-      "url": "https://github.com/Paritok-official/paritok-4b-v1",
-      "signal": "784\u2605 in <30d",
-      "score": 784
-    },
-    {
       "name": "vshulcz/deja-vu",
       "topic": "developer-tools",
-      "stars": 599,
+      "stars": 610,
       "desc": "Your agents already solved this. deja finds it \u2014 it indexes the sessions your coding agents already wrote to disk, month",
       "url": "https://github.com/vshulcz/deja-vu",
-      "signal": "599\u2605 in <30d",
-      "score": 599
+      "signal": "610\u2605 in <30d",
+      "score": 610
     },
     {
       "name": "mikehasa/agentacct",
       "topic": "developer-tools",
-      "stars": 547,
+      "stars": 561,
       "desc": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
       "url": "https://github.com/mikehasa/agentacct",
-      "signal": "547\u2605 in <30d",
-      "score": 547
-    },
-    {
-      "name": "0xwilliamortiz/ratchet",
-      "topic": "developer-tools",
-      "stars": 438,
-      "desc": "Your agent reads the rules. This checks whether it followed them.",
-      "url": "https://github.com/0xwilliamortiz/ratchet",
-      "signal": "438\u2605 in <30d",
-      "score": 438
+      "signal": "561\u2605 in <30d",
+      "score": 561
     },
     {
       "name": "simonlin1212/vibe-astock",
       "topic": "fintech",
-      "stars": 157,
+      "stars": 167,
       "desc": "A \u80a1\u77ed\u7ebf\u590d\u76d8\u770b\u677f\uff1a\u6da8\u505c\u6c60\u00b7\u8fde\u677f\u68af\u961f\u00b7\u9f99\u864e\u699c\u00b7\u677f\u5757\u8d44\u91d1\u4e00\u5c4f\u770b\u5b8c\uff0c\u8d5a\u94b1\u6548\u5e94/\u664b\u7ea7\u7387/\u68af\u961f\u65ad\u5c42/\u60c5\u7eea\u5468\u671f\u7b49\u6d3e\u751f\u6307\u6807\u7eaf\u8ba1\u7b97\u76f4\u51fa\uff08\u4e0d\u7ecf\u8fc7 AI\uff09\uff0cAI \u53ea\u628a\u6570\u636e\u4e32\u6210\u80fd\u8bfb\u7684\u76d8\u9762\u7814\u5224\u3002\u5168\u672c\u5730\u8fd0\u884c\uff0c\u53ef\u7528 Claude/Codex \u8ba2\u9605\u514d API key\u3002",
       "url": "https://github.com/simonlin1212/vibe-astock",
-      "signal": "157\u2605 in <30d",
-      "score": 157
+      "signal": "167\u2605 in <30d",
+      "score": 167
     },
     {
       "name": "paid-tw/payment",
