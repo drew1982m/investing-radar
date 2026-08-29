@@ -1,298 +1,293 @@
 {
-  "generated_utc": "2026-08-28T18:40:24.387695+00:00",
-  "date": "2026-08-28",
+  "generated_utc": "2026-08-29T12:40:16.642971+00:00",
+  "date": "2026-08-29",
   "appstore": [
     {
-      "name": "Abercrombie & Fitch",
+      "name": "Gap: Apparel, denim and more",
       "label": "US / Shopping (free)",
-      "rank": 28,
-      "prev_rank": 57,
-      "delta": 29,
-      "signal": "+29 rank climb",
-      "app_id": "339041767",
+      "rank": 50,
+      "prev_rank": 78,
+      "delta": 28,
+      "signal": "+28 rank climb",
+      "app_id": "326347260",
       "country": "us",
-      "score": 159
+      "score": 134
     },
     {
-      "name": "Swiipr",
-      "label": "GB / Finance (free)",
-      "rank": 29,
-      "prev_rank": 44,
+      "name": "Spriggy",
+      "label": "AU / Finance (free)",
+      "rank": 27,
+      "prev_rank": 47,
+      "delta": 20,
+      "signal": "+20 rank climb",
+      "app_id": "1080870587",
+      "country": "au",
+      "score": 133
+    },
+    {
+      "name": "Slice - Order Local Pizza",
+      "label": "US / Food & Drink (free)",
+      "rank": 59,
+      "prev_rank": 86,
+      "delta": 27,
+      "signal": "+27 rank climb",
+      "app_id": "699705083",
+      "country": "us",
+      "score": 122
+    },
+    {
+      "name": "Wagetap: Instant Cash Advance",
+      "label": "AU / Finance (free)",
+      "rank": 34,
+      "prev_rank": 52,
+      "delta": 18,
+      "signal": "+18 rank climb",
+      "app_id": "1513517219",
+      "country": "au",
+      "score": 120
+    },
+    {
+      "name": "Latitude App",
+      "label": "AU / Finance (free)",
+      "rank": 25,
+      "prev_rank": 38,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1373059866",
+      "country": "au",
+      "score": 114
+    },
+    {
+      "name": "Tao Group Hospitality Rewards",
+      "label": "US / Food & Drink (free)",
+      "rank": 70,
+      "prev_rank": 98,
+      "delta": 28,
+      "signal": "+28 rank climb",
+      "app_id": "1537602625",
+      "country": "us",
+      "score": 114
+    },
+    {
+      "name": "Suica",
+      "label": "AU / Finance (free)",
+      "rank": 33,
+      "prev_rank": 48,
       "delta": 15,
       "signal": "+15 rank climb",
-      "app_id": "1571757427",
-      "country": "gb",
-      "score": 116
-    },
-    {
-      "name": "Chipotle",
-      "label": "US / Food & Drink (free)",
-      "rank": 3,
-      "prev_rank": 8,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "327228455",
-      "country": "us",
+      "app_id": "1156875272",
+      "country": "au",
       "score": 112
     },
     {
-      "name": "Rest Super",
-      "label": "AU / Finance (free)",
-      "rank": 28,
-      "prev_rank": 40,
-      "delta": 12,
-      "signal": "+12 rank climb",
-      "app_id": "1159541365",
+      "name": "Flex - Rent On Your Schedule",
+      "label": "US / Finance (free)",
+      "rank": 13,
+      "prev_rank": 21,
+      "delta": 8,
+      "signal": "+8 rank climb",
+      "app_id": "1458274896",
+      "country": "us",
+      "score": 111
+    },
+    {
+      "name": "Westfield ANZ",
+      "label": "AU / Shopping (free)",
+      "rank": 8,
+      "prev_rank": 14,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "1456060976",
       "country": "au",
-      "score": 108
+      "score": 110
     },
     {
-      "name": "Sezzle: Buy Now, Pay Later",
-      "label": "US / Shopping (free)",
-      "rank": 34,
-      "prev_rank": 48,
-      "delta": 14,
-      "signal": "+14 rank climb",
-      "app_id": "1434922495",
-      "country": "us",
-      "score": 108
-    },
-    {
-      "name": "Localize - Farmers Market",
+      "name": "Domino's Pizza USA",
       "label": "US / Food & Drink (free)",
-      "rank": 19,
-      "prev_rank": 28,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "6756440767",
+      "rank": 8,
+      "prev_rank": 14,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "436491861",
       "country": "us",
-      "score": 108
+      "score": 110
     },
     {
-      "name": "MyRecipes",
-      "label": "US / Food & Drink (free)",
-      "rank": 33,
+      "name": "MoMo PSB NG",
+      "label": "US / Finance (free)",
+      "rank": 32,
       "prev_rank": null,
       "delta": null,
       "signal": "NEW to chart",
-      "app_id": "6755009073",
+      "app_id": "6748454264",
+      "country": "us",
+      "score": 108
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "label": "US / Food & Drink (free)",
+      "rank": 11,
+      "prev_rank": 17,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "992600579",
       "country": "us",
       "score": 107
     },
     {
-      "name": "NextPayday",
-      "label": "AU / Finance (free)",
-      "rank": 70,
-      "prev_rank": 95,
-      "delta": 25,
-      "signal": "+25 rank climb",
-      "app_id": "6748627198",
-      "country": "au",
-      "score": 105
-    },
-    {
-      "name": "The Card Network",
-      "label": "AU / Finance (free)",
-      "rank": 22,
-      "prev_rank": 29,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "1481419515",
-      "country": "au",
-      "score": 99
-    },
-    {
-      "name": "TapCook: Budget Meal Plans",
-      "label": "US / Food & Drink (free)",
-      "rank": 41,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "6769601354",
-      "country": "us",
-      "score": 99
-    },
-    {
-      "name": "mise - meal planner",
-      "label": "US / Food & Drink (free)",
-      "rank": 44,
-      "prev_rank": 58,
-      "delta": 14,
-      "signal": "+14 rank climb",
-      "app_id": "6777471316",
-      "country": "us",
-      "score": 98
-    },
-    {
-      "name": "Splitwise",
-      "label": "AU / Finance (free)",
-      "rank": 21,
-      "prev_rank": 26,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "458023433",
-      "country": "au",
-      "score": 94
-    },
-    {
-      "name": "Bunnings",
+      "name": "MCQ Rewards",
       "label": "AU / Shopping (free)",
-      "rank": 21,
-      "prev_rank": 26,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1476031964",
-      "country": "au",
-      "score": 94
-    },
-    {
-      "name": "IKEA",
-      "label": "AU / Shopping (free)",
-      "rank": 27,
-      "prev_rank": 34,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "1452164827",
-      "country": "au",
-      "score": 94
-    },
-    {
-      "name": "Zepto: Groceries in minutes",
-      "label": "AU / Shopping (free)",
-      "rank": 43,
-      "prev_rank": 55,
-      "delta": 12,
-      "signal": "+12 rank climb",
-      "app_id": "1575323645",
-      "country": "au",
-      "score": 93
-    },
-    {
-      "name": "Splitwise",
-      "label": "GB / Finance (free)",
-      "rank": 25,
-      "prev_rank": 30,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "458023433",
-      "country": "gb",
-      "score": 90
-    },
-    {
-      "name": "Trump Accounts: Official App",
-      "label": "US / Finance (free)",
       "rank": 26,
-      "prev_rank": 31,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "6767364919",
-      "country": "us",
-      "score": 89
-    },
-    {
-      "name": "Target Australia",
-      "label": "AU / Shopping (free)",
-      "rank": 32,
-      "prev_rank": 38,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "440622971",
-      "country": "au",
-      "score": 86
-    },
-    {
-      "name": "my NDIS",
-      "label": "AU / Finance (free)",
-      "rank": 72,
-      "prev_rank": 91,
-      "delta": 19,
-      "signal": "+19 rank climb",
-      "app_id": "1518926938",
-      "country": "au",
-      "score": 85
-    },
-    {
-      "name": "Ulta Beauty: Makeup & Skincare",
-      "label": "US / Shopping (free)",
-      "rank": 30,
-      "prev_rank": 35,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "561930308",
-      "country": "us",
-      "score": 85
-    },
-    {
-      "name": "Bits Credit Card and More",
-      "label": "GB / Finance (free)",
-      "rank": 38,
-      "prev_rank": 45,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "1458682017",
-      "country": "gb",
-      "score": 83
-    },
-    {
-      "name": "Remitly: Fast money transfers",
-      "label": "GB / Finance (free)",
-      "rank": 43,
-      "prev_rank": 51,
-      "delta": 8,
-      "signal": "+8 rank climb",
-      "app_id": "674258465",
-      "country": "gb",
-      "score": 81
-    },
-    {
-      "name": "Stream - Workplace Finance",
-      "label": "GB / Finance (free)",
-      "rank": 50,
-      "prev_rank": 60,
+      "prev_rank": 36,
       "delta": 10,
       "signal": "+10 rank climb",
-      "app_id": "1363511325",
-      "country": "gb",
-      "score": 80
+      "app_id": "6790675097",
+      "country": "au",
+      "score": 104
     },
     {
-      "name": "MoneyLion: Banking & Cash Back",
-      "label": "US / Finance (free)",
-      "rank": 36,
-      "prev_rank": 41,
+      "name": "Testerup: Test & Earn Rewards",
+      "label": "GB / Finance (free)",
+      "rank": 11,
+      "prev_rank": 16,
       "delta": 5,
       "signal": "+5 rank climb",
-      "app_id": "1064677082",
-      "country": "us",
-      "score": 79
+      "app_id": "1241984225",
+      "country": "gb",
+      "score": 104
     },
     {
-      "name": "Phia: Fashion Deals & Rewards",
-      "label": "US / Shopping (free)",
-      "rank": 76,
-      "prev_rank": 94,
-      "delta": 18,
-      "signal": "+18 rank climb",
-      "app_id": "6739351340",
+      "name": "Sprive - Mortgage Free, Faster",
+      "label": "GB / Finance (free)",
+      "rank": 26,
+      "prev_rank": 36,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "1504836142",
+      "country": "gb",
+      "score": 104
+    },
+    {
+      "name": "Wingstop",
+      "label": "US / Food & Drink (free)",
+      "rank": 14,
+      "prev_rank": 20,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "454719277",
       "country": "us",
-      "score": 78
+      "score": 104
+    },
+    {
+      "name": "Pizza Hut - Delivery & Takeout",
+      "label": "US / Food & Drink (free)",
+      "rank": 20,
+      "prev_rank": 28,
+      "delta": 8,
+      "signal": "+8 rank climb",
+      "app_id": "321560858",
+      "country": "us",
+      "score": 104
+    },
+    {
+      "name": "Papa Johns Pizza & Delivery",
+      "label": "US / Food & Drink (free)",
+      "rank": 38,
+      "prev_rank": 52,
+      "delta": 14,
+      "signal": "+14 rank climb",
+      "app_id": "407517450",
+      "country": "us",
+      "score": 104
+    },
+    {
+      "name": "ReceiptHub",
+      "label": "AU / Finance (free)",
+      "rank": 58,
+      "prev_rank": 78,
+      "delta": 20,
+      "signal": "+20 rank climb",
+      "app_id": "1618405276",
+      "country": "au",
+      "score": 102
+    },
+    {
+      "name": "Petbarn: Pet Store & Advice",
+      "label": "AU / Shopping (free)",
+      "rank": 31,
+      "prev_rank": 42,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "6511222021",
+      "country": "au",
+      "score": 102
+    },
+    {
+      "name": "Texas Roadhouse Mobile",
+      "label": "US / Food & Drink (free)",
+      "rank": 61,
+      "prev_rank": 82,
+      "delta": 21,
+      "signal": "+21 rank climb",
+      "app_id": "1097534083",
+      "country": "us",
+      "score": 102
+    },
+    {
+      "name": "Costco Wholesale Australia",
+      "label": "AU / Shopping (free)",
+      "rank": 14,
+      "prev_rank": 19,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1559409852",
+      "country": "au",
+      "score": 101
+    },
+    {
+      "name": "Fetch: Receipts for Gift Cards",
+      "label": "US / Shopping (free)",
+      "rank": 18,
+      "prev_rank": 24,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "1182474649",
+      "country": "us",
+      "score": 100
+    },
+    {
+      "name": "Cotton On",
+      "label": "AU / Shopping (free)",
+      "rank": 43,
+      "prev_rank": 57,
+      "delta": 14,
+      "signal": "+14 rank climb",
+      "app_id": "1467166838",
+      "country": "au",
+      "score": 99
+    },
+    {
+      "name": "Chilis",
+      "label": "US / Food & Drink (free)",
+      "rank": 43,
+      "prev_rank": 57,
+      "delta": 14,
+      "signal": "+14 rank climb",
+      "app_id": "464383246",
+      "country": "us",
+      "score": 99
     }
   ],
   "trends": [
     {
       "term": "stablecoin",
-      "signal": "search +144% (7d)",
-      "score": 48
+      "signal": "search +129% (7d)",
+      "score": 45
     },
     {
       "term": "weight loss drug",
-      "signal": "search +50% (7d)",
-      "score": 30
-    },
-    {
-      "term": "AI agent",
-      "signal": "search +47% (7d)",
-      "score": 29
+      "signal": "search +41% (7d)",
+      "score": 28
     }
   ],
   "reddit": [],
@@ -300,65 +295,65 @@
     {
       "name": "fuxicodex/Fuxi",
       "topic": "ai-agent",
-      "stars": 2502,
+      "stars": 2679,
       "desc": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, w",
       "url": "https://github.com/fuxicodex/Fuxi",
-      "signal": "2502\u2605 in <30d",
-      "score": 2502
+      "signal": "2679\u2605 in <30d",
+      "score": 2679
     },
     {
       "name": "fuxicodex/Fuxi",
       "topic": "developer-tools",
-      "stars": 2502,
+      "stars": 2679,
       "desc": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, w",
       "url": "https://github.com/fuxicodex/Fuxi",
-      "signal": "2502\u2605 in <30d",
-      "score": 2502
+      "signal": "2679\u2605 in <30d",
+      "score": 2679
     },
     {
       "name": "ShawnPana/phone-harness",
       "topic": "developer-tools",
-      "stars": 2087,
+      "stars": 2091,
       "desc": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
-      "signal": "2087\u2605 in <30d",
-      "score": 2087
+      "signal": "2091\u2605 in <30d",
+      "score": 2091
     },
     {
       "name": "zouyuxuan122/Deepseek-Harness-EAC",
       "topic": "ai-agent",
-      "stars": 1393,
+      "stars": 1411,
       "desc": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (\u63fd\u5c3d\u4e07\u8c61). Bundled Node.js runtime with full dsh-CLI ke",
       "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-      "signal": "1393\u2605 in <30d",
-      "score": 1393
+      "signal": "1411\u2605 in <30d",
+      "score": 1411
     },
     {
       "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "topic": "developer-tools",
-      "stars": 1252,
+      "stars": 1300,
       "desc": "DeepSeek Harness\uff08DSH\uff09\u4e00\u53ea\u4f4f\u5728 DSH \u754c\u9762\u53f3\u4e0b\u89d2\u7684\u5c0f\u9cb8\u9c7c\u5a18\uff0c\u5e2e\u4f60\u76ef\u7740DeepSeek\u8d26\u6237\u4f59\u989d\u3002QQ\u5f39\u5f39\uff0c\u652f\u6301\u62d6\u62fd\u5438\u9644\u3001\u5de6\u5438\u9644\u7ffb\u8f6c\u3001\u6570\u5b57\u6eda\u52a8\u52a8\u753b\uff0c\u968f\u754c\u9762\u81ea\u52a8\u542f\u7528\uff0c\u5efa\u8bae\u76f4\u63a5\u558a\u6765\u4f60\u7684dsh\u5b89\u88c5",
       "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "signal": "1252\u2605 in <30d",
-      "score": 1252
+      "signal": "1300\u2605 in <30d",
+      "score": 1300
     },
     {
       "name": "SaladDay/pi-from-scratch",
       "topic": "ai-agent",
-      "stars": 1137,
+      "stars": 1140,
       "desc": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
       "url": "https://github.com/SaladDay/pi-from-scratch",
-      "signal": "1137\u2605 in <30d",
-      "score": 1137
+      "signal": "1140\u2605 in <30d",
+      "score": 1140
     },
     {
       "name": "memorax-ai/memorax-code",
       "topic": "developer-tools",
-      "stars": 1042,
+      "stars": 1109,
       "desc": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memo",
       "url": "https://github.com/memorax-ai/memorax-code",
-      "signal": "1042\u2605 in <30d",
-      "score": 1042
+      "signal": "1109\u2605 in <30d",
+      "score": 1109
     },
     {
       "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
@@ -372,20 +367,20 @@
     {
       "name": "0xsline/awesome-deepseek-harness",
       "topic": "developer-tools",
-      "stars": 932,
+      "stars": 939,
       "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-pl",
       "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "signal": "932\u2605 in <30d",
-      "score": 932
+      "signal": "939\u2605 in <30d",
+      "score": 939
     },
     {
       "name": "Zyrexnn/Cybermes",
       "topic": "ai-agent",
-      "stars": 644,
+      "stars": 649,
       "desc": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s",
       "url": "https://github.com/Zyrexnn/Cybermes",
-      "signal": "644\u2605 in <30d",
-      "score": 644
+      "signal": "649\u2605 in <30d",
+      "score": 649
     },
     {
       "name": "mrcanlaco/Dao-Vang-Peak-Pulse",
