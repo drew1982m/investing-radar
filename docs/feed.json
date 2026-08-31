@@ -1,354 +1,357 @@
 {
-  "generated_utc": "2026-08-30T11:53:32.093920+00:00",
-  "date": "2026-08-30",
+  "generated_utc": "2026-08-31T13:46:48.331806+00:00",
+  "date": "2026-08-31",
   "appstore": [
     {
-      "name": "MoMo PSB NG",
-      "label": "US / Finance (free)",
-      "rank": 11,
-      "prev_rank": 32,
-      "delta": 21,
-      "signal": "+21 rank climb",
-      "app_id": "6748454264",
-      "country": "us",
-      "score": 152
+      "name": "Qantas Pay",
+      "label": "AU / Finance (free)",
+      "rank": 14,
+      "prev_rank": 65,
+      "delta": 51,
+      "signal": "+51 rank climb",
+      "app_id": "6479733294",
+      "country": "au",
+      "score": 239
     },
     {
-      "name": "MTN MoMo",
-      "label": "US / Finance (free)",
-      "rank": 35,
-      "prev_rank": 57,
+      "name": "Smart Salary Packaging",
+      "label": "AU / Finance (free)",
+      "rank": 50,
+      "prev_rank": 86,
+      "delta": 36,
+      "signal": "+36 rank climb",
+      "app_id": "6751791423",
+      "country": "au",
+      "score": 158
+    },
+    {
+      "name": "Flare",
+      "label": "AU / Finance (free)",
+      "rank": 21,
+      "prev_rank": 47,
+      "delta": 26,
+      "signal": "+26 rank climb",
+      "app_id": "1587276031",
+      "country": "au",
+      "score": 157
+    },
+    {
+      "name": "Engage (SmartSpending)",
+      "label": "AU / Shopping (free)",
+      "rank": 58,
+      "prev_rank": 93,
+      "delta": 35,
+      "signal": "+35 rank climb",
+      "app_id": "1243002302",
+      "country": "au",
+      "score": 147
+    },
+    {
+      "name": "mise - meal planner",
+      "label": "US / Food & Drink (free)",
+      "rank": 41,
+      "prev_rank": 67,
+      "delta": 26,
+      "signal": "+26 rank climb",
+      "app_id": "6777471316",
+      "country": "us",
+      "score": 137
+    },
+    {
+      "name": "Xero Verify",
+      "label": "AU / Finance (free)",
+      "rank": 13,
+      "prev_rank": 29,
+      "delta": 16,
+      "signal": "+16 rank climb",
+      "app_id": "1510862201",
+      "country": "au",
+      "score": 135
+    },
+    {
+      "name": "Phia: Fashion Deals & Rewards",
+      "label": "US / Shopping (free)",
+      "rank": 42,
+      "prev_rank": 64,
       "delta": 22,
       "signal": "+22 rank climb",
-      "app_id": "1474080783",
+      "app_id": "6739351340",
       "country": "us",
-      "score": 131
-    },
-    {
-      "name": "MoMo App",
-      "label": "US / Finance (free)",
-      "rank": 34,
-      "prev_rank": 55,
-      "delta": 21,
-      "signal": "+21 rank climb",
-      "app_id": "6532622230",
-      "country": "us",
-      "score": 129
-    },
-    {
-      "name": "Woolworths",
-      "label": "AU / Shopping (free)",
-      "rank": 5,
-      "prev_rank": 10,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "975089690",
-      "country": "au",
-      "score": 110
+      "score": 124
     },
     {
       "name": "ReciMe: Recipes & Meal Planner",
       "label": "US / Food & Drink (free)",
-      "rank": 17,
-      "prev_rank": 26,
-      "delta": 9,
-      "signal": "+9 rank climb",
+      "rank": 7,
+      "prev_rank": 17,
+      "delta": 10,
+      "signal": "+10 rank climb",
       "app_id": "1593779280",
       "country": "us",
-      "score": 110
+      "score": 123
     },
     {
-      "name": "fomo - never miss out",
+      "name": "ANZ Shield",
       "label": "AU / Finance (free)",
-      "rank": 12,
-      "prev_rank": 19,
+      "rank": 65,
+      "prev_rank": 93,
+      "delta": 28,
+      "signal": "+28 rank climb",
+      "app_id": "898121037",
+      "country": "au",
+      "score": 119
+    },
+    {
+      "name": "Prezzee eGift cards",
+      "label": "AU / Shopping (free)",
+      "rank": 41,
+      "prev_rank": 61,
+      "delta": 20,
+      "signal": "+20 rank climb",
+      "app_id": "1047060902",
+      "country": "au",
+      "score": 119
+    },
+    {
+      "name": "St.George Mobile Banking",
+      "label": "AU / Finance (free)",
+      "rank": 42,
+      "prev_rank": 62,
+      "delta": 20,
+      "signal": "+20 rank climb",
+      "app_id": "294380705",
+      "country": "au",
+      "score": 118
+    },
+    {
+      "name": "Shop: All your favorite brands",
+      "label": "AU / Shopping (free)",
+      "rank": 3,
+      "prev_rank": 10,
       "delta": 7,
       "signal": "+7 rank climb",
-      "app_id": "6741115427",
+      "app_id": "1223471316",
       "country": "au",
-      "score": 109
+      "score": 118
+    },
+    {
+      "name": "YONO SBI:Banking and Lifestyle",
+      "label": "AU / Finance (free)",
+      "rank": 69,
+      "prev_rank": 96,
+      "delta": 27,
+      "signal": "+27 rank climb",
+      "app_id": "1231393474",
+      "country": "au",
+      "score": 112
+    },
+    {
+      "name": "Confused.com: Cheap Insurance",
+      "label": "GB / Finance (free)",
+      "rank": 37,
+      "prev_rank": 52,
+      "delta": 15,
+      "signal": "+15 rank climb",
+      "app_id": "670206860",
+      "country": "gb",
+      "score": 108
+    },
+    {
+      "name": "TapCook: Budget Meal Plans",
+      "label": "US / Food & Drink (free)",
+      "rank": 27,
+      "prev_rank": 38,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "6769601354",
+      "country": "us",
+      "score": 106
+    },
+    {
+      "name": "ANZ Australia",
+      "label": "AU / Finance (free)",
+      "rank": 10,
+      "prev_rank": 15,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "870929663",
+      "country": "au",
+      "score": 105
+    },
+    {
+      "name": "Rest Super",
+      "label": "AU / Finance (free)",
+      "rank": 35,
+      "prev_rank": 48,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1159541365",
+      "country": "au",
+      "score": 104
+    },
+    {
+      "name": "Refundid: Returns Tracking",
+      "label": "AU / Finance (free)",
+      "rank": 51,
+      "prev_rank": 69,
+      "delta": 18,
+      "signal": "+18 rank climb",
+      "app_id": "6476960779",
+      "country": "au",
+      "score": 103
+    },
+    {
+      "name": "Arz Parz - Currency Rates",
+      "label": "US / Finance (free)",
+      "rank": 38,
+      "prev_rank": null,
+      "delta": null,
+      "signal": "NEW to chart",
+      "app_id": "6785630091",
+      "country": "us",
+      "score": 102
     },
     {
       "name": "Sprive - Mortgage Free, Faster",
       "label": "GB / Finance (free)",
-      "rank": 18,
-      "prev_rank": 26,
-      "delta": 8,
-      "signal": "+8 rank climb",
+      "rank": 13,
+      "prev_rank": 18,
+      "delta": 5,
+      "signal": "+5 rank climb",
       "app_id": "1504836142",
       "country": "gb",
-      "score": 106
+      "score": 102
     },
     {
-      "name": "Suica",
+      "name": "Bendigo Bank",
       "label": "AU / Finance (free)",
-      "rank": 24,
-      "prev_rank": 33,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "1156875272",
-      "country": "au",
-      "score": 103
-    },
-    {
-      "name": "Dollar General-Digital Coupons",
-      "label": "US / Shopping (free)",
-      "rank": 21,
-      "prev_rank": 29,
-      "delta": 8,
-      "signal": "+8 rank climb",
-      "app_id": "561311442",
-      "country": "us",
-      "score": 103
-    },
-    {
-      "name": "OLIVE YOUNG Global",
-      "label": "AU / Shopping (free)",
-      "rank": 51,
-      "prev_rank": 68,
-      "delta": 17,
-      "signal": "+17 rank climb",
-      "app_id": "1466755724",
-      "country": "au",
-      "score": 100
-    },
-    {
-      "name": "Collect - Settlement Finder",
-      "label": "AU / Finance (free)",
-      "rank": 54,
-      "prev_rank": 71,
-      "delta": 17,
-      "signal": "+17 rank climb",
-      "app_id": "6752740187",
-      "country": "au",
-      "score": 97
-    },
-    {
-      "name": "heytea",
-      "label": "US / Food & Drink (free)",
-      "rank": 73,
-      "prev_rank": 96,
-      "delta": 23,
-      "signal": "+23 rank climb",
-      "app_id": "6468945008",
-      "country": "us",
-      "score": 96
-    },
-    {
-      "name": "UNIQLO: Clothes Shopping",
-      "label": "US / Shopping (free)",
-      "rank": 53,
-      "prev_rank": 68,
-      "delta": 15,
-      "signal": "+15 rank climb",
-      "app_id": "1284609872",
-      "country": "us",
-      "score": 92
-    },
-    {
-      "name": "Toss - Make finance easier",
-      "label": "AU / Finance (free)",
-      "rank": 60,
-      "prev_rank": 77,
-      "delta": 17,
-      "signal": "+17 rank climb",
-      "app_id": "839333328",
-      "country": "au",
-      "score": 91
-    },
-    {
-      "name": "Taobao - Online Shopping App",
-      "label": "AU / Shopping (free)",
-      "rank": 25,
-      "prev_rank": 30,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "387682726",
-      "country": "au",
-      "score": 90
-    },
-    {
-      "name": "Emma - Budget Planner Tracker",
-      "label": "GB / Finance (free)",
-      "rank": 27,
-      "prev_rank": 32,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1270062373",
-      "country": "gb",
-      "score": 88
-    },
-    {
-      "name": "Collect - Settlement Finder",
-      "label": "US / Finance (free)",
-      "rank": 70,
-      "prev_rank": 89,
-      "delta": 19,
-      "signal": "+19 rank climb",
-      "app_id": "6752740187",
-      "country": "us",
-      "score": 87
-    },
-    {
-      "name": "CIDER - Clothing & Fashion",
-      "label": "US / Shopping (free)",
-      "rank": 58,
-      "prev_rank": 73,
-      "delta": 15,
-      "signal": "+15 rank climb",
-      "app_id": "1539133680",
-      "country": "us",
-      "score": 87
-    },
-    {
-      "name": "DriveScore - Save on Insurance",
-      "label": "GB / Finance (free)",
-      "rank": 44,
-      "prev_rank": 54,
-      "delta": 10,
-      "signal": "+10 rank climb",
-      "app_id": "1570100560",
-      "country": "gb",
-      "score": 86
-    },
-    {
-      "name": "Fundo: Fast & Easy Loans",
-      "label": "AU / Finance (free)",
-      "rank": 44,
-      "prev_rank": 53,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "6746297021",
-      "country": "au",
-      "score": 83
-    },
-    {
-      "name": "Kit - Pocket Money App & Card",
-      "label": "AU / Finance (free)",
-      "rank": 74,
-      "prev_rank": 93,
-      "delta": 19,
-      "signal": "+19 rank climb",
-      "app_id": "1622758023",
-      "country": "au",
-      "score": 83
-    },
-    {
-      "name": "Bath & Body Works | B&BW",
-      "label": "US / Shopping (free)",
-      "rank": 38,
-      "prev_rank": 45,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "1256027729",
-      "country": "us",
-      "score": 83
-    },
-    {
-      "name": "Frasers Plus",
-      "label": "GB / Finance (free)",
-      "rank": 32,
-      "prev_rank": 37,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1612215379",
-      "country": "gb",
-      "score": 83
-    },
-    {
-      "name": "Monarch: Budget & Track Money",
-      "label": "US / Finance (free)",
-      "rank": 61,
-      "prev_rank": 75,
+      "rank": 41,
+      "prev_rank": 55,
       "delta": 14,
       "signal": "+14 rank climb",
-      "app_id": "1459319842",
-      "country": "us",
-      "score": 81
+      "app_id": "482844929",
+      "country": "au",
+      "score": 101
     },
     {
-      "name": "Beforepay: Borrow up to 5000",
+      "name": "Hostplus",
       "label": "AU / Finance (free)",
-      "rank": 35,
-      "prev_rank": 40,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1478582360",
+      "rank": 34,
+      "prev_rank": 45,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "1499755194",
       "country": "au",
-      "score": 80
-    }
-  ],
-  "trends": [
+      "score": 99
+    },
     {
-      "term": "stablecoin",
-      "signal": "search +61% (7d)",
-      "score": 32
+      "name": "Robinhood: Trading & Investing",
+      "label": "US / Finance (free)",
+      "rank": 19,
+      "prev_rank": 25,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "938003185",
+      "country": "us",
+      "score": 99
+    },
+    {
+      "name": "EveryDollar: Budget Management",
+      "label": "US / Finance (free)",
+      "rank": 62,
+      "prev_rank": 82,
+      "delta": 20,
+      "signal": "+20 rank climb",
+      "app_id": "942571931",
+      "country": "us",
+      "score": 98
+    },
+    {
+      "name": "CommSec",
+      "label": "AU / Finance (free)",
+      "rank": 30,
+      "prev_rank": 39,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "880540304",
+      "country": "au",
+      "score": 97
     }
   ],
+  "trends": [],
   "reddit": [],
   "github": [
     {
       "name": "fuxicodex/Fuxi",
       "topic": "ai-agent",
-      "stars": 2920,
+      "stars": 3097,
       "desc": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, w",
       "url": "https://github.com/fuxicodex/Fuxi",
-      "signal": "2920\u2605 in <30d",
-      "score": 2920
+      "signal": "3097\u2605 in <30d",
+      "score": 3097
     },
     {
       "name": "fuxicodex/Fuxi",
       "topic": "developer-tools",
-      "stars": 2920,
+      "stars": 3097,
       "desc": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, w",
       "url": "https://github.com/fuxicodex/Fuxi",
-      "signal": "2920\u2605 in <30d",
-      "score": 2920
+      "signal": "3097\u2605 in <30d",
+      "score": 3097
     },
     {
       "name": "ShawnPana/phone-harness",
       "topic": "developer-tools",
-      "stars": 2099,
+      "stars": 2109,
       "desc": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
-      "signal": "2099\u2605 in <30d",
-      "score": 2099
+      "signal": "2109\u2605 in <30d",
+      "score": 2109
     },
     {
-      "name": "zouyuxuan122/Deepseek-Harness-EAC",
+      "name": "zouyuxuan122/DSH-Desktop-EAC",
       "topic": "ai-agent",
-      "stars": 1434,
+      "stars": 1464,
       "desc": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (\u63fd\u5c3d\u4e07\u8c61). Bundled Node.js runtime with full dsh-CLI ke",
-      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-      "signal": "1434\u2605 in <30d",
-      "score": 1434
+      "url": "https://github.com/zouyuxuan122/DSH-Desktop-EAC",
+      "signal": "1464\u2605 in <30d",
+      "score": 1464
     },
     {
       "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "topic": "developer-tools",
-      "stars": 1363,
+      "stars": 1463,
       "desc": "DeepSeek Harness\uff08DSH\uff09\u4e00\u53ea\u4f4f\u5728 DSH \u754c\u9762\u53f3\u4e0b\u89d2\u7684\u5c0f\u9cb8\u9c7c\u5a18\uff0c\u5e2e\u4f60\u76ef\u7740DeepSeek\u8d26\u6237\u4f59\u989d\u3002QQ\u5f39\u5f39\uff0c\u652f\u6301\u62d6\u62fd\u5438\u9644\u3001\u5de6\u5438\u9644\u7ffb\u8f6c\u3001\u6570\u5b57\u6eda\u52a8\u52a8\u753b\uff0c\u968f\u754c\u9762\u81ea\u52a8\u542f\u7528\uff0c\u5efa\u8bae\u76f4\u63a5\u558a\u6765\u4f60\u7684dsh\u5b89\u88c5",
       "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "signal": "1363\u2605 in <30d",
-      "score": 1363
+      "signal": "1463\u2605 in <30d",
+      "score": 1463
+    },
+    {
+      "name": "yanliudesign/mono-color-skill",
+      "topic": "ai-agent",
+      "stars": 1267,
+      "desc": "One-ink editorial print image skill \u2014 warm paper, halftone photography, active negative space, and restrained typography",
+      "url": "https://github.com/yanliudesign/mono-color-skill",
+      "signal": "1267\u2605 in <30d",
+      "score": 1267
     },
     {
       "name": "SaladDay/pi-from-scratch",
       "topic": "ai-agent",
-      "stars": 1147,
+      "stars": 1151,
       "desc": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
       "url": "https://github.com/SaladDay/pi-from-scratch",
-      "signal": "1147\u2605 in <30d",
-      "score": 1147
+      "signal": "1151\u2605 in <30d",
+      "score": 1151
     },
     {
-      "name": "memorax-ai/memorax-code",
+      "name": "Nanako0129/sepia",
       "topic": "developer-tools",
-      "stars": 1136,
-      "desc": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memo",
-      "url": "https://github.com/memorax-ai/memorax-code",
-      "signal": "1136\u2605 in <30d",
-      "score": 1136
+      "stars": 1148,
+      "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
+      "url": "https://github.com/Nanako0129/sepia",
+      "signal": "1148\u2605 in <30d",
+      "score": 1148
     },
     {
       "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
@@ -362,38 +365,20 @@
     {
       "name": "0xsline/awesome-deepseek-harness",
       "topic": "developer-tools",
-      "stars": 945,
+      "stars": 957,
       "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-pl",
       "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "signal": "945\u2605 in <30d",
-      "score": 945
-    },
-    {
-      "name": "Zyrexnn/Cybermes",
-      "topic": "ai-agent",
-      "stars": 665,
-      "desc": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s",
-      "url": "https://github.com/Zyrexnn/Cybermes",
-      "signal": "665\u2605 in <30d",
-      "score": 665
-    },
-    {
-      "name": "mrcanlaco/Dao-Vang-Peak-Pulse",
-      "topic": "fintech",
-      "stars": 90,
-      "desc": "PeakPulse AI \u2014 Machine Learning Crypto Distribution & Top Formation Radar for Binance Futures",
-      "url": "https://github.com/mrcanlaco/Dao-Vang-Peak-Pulse",
-      "signal": "90\u2605 in <30d",
-      "score": 90
+      "signal": "957\u2605 in <30d",
+      "score": 957
     },
     {
       "name": "Oliveluo666/post-investment-platform",
       "topic": "fintech",
-      "stars": 77,
+      "stars": 85,
       "desc": "\ud83d\ude80 Open-source post-investment management workbench for VC/PE teams \u2014 portfolio overview, financial dashboards, complianc",
       "url": "https://github.com/Oliveluo666/post-investment-platform",
-      "signal": "77\u2605 in <30d",
-      "score": 77
+      "signal": "85\u2605 in <30d",
+      "score": 85
     }
   ],
   "notes": []
