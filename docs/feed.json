@@ -1,292 +1,297 @@
 {
-  "generated_utc": "2026-09-16T11:30:46.270586+00:00",
-  "date": "2026-09-16",
+  "generated_utc": "2026-09-17T11:39:33.358351+00:00",
+  "date": "2026-09-17",
   "appstore": [
     {
-      "name": "NextPayday",
-      "label": "AU / Finance (free)",
-      "rank": 14,
-      "prev_rank": 89,
-      "delta": 75,
-      "signal": "+75 rank climb",
-      "app_id": "6748627198",
-      "country": "au",
-      "score": 311
-    },
-    {
-      "name": "Insomnia Cookies",
+      "name": "Five Guys Burgers & Fries",
       "label": "US / Food & Drink (free)",
-      "rank": 11,
-      "prev_rank": 62,
-      "delta": 51,
-      "signal": "+51 rank climb",
-      "app_id": "891379973",
+      "rank": 1,
+      "prev_rank": 66,
+      "delta": 65,
+      "signal": "+65 rank climb",
+      "app_id": "457494327",
       "country": "us",
-      "score": 242
+      "score": 294
     },
     {
-      "name": "City Beach - Fashion & Swim",
-      "label": "AU / Shopping (free)",
-      "rank": 27,
-      "prev_rank": 71,
-      "delta": 44,
-      "signal": "+44 rank climb",
-      "app_id": "6469306608",
-      "country": "au",
-      "score": 205
-    },
-    {
-      "name": "Gap: Apparel, denim and more",
-      "label": "US / Shopping (free)",
-      "rank": 47,
-      "prev_rank": 86,
-      "delta": 39,
-      "signal": "+39 rank climb",
-      "app_id": "326347260",
-      "country": "us",
-      "score": 170
-    },
-    {
-      "name": "Frasers Plus",
-      "label": "GB / Finance (free)",
-      "rank": 15,
-      "prev_rank": 43,
-      "delta": 28,
-      "signal": "+28 rank climb",
-      "app_id": "1612215379",
-      "country": "gb",
-      "score": 169
-    },
-    {
-      "name": "Collect - Settlement Finder",
-      "label": "AU / Finance (free)",
-      "rank": 22,
-      "prev_rank": 52,
-      "delta": 30,
-      "signal": "+30 rank climb",
-      "app_id": "6752740187",
-      "country": "au",
-      "score": 168
-    },
-    {
-      "name": "Concora Credit",
+      "name": "Testerup: Test & Earn Rewards",
       "label": "US / Finance (free)",
-      "rank": 52,
-      "prev_rank": 80,
-      "delta": 28,
-      "signal": "+28 rank climb",
-      "app_id": "6449258739",
+      "rank": 32,
+      "prev_rank": 98,
+      "delta": 66,
+      "signal": "+66 rank climb",
+      "app_id": "1241984225",
       "country": "us",
-      "score": 132
+      "score": 266
     },
     {
-      "name": "Ad It Up",
+      "name": "H&M",
       "label": "US / Shopping (free)",
-      "rank": 8,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "6737984094",
+      "rank": 31,
+      "prev_rank": 89,
+      "delta": 58,
+      "signal": "+58 rank climb",
+      "app_id": "834465911",
       "country": "us",
-      "score": 132
+      "score": 243
     },
     {
-      "name": "Renewal from Go.Compare",
-      "label": "GB / Finance (free)",
-      "rank": 46,
-      "prev_rank": 72,
-      "delta": 26,
-      "signal": "+26 rank climb",
-      "app_id": "1562164202",
-      "country": "gb",
-      "score": 132
-    },
-    {
-      "name": "MoneySavingExpert",
-      "label": "GB / Finance (free)",
-      "rank": 23,
-      "prev_rank": 40,
-      "delta": 17,
-      "signal": "+17 rank climb",
-      "app_id": "1590502794",
-      "country": "gb",
-      "score": 128
-    },
-    {
-      "name": "Tiger Mist",
+      "name": "Gymshark: Shop Gym Clothes",
       "label": "AU / Shopping (free)",
-      "rank": 60,
-      "prev_rank": 87,
-      "delta": 27,
-      "signal": "+27 rank climb",
-      "app_id": "6742203644",
+      "rank": 62,
+      "prev_rank": 96,
+      "delta": 34,
+      "signal": "+34 rank climb",
+      "app_id": "1139155460",
       "country": "au",
-      "score": 121
+      "score": 140
     },
     {
-      "name": "People First Bank",
-      "label": "AU / Finance (free)",
-      "rank": 4,
-      "prev_rank": 12,
-      "delta": 8,
-      "signal": "+8 rank climb",
-      "app_id": "6503123279",
-      "country": "au",
-      "score": 120
+      "name": "Trump Accounts: Official App",
+      "label": "US / Finance (free)",
+      "rank": 12,
+      "prev_rank": 28,
+      "delta": 16,
+      "signal": "+16 rank climb",
+      "app_id": "6767364919",
+      "country": "us",
+      "score": 136
     },
     {
-      "name": "Buffalo Wild Wings",
-      "label": "US / Food & Drink (free)",
-      "rank": 26,
-      "prev_rank": 41,
+      "name": "Robinhood Banking",
+      "label": "US / Finance (free)",
+      "rank": 53,
+      "prev_rank": 82,
+      "delta": 29,
+      "signal": "+29 rank climb",
+      "app_id": "6462308655",
+      "country": "us",
+      "score": 134
+    },
+    {
+      "name": "Fetch: Receipts for Gift Cards",
+      "label": "US / Shopping (free)",
+      "rank": 10,
+      "prev_rank": 23,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1182474649",
+      "country": "us",
+      "score": 129
+    },
+    {
+      "name": "IGA Rewards",
+      "label": "AU / Shopping (free)",
+      "rank": 20,
+      "prev_rank": 35,
       "delta": 15,
       "signal": "+15 rank climb",
-      "app_id": "1031364004",
-      "country": "us",
-      "score": 119
+      "app_id": "6529527364",
+      "country": "au",
+      "score": 125
     },
     {
-      "name": "KFC US: Ordering & Delivery",
-      "label": "US / Food & Drink (free)",
-      "rank": 25,
-      "prev_rank": 39,
-      "delta": 14,
-      "signal": "+14 rank climb",
-      "app_id": "1538999662",
-      "country": "us",
-      "score": 117
+      "name": "Aware Super",
+      "label": "AU / Finance (free)",
+      "rank": 39,
+      "prev_rank": 58,
+      "delta": 19,
+      "signal": "+19 rank climb",
+      "app_id": "1461702710",
+      "country": "au",
+      "score": 118
     },
     {
-      "name": "Chick-fil-A",
-      "label": "US / Food & Drink (free)",
-      "rank": 6,
-      "prev_rank": 12,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "488818252",
-      "country": "us",
-      "score": 112
+      "name": "Sprive - Mortgage Free, Faster",
+      "label": "GB / Finance (free)",
+      "rank": 23,
+      "prev_rank": 36,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1504836142",
+      "country": "gb",
+      "score": 116
     },
     {
-      "name": "DICK\u2019S Sporting Goods",
-      "label": "US / Shopping (free)",
-      "rank": 17,
-      "prev_rank": 25,
-      "delta": 8,
-      "signal": "+8 rank climb",
-      "app_id": "556653197",
-      "country": "us",
-      "score": 107
+      "name": "Smart Salary Packaging",
+      "label": "AU / Finance (free)",
+      "rank": 47,
+      "prev_rank": 66,
+      "delta": 19,
+      "signal": "+19 rank climb",
+      "app_id": "6751791423",
+      "country": "au",
+      "score": 110
     },
     {
-      "name": "Target: Shop. Style. Save.",
-      "label": "US / Shopping (free)",
-      "rank": 13,
-      "prev_rank": 19,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "297430070",
-      "country": "us",
+      "name": "Ubank: Digital Banking",
+      "label": "AU / Finance (free)",
+      "rank": 22,
+      "prev_rank": 31,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1449543099",
+      "country": "au",
       "score": 105
     },
     {
-      "name": "Target Australia",
-      "label": "AU / Shopping (free)",
-      "rank": 20,
-      "prev_rank": 28,
-      "delta": 8,
-      "signal": "+8 rank climb",
-      "app_id": "440622971",
-      "country": "au",
-      "score": 104
-    },
-    {
-      "name": "Kikoff \u2013\u00a0Build Credit Quickly",
-      "label": "US / Finance (free)",
-      "rank": 32,
-      "prev_rank": 44,
-      "delta": 12,
-      "signal": "+12 rank climb",
-      "app_id": "1525159784",
-      "country": "us",
-      "score": 104
-    },
-    {
-      "name": "Legal & General",
-      "label": "GB / Finance (free)",
-      "rank": 47,
-      "prev_rank": 63,
-      "delta": 16,
-      "signal": "+16 rank climb",
-      "app_id": "6449426245",
-      "country": "gb",
-      "score": 101
-    },
-    {
-      "name": "Grubhub: Food Delivery",
+      "name": "TapCook: Budget Meal Plans",
       "label": "US / Food & Drink (free)",
-      "rank": 14,
-      "prev_rank": 19,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "302920553",
+      "rank": 30,
+      "prev_rank": 41,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "6769601354",
       "country": "us",
-      "score": 101
+      "score": 103
     },
     {
-      "name": "Nothing Bundt Cakes",
-      "label": "US / Food & Drink (free)",
-      "rank": 21,
-      "prev_rank": 27,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "6473964435",
-      "country": "us",
-      "score": 97
-    },
-    {
-      "name": "Flare",
+      "name": "Hostplus",
       "label": "AU / Finance (free)",
-      "rank": 20,
-      "prev_rank": 25,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1587276031",
+      "rank": 26,
+      "prev_rank": 35,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1499755194",
       "country": "au",
-      "score": 95
+      "score": 101
     },
     {
-      "name": "adidas: Shoes & Clothing",
-      "label": "AU / Shopping (free)",
-      "rank": 44,
-      "prev_rank": 57,
-      "delta": 13,
-      "signal": "+13 rank climb",
-      "app_id": "1266591536",
-      "country": "au",
-      "score": 95
-    },
-    {
-      "name": "Citi Mobile\u00ae",
+      "name": "GEICO Mobile - Car Insurance",
       "label": "US / Finance (free)",
-      "rank": 21,
-      "prev_rank": 26,
+      "rank": 19,
+      "prev_rank": 24,
       "delta": 5,
       "signal": "+5 rank climb",
-      "app_id": "301724680",
+      "app_id": "331763096",
       "country": "us",
+      "score": 96
+    },
+    {
+      "name": "Navi: UPI, Payments, Insurance",
+      "label": "AU / Finance (free)",
+      "rank": 46,
+      "prev_rank": null,
+      "delta": null,
+      "signal": "NEW to chart",
+      "app_id": "1541152485",
+      "country": "au",
       "score": 94
+    },
+    {
+      "name": "My RemServ",
+      "label": "AU / Finance (free)",
+      "rank": 75,
+      "prev_rank": 98,
+      "delta": 23,
+      "signal": "+23 rank climb",
+      "app_id": "6581489938",
+      "country": "au",
+      "score": 94
+    },
+    {
+      "name": "Atlas - Rewards Credit Card",
+      "label": "US / Finance (free)",
+      "rank": 34,
+      "prev_rank": 43,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1617487581",
+      "country": "us",
+      "score": 93
+    },
+    {
+      "name": "TradingView: Track All Markets",
+      "label": "US / Finance (free)",
+      "rank": 29,
+      "prev_rank": 36,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "1205990992",
+      "country": "us",
+      "score": 92
+    },
+    {
+      "name": "Toast - Local Restaurants",
+      "label": "US / Food & Drink (free)",
+      "rank": 23,
+      "prev_rank": 28,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1362180579",
+      "country": "us",
+      "score": 92
+    },
+    {
+      "name": "St.George Mobile Banking",
+      "label": "AU / Finance (free)",
+      "rank": 33,
+      "prev_rank": 40,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "294380705",
+      "country": "au",
+      "score": 88
+    },
+    {
+      "name": "Splitwise",
+      "label": "GB / Finance (free)",
+      "rank": 27,
+      "prev_rank": 32,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "458023433",
+      "country": "gb",
+      "score": 88
+    },
+    {
+      "name": "WageGo: Earned Wage Access",
+      "label": "AU / Finance (free)",
+      "rank": 42,
+      "prev_rank": 51,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "6780753708",
+      "country": "au",
+      "score": 85
+    },
+    {
+      "name": "First Watch Mobile App",
+      "label": "US / Food & Drink (free)",
+      "rank": 55,
+      "prev_rank": null,
+      "delta": null,
+      "signal": "NEW to chart",
+      "app_id": "1206528977",
+      "country": "us",
+      "score": 85
+    },
+    {
+      "name": "Transact Mobile Ordering",
+      "label": "US / Food & Drink (free)",
+      "rank": 50,
+      "prev_rank": 61,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "1494719529",
+      "country": "us",
+      "score": 83
     }
   ],
   "trends": [
     {
       "term": "stablecoin",
-      "signal": "search +95% (7d)",
-      "score": 39
+      "signal": "search +217% (7d)",
+      "score": 63
     },
     {
       "term": "buy now pay later",
-      "signal": "search +49% (7d)",
+      "signal": "search +57% (7d)",
+      "score": 31
+    },
+    {
+      "term": "AI agent",
+      "signal": "search +46% (7d)",
       "score": 29
     }
   ],
@@ -295,92 +300,92 @@
     {
       "name": "yanliudesign/mono-color-skill",
       "topic": "ai-agent",
-      "stars": 3103,
+      "stars": 3121,
       "desc": "One-ink editorial print image skill \u2014 warm paper, halftone photography, active negative space, and restrained typography",
       "url": "https://github.com/yanliudesign/mono-color-skill",
-      "signal": "3103\u2605 in <30d",
-      "score": 3103
+      "signal": "3121\u2605 in <30d",
+      "score": 3121
     },
     {
       "name": "Player-YN/PawWork_ZhuaZhua",
       "topic": "ai-agent",
-      "stars": 2766,
+      "stars": 2768,
       "desc": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable of",
       "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
-      "signal": "2766\u2605 in <30d",
-      "score": 2766
+      "signal": "2768\u2605 in <30d",
+      "score": 2768
     },
     {
       "name": "Nanako0129/sepia",
       "topic": "developer-tools",
-      "stars": 2637,
+      "stars": 2658,
       "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
       "url": "https://github.com/Nanako0129/sepia",
-      "signal": "2637\u2605 in <30d",
-      "score": 2637
-    },
-    {
-      "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "topic": "developer-tools",
-      "stars": 2517,
-      "desc": "DeepSeek Harness\uff08DSH\uff09\u4e00\u53ea\u4f4f\u5728 DSH \u754c\u9762\u53f3\u4e0b\u89d2\u7684\u5c0f\u9cb8\u9c7c\u5a18\uff0c\u5e2e\u4f60\u76ef\u7740DeepSeek\u8d26\u6237\u4f59\u989d\u3002QQ\u5f39\u5f39\uff0c\u652f\u6301\u62d6\u62fd\u5438\u9644\u3001\u5de6\u5438\u9644\u7ffb\u8f6c\u3001\u6570\u5b57\u6eda\u52a8\u52a8\u753b\uff0c\u968f\u754c\u9762\u81ea\u52a8\u542f\u7528\uff0c\u5efa\u8bae\u76f4\u63a5\u558a\u6765\u4f60\u7684dsh\u5b89\u88c5",
-      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "signal": "2517\u2605 in <30d",
-      "score": 2517
-    },
-    {
-      "name": "aminkheddache-dotcom/Ptero",
-      "topic": "developer-tools",
-      "stars": 1242,
-      "desc": "AI Chat with powerful models for free",
-      "url": "https://github.com/aminkheddache-dotcom/Ptero",
-      "signal": "1242\u2605 in <30d",
-      "score": 1242
+      "signal": "2658\u2605 in <30d",
+      "score": 2658
     },
     {
       "name": "2akouwu/reverify",
       "topic": "developer-tools",
-      "stars": 1213,
+      "stars": 1222,
       "desc": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth w",
       "url": "https://github.com/2akouwu/reverify",
-      "signal": "1213\u2605 in <30d",
-      "score": 1213
+      "signal": "1222\u2605 in <30d",
+      "score": 1222
     },
     {
       "name": "Vincentwei1021/video-talkcraft",
       "topic": "ai-agent",
-      "stars": 1079,
+      "stars": 1101,
       "desc": "Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos \u2014 word-leve",
       "url": "https://github.com/Vincentwei1021/video-talkcraft",
-      "signal": "1079\u2605 in <30d",
-      "score": 1079
+      "signal": "1101\u2605 in <30d",
+      "score": 1101
     },
     {
       "name": "HanyuanWang/LiveStream-Agent-Studio",
       "topic": "ai-agent",
-      "stars": 1019,
+      "stars": 1017,
       "desc": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
       "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
-      "signal": "1019\u2605 in <30d",
-      "score": 1019
+      "signal": "1017\u2605 in <30d",
+      "score": 1017
     },
     {
       "name": "Zyrexnn/Cybermes",
       "topic": "ai-agent",
-      "stars": 837,
+      "stars": 848,
       "desc": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s",
       "url": "https://github.com/Zyrexnn/Cybermes",
-      "signal": "837\u2605 in <30d",
-      "score": 837
+      "signal": "848\u2605 in <30d",
+      "score": 848
     },
     {
       "name": "Jarvis322/macos-sysdata",
       "topic": "developer-tools",
-      "stars": 746,
+      "stars": 750,
       "desc": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category",
       "url": "https://github.com/Jarvis322/macos-sysdata",
-      "signal": "746\u2605 in <30d",
-      "score": 746
+      "signal": "750\u2605 in <30d",
+      "score": 750
+    },
+    {
+      "name": "okf-memory/okf-agent-memory",
+      "topic": "developer-tools",
+      "stars": 689,
+      "desc": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embe",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "signal": "689\u2605 in <30d",
+      "score": 689
+    },
+    {
+      "name": "sodiumsun/agenttrail",
+      "topic": "developer-tools",
+      "stars": 668,
+      "desc": "Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agenttrail Kitchen visual",
+      "url": "https://github.com/sodiumsun/agenttrail",
+      "signal": "668\u2605 in <30d",
+      "score": 668
     },
     {
       "name": "Oliveluo666/post-investment-platform",
@@ -390,6 +395,15 @@
       "url": "https://github.com/Oliveluo666/post-investment-platform",
       "signal": "98\u2605 in <30d",
       "score": 98
+    },
+    {
+      "name": "murattahtaci/turkish-bank-logos-svg",
+      "topic": "fintech",
+      "stars": 50,
+      "desc": "T\u00fcrkiye'deki 35 banka ve 5 \u00f6deme / e-para kurulu\u015funun orijinal SVG logolar\u0131 \u00b7 Original SVG logos of 35 banks and 5 payme",
+      "url": "https://github.com/murattahtaci/turkish-bank-logos-svg",
+      "signal": "50\u2605 in <30d",
+      "score": 50
     }
   ],
   "notes": []
