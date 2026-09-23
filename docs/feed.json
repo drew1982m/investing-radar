@@ -1,405 +1,384 @@
 {
-  "generated_utc": "2026-09-22T11:36:08.705719+00:00",
-  "date": "2026-09-22",
+  "generated_utc": "2026-09-23T11:33:57.544444+00:00",
+  "date": "2026-09-23",
   "appstore": [
     {
-      "name": "MyCardWallet.",
-      "label": "US / Finance (free)",
-      "rank": 12,
-      "prev_rank": 63,
-      "delta": 51,
-      "signal": "+51 rank climb",
-      "app_id": "1230221247",
-      "country": "us",
-      "score": 241
-    },
-    {
-      "name": "Papa Johns Pizza & Delivery",
-      "label": "US / Food & Drink (free)",
-      "rank": 4,
-      "prev_rank": 36,
-      "delta": 32,
-      "signal": "+32 rank climb",
-      "app_id": "407517450",
-      "country": "us",
-      "score": 192
-    },
-    {
-      "name": "Tropical Smoothie Cafe",
-      "label": "US / Food & Drink (free)",
-      "rank": 31,
-      "prev_rank": 57,
-      "delta": 26,
-      "signal": "+26 rank climb",
-      "app_id": "1470030691",
-      "country": "us",
-      "score": 147
-    },
-    {
-      "name": "Dunkin'",
-      "label": "US / Food & Drink (free)",
-      "rank": 12,
-      "prev_rank": 28,
-      "delta": 16,
-      "signal": "+16 rank climb",
-      "app_id": "1056813463",
-      "country": "us",
-      "score": 136
-    },
-    {
-      "name": "LSKD",
+      "name": "Parcel Tracker App - TrackPack",
       "label": "AU / Shopping (free)",
-      "rank": 57,
-      "prev_rank": 87,
-      "delta": 30,
-      "signal": "+30 rank climb",
-      "app_id": "1561993980",
+      "rank": 56,
+      "prev_rank": 96,
+      "delta": 40,
+      "signal": "+40 rank climb",
+      "app_id": "6762376278",
       "country": "au",
-      "score": 133
+      "score": 164
     },
     {
-      "name": "Scottish Widows",
-      "label": "GB / Finance (free)",
-      "rank": 12,
-      "prev_rank": 26,
-      "delta": 14,
-      "signal": "+14 rank climb",
-      "app_id": "1502431233",
-      "country": "gb",
-      "score": 130
+      "name": "Jack in the Box\u00ae Order App",
+      "label": "US / Food & Drink (free)",
+      "rank": 26,
+      "prev_rank": 53,
+      "delta": 27,
+      "signal": "+27 rank climb",
+      "app_id": "1283768751",
+      "country": "us",
+      "score": 155
     },
     {
-      "name": "Xero Verify",
+      "name": "MoneySavingExpert",
       "label": "GB / Finance (free)",
-      "rank": 68,
-      "prev_rank": 100,
-      "delta": 32,
-      "signal": "+32 rank climb",
-      "app_id": "1510862201",
+      "rank": 15,
+      "prev_rank": 38,
+      "delta": 23,
+      "signal": "+23 rank climb",
+      "app_id": "1590502794",
       "country": "gb",
+      "score": 154
+    },
+    {
+      "name": "Gap: Apparel, denim and more",
+      "label": "US / Shopping (free)",
+      "rank": 29,
+      "prev_rank": 52,
+      "delta": 23,
+      "signal": "+23 rank climb",
+      "app_id": "326347260",
+      "country": "us",
+      "score": 140
+    },
+    {
+      "name": "Kmart Shop Low Prices For Life",
+      "label": "AU / Shopping (free)",
+      "rank": 2,
+      "prev_rank": 15,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1611129681",
+      "country": "au",
+      "score": 137
+    },
+    {
+      "name": "JD Sports AU",
+      "label": "AU / Shopping (free)",
+      "rank": 5,
+      "prev_rank": null,
+      "delta": null,
+      "signal": "NEW to chart",
+      "app_id": "6763468068",
+      "country": "au",
+      "score": 135
+    },
+    {
+      "name": "Petbarn: Pet Store & Advice",
+      "label": "AU / Shopping (free)",
+      "rank": 23,
+      "prev_rank": 40,
+      "delta": 17,
+      "signal": "+17 rank climb",
+      "app_id": "6511222021",
+      "country": "au",
       "score": 128
     },
     {
-      "name": "State Farm\u00ae",
-      "label": "US / Finance (free)",
-      "rank": 20,
-      "prev_rank": 35,
-      "delta": 15,
-      "signal": "+15 rank climb",
-      "app_id": "318142137",
+      "name": "Auntie Anne\u2019s Rewards",
+      "label": "US / Food & Drink (free)",
+      "rank": 62,
+      "prev_rank": 89,
+      "delta": 27,
+      "signal": "+27 rank climb",
+      "app_id": "733359914",
       "country": "us",
-      "score": 125
+      "score": 119
     },
     {
-      "name": "Gusto Mobile",
-      "label": "US / Finance (free)",
-      "rank": 65,
-      "prev_rank": 95,
-      "delta": 30,
-      "signal": "+30 rank climb",
-      "app_id": "1478804271",
+      "name": "V12 Retail Finance",
+      "label": "GB / Finance (free)",
+      "rank": 26,
+      "prev_rank": 40,
+      "delta": 14,
+      "signal": "+14 rank climb",
+      "app_id": "1644278201",
+      "country": "gb",
+      "score": 116
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "label": "US / Food & Drink (free)",
+      "rank": 12,
+      "prev_rank": 21,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "992600579",
       "country": "us",
-      "score": 125
+      "score": 115
+    },
+    {
+      "name": "Trump Accounts: Official App",
+      "label": "US / Finance (free)",
+      "rank": 18,
+      "prev_rank": 28,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "6767364919",
+      "country": "us",
+      "score": 112
+    },
+    {
+      "name": "Speedway: Rewards & Shopping",
+      "label": "US / Food & Drink (free)",
+      "rank": 42,
+      "prev_rank": 60,
+      "delta": 18,
+      "signal": "+18 rank climb",
+      "app_id": "568047979",
+      "country": "us",
+      "score": 112
     },
     {
       "name": "Chick-fil-A",
       "label": "US / Food & Drink (free)",
-      "rank": 10,
-      "prev_rank": 21,
-      "delta": 11,
-      "signal": "+11 rank climb",
+      "rank": 5,
+      "prev_rank": 10,
+      "delta": 5,
+      "signal": "+5 rank climb",
       "app_id": "488818252",
       "country": "us",
-      "score": 123
+      "score": 110
     },
     {
-      "name": "NetBenefits",
-      "label": "US / Finance (free)",
-      "rank": 54,
-      "prev_rank": 78,
-      "delta": 24,
-      "signal": "+24 rank climb",
-      "app_id": "640179084",
+      "name": "Capital One Shopping: Save Now",
+      "label": "US / Shopping (free)",
+      "rank": 10,
+      "prev_rank": 16,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "1089294040",
       "country": "us",
-      "score": 118
+      "score": 108
     },
     {
-      "name": "Half Price: Grocery Deals",
-      "label": "AU / Shopping (free)",
-      "rank": 60,
-      "prev_rank": 85,
-      "delta": 25,
-      "signal": "+25 rank climb",
-      "app_id": "1453645622",
-      "country": "au",
-      "score": 115
-    },
-    {
-      "name": "Priceline Pharmacy | Shopping",
-      "label": "AU / Shopping (free)",
-      "rank": 43,
-      "prev_rank": 62,
-      "delta": 19,
-      "signal": "+19 rank climb",
-      "app_id": "6748931915",
-      "country": "au",
-      "score": 114
-    },
-    {
-      "name": "Stream - Workplace Finance",
-      "label": "GB / Finance (free)",
-      "rank": 49,
-      "prev_rank": 70,
-      "delta": 21,
-      "signal": "+21 rank climb",
-      "app_id": "1363511325",
-      "country": "gb",
-      "score": 114
-    },
-    {
-      "name": "Flare",
-      "label": "AU / Finance (free)",
-      "rank": 17,
-      "prev_rank": 27,
-      "delta": 10,
-      "signal": "+10 rank climb",
-      "app_id": "1587276031",
-      "country": "au",
-      "score": 113
-    },
-    {
-      "name": "HealthEquity Mobile",
-      "label": "US / Finance (free)",
-      "rank": 62,
-      "prev_rank": 87,
-      "delta": 25,
-      "signal": "+25 rank climb",
-      "app_id": "642959434",
-      "country": "us",
-      "score": 113
-    },
-    {
-      "name": "Crumbl",
+      "name": "Buffalo Wild Wings",
       "label": "US / Food & Drink (free)",
-      "rank": 36,
-      "prev_rank": 49,
-      "delta": 13,
-      "signal": "+13 rank climb",
-      "app_id": "1438166219",
+      "rank": 28,
+      "prev_rank": 40,
+      "delta": 12,
+      "signal": "+12 rank climb",
+      "app_id": "1031364004",
       "country": "us",
-      "score": 103
+      "score": 108
     },
     {
-      "name": "Allstate\u00ae Mobile",
-      "label": "US / Finance (free)",
-      "rank": 52,
-      "prev_rank": 70,
-      "delta": 18,
-      "signal": "+18 rank climb",
-      "app_id": "364376344",
+      "name": "Too Good To Go: End Food Waste",
+      "label": "US / Food & Drink (free)",
+      "rank": 10,
+      "prev_rank": 15,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1060683933",
       "country": "us",
-      "score": 102
+      "score": 105
     },
     {
-      "name": "GEICO Mobile - Car Insurance",
-      "label": "US / Finance (free)",
+      "name": "Hostplus",
+      "label": "AU / Finance (free)",
       "rank": 24,
       "prev_rank": 32,
       "delta": 8,
       "signal": "+8 rank climb",
-      "app_id": "331763096",
+      "app_id": "1499755194",
+      "country": "au",
+      "score": 100
+    },
+    {
+      "name": "7-Eleven: Rewards & Shopping",
+      "label": "US / Food & Drink (free)",
+      "rank": 21,
+      "prev_rank": 28,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "589653414",
       "country": "us",
       "score": 100
     },
     {
-      "name": "TradingView: Track All Markets",
-      "label": "AU / Finance (free)",
-      "rank": 34,
-      "prev_rank": 45,
-      "delta": 11,
-      "signal": "+11 rank climb",
-      "app_id": "1205990992",
-      "country": "au",
-      "score": 99
-    },
-    {
-      "name": "Investor Centre - MUFG CM",
-      "label": "AU / Finance (free)",
-      "rank": 38,
-      "prev_rank": 50,
-      "delta": 12,
-      "signal": "+12 rank climb",
-      "app_id": "1402529056",
-      "country": "au",
-      "score": 98
-    },
-    {
-      "name": "Aware Super",
-      "label": "AU / Finance (free)",
-      "rank": 31,
-      "prev_rank": 40,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "1461702710",
-      "country": "au",
-      "score": 96
-    },
-    {
-      "name": "Zip - Buy Now, Pay Later",
-      "label": "US / Finance (free)",
-      "rank": 44,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "1425045070",
-      "country": "us",
-      "score": 96
-    },
-    {
-      "name": "Affirm: Buy now, pay over time",
-      "label": "US / Shopping (free)",
-      "rank": 19,
-      "prev_rank": 24,
+      "name": "Compare the Market: Meerkat",
+      "label": "GB / Finance (free)",
+      "rank": 22,
+      "prev_rank": 27,
       "delta": 5,
       "signal": "+5 rank climb",
-      "app_id": "967040652",
-      "country": "us",
-      "score": 96
+      "app_id": "972986352",
+      "country": "gb",
+      "score": 93
     },
     {
-      "name": "ANZ Shield",
+      "name": "AAMI App",
       "label": "AU / Finance (free)",
-      "rank": 56,
-      "prev_rank": 73,
-      "delta": 17,
-      "signal": "+17 rank climb",
-      "app_id": "898121037",
+      "rank": 23,
+      "prev_rank": 28,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1510690149",
       "country": "au",
-      "score": 95
+      "score": 92
+    },
+    {
+      "name": "MyAviva - Insurance & finance",
+      "label": "GB / Finance (free)",
+      "rank": 24,
+      "prev_rank": 29,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "852352703",
+      "country": "gb",
+      "score": 91
+    },
+    {
+      "name": "Legal & General",
+      "label": "GB / Finance (free)",
+      "rank": 42,
+      "prev_rank": 53,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "6449426245",
+      "country": "gb",
+      "score": 91
+    },
+    {
+      "name": "NS&I",
+      "label": "GB / Finance (free)",
+      "rank": 49,
+      "prev_rank": 62,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1465077416",
+      "country": "gb",
+      "score": 90
+    },
+    {
+      "name": "CMC Invest",
+      "label": "AU / Finance (free)",
+      "rank": 34,
+      "prev_rank": 41,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "1559149606",
+      "country": "au",
+      "score": 87
+    },
+    {
+      "name": "Experian\u00ae",
+      "label": "US / Finance (free)",
+      "rank": 28,
+      "prev_rank": 33,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1087101090",
+      "country": "us",
+      "score": 87
     }
   ],
-  "trends": [
-    {
-      "term": "AI agent",
-      "signal": "search +164% (7d)",
-      "score": 52
-    },
-    {
-      "term": "stablecoin",
-      "signal": "search +126% (7d)",
-      "score": 45
-    },
-    {
-      "term": "buy now pay later",
-      "signal": "search +124% (7d)",
-      "score": 44
-    },
-    {
-      "term": "weight loss drug",
-      "signal": "search +101% (7d)",
-      "score": 40
-    }
-  ],
+  "trends": [],
   "reddit": [],
   "github": [
     {
       "name": "Player-YN/BrowserKitten",
       "topic": "ai-agent",
-      "stars": 2907,
+      "stars": 2858,
       "desc": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable of",
       "url": "https://github.com/Player-YN/BrowserKitten",
-      "signal": "2907\u2605 in <30d",
-      "score": 2907
+      "signal": "2858\u2605 in <30d",
+      "score": 2858
     },
     {
       "name": "Nanako0129/sepia",
       "topic": "developer-tools",
-      "stars": 2775,
+      "stars": 2786,
       "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
       "url": "https://github.com/Nanako0129/sepia",
-      "signal": "2775\u2605 in <30d",
-      "score": 2775
+      "signal": "2786\u2605 in <30d",
+      "score": 2786
     },
     {
       "name": "2akouwu/reverify",
       "topic": "developer-tools",
-      "stars": 1241,
+      "stars": 1242,
       "desc": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth w",
       "url": "https://github.com/2akouwu/reverify",
-      "signal": "1241\u2605 in <30d",
-      "score": 1241
+      "signal": "1242\u2605 in <30d",
+      "score": 1242
     },
     {
       "name": "seanhowarthdev/Roam-Control",
       "topic": "developer-tools",
-      "stars": 874,
+      "stars": 918,
       "desc": "Choose, test and move an iPhone\u2019s reported location.",
       "url": "https://github.com/seanhowarthdev/Roam-Control",
-      "signal": "874\u2605 in <30d",
-      "score": 874
+      "signal": "918\u2605 in <30d",
+      "score": 918
     },
     {
       "name": "Jarvis322/macos-sysdata",
       "topic": "developer-tools",
-      "stars": 779,
+      "stars": 787,
       "desc": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category",
       "url": "https://github.com/Jarvis322/macos-sysdata",
-      "signal": "779\u2605 in <30d",
-      "score": 779
+      "signal": "787\u2605 in <30d",
+      "score": 787
     },
     {
       "name": "okf-memory/okf-agent-memory",
       "topic": "developer-tools",
-      "stars": 712,
+      "stars": 719,
       "desc": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embe",
       "url": "https://github.com/okf-memory/okf-agent-memory",
-      "signal": "712\u2605 in <30d",
-      "score": 712
+      "signal": "719\u2605 in <30d",
+      "score": 719
     },
     {
       "name": "BoardUI/boardui",
       "topic": "ai-agent",
-      "stars": 513,
+      "stars": 518,
       "desc": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your o",
       "url": "https://github.com/BoardUI/boardui",
-      "signal": "513\u2605 in <30d",
-      "score": 513
+      "signal": "518\u2605 in <30d",
+      "score": 518
     },
     {
-      "name": "op7418/guizang-yingzao-skill",
+      "name": "freestylefly/WeChatBridge",
       "topic": "ai-agent",
-      "stars": 453,
-      "desc": "\ud83c\udfef Claude Code / Codex skill \u2014 transform Chinese architecture, cultural places & travel photos into art-directed editoria",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "signal": "453\u2605 in <30d",
-      "score": 453
+      "stars": 481,
+      "desc": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
+      "url": "https://github.com/freestylefly/WeChatBridge",
+      "signal": "481\u2605 in <30d",
+      "score": 481
     },
     {
       "name": "dmoshehun-prog/learn-from-materials",
       "topic": "ai-agent",
-      "stars": 447,
+      "stars": 458,
       "desc": "Turn PDFs, books and papers into interactive learning webpages\uff5c\u5c06\u590d\u6742\u6750\u6599\u8f6c\u5316\u4e3a\u53ef\u8ffd\u6eaf\u3001\u53ef\u6d4b\u9a8c\u3001\u53ef\u505a\u7b14\u8bb0\u7684\u5b66\u4e60\u7f51\u9875",
       "url": "https://github.com/dmoshehun-prog/learn-from-materials",
-      "signal": "447\u2605 in <30d",
-      "score": 447
+      "signal": "458\u2605 in <30d",
+      "score": 458
     },
     {
-      "name": "pax-beehive/dsh-hub-cli",
+      "name": "op7418/guizang-yingzao-skill",
       "topic": "ai-agent",
-      "stars": 437,
-      "desc": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
-      "url": "https://github.com/pax-beehive/dsh-hub-cli",
-      "signal": "437\u2605 in <30d",
-      "score": 437
+      "stars": 454,
+      "desc": "\ud83c\udfef Claude Code / Codex skill \u2014 transform Chinese architecture, cultural places & travel photos into art-directed editoria",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "signal": "454\u2605 in <30d",
+      "score": 454
     },
     {
       "name": "murattahtaci/turkish-bank-logos-svg",
       "topic": "fintech",
-      "stars": 63,
+      "stars": 64,
       "desc": "T\u00fcrkiye'deki 35 banka ve 5 \u00f6deme / e-para kurulu\u015funun orijinal SVG logolar\u0131 \u00b7 Original SVG logos of 35 banks and 5 payme",
       "url": "https://github.com/murattahtaci/turkish-bank-logos-svg",
-      "signal": "63\u2605 in <30d",
-      "score": 63
+      "signal": "64\u2605 in <30d",
+      "score": 64
     }
   ],
   "notes": []
