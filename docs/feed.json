@@ -1,384 +1,390 @@
 {
-  "generated_utc": "2026-10-23T11:36:06.276787+00:00",
-  "date": "2026-10-23",
+  "generated_utc": "2026-10-24T10:56:47.159277+00:00",
+  "date": "2026-10-24",
   "appstore": [
     {
-      "name": "Hollister Co.",
+      "name": "Coinbase: Buy BTC, ETH, SOL",
+      "label": "AU / Finance (free)",
+      "rank": 47,
+      "prev_rank": 87,
+      "delta": 40,
+      "signal": "+40 rank climb",
+      "app_id": "886427730",
+      "country": "au",
+      "score": 173
+    },
+    {
+      "name": "AE + Aerie",
       "label": "US / Shopping (free)",
+      "rank": 45,
+      "prev_rank": 78,
+      "delta": 33,
+      "signal": "+33 rank climb",
+      "app_id": "467738064",
+      "country": "us",
+      "score": 154
+    },
+    {
+      "name": "Whatnot: Shop, Sell, Connect",
+      "label": "AU / Shopping (free)",
+      "rank": 5,
+      "prev_rank": 13,
+      "delta": 8,
+      "signal": "+8 rank climb",
+      "app_id": "1488269261",
+      "country": "au",
+      "score": 119
+    },
+    {
+      "name": "Spriggy",
+      "label": "AU / Finance (free)",
       "rank": 37,
-      "prev_rank": 58,
-      "delta": 21,
-      "signal": "+21 rank climb",
-      "app_id": "383915209",
-      "country": "us",
-      "score": 126
-    },
-    {
-      "name": "Hammer Elite",
-      "label": "US / Finance (free)",
-      "rank": 15,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "6763444186",
-      "country": "us",
-      "score": 125
-    },
-    {
-      "name": "MySynchrony",
-      "label": "US / Finance (free)",
-      "rank": 14,
-      "prev_rank": 26,
-      "delta": 12,
-      "signal": "+12 rank climb",
-      "app_id": "1280992496",
-      "country": "us",
-      "score": 122
-    },
-    {
-      "name": "Vault Payments",
-      "label": "AU / Finance (free)",
-      "rank": 55,
-      "prev_rank": 79,
-      "delta": 24,
-      "signal": "+24 rank climb",
-      "app_id": "1466020462",
-      "country": "au",
-      "score": 117
-    },
-    {
-      "name": "Kmart Shop Low Prices For Life",
-      "label": "AU / Shopping (free)",
-      "rank": 8,
-      "prev_rank": 15,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "1611129681",
-      "country": "au",
-      "score": 113
-    },
-    {
-      "name": "Candles - Trade Everything",
-      "label": "US / Finance (free)",
-      "rank": 45,
-      "prev_rank": 61,
-      "delta": 16,
-      "signal": "+16 rank climb",
-      "app_id": "6739891028",
-      "country": "us",
-      "score": 103
-    },
-    {
-      "name": "Hammer Elite",
-      "label": "AU / Finance (free)",
-      "rank": 42,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "6763444186",
-      "country": "au",
-      "score": 98
-    },
-    {
-      "name": "Hammer Elite",
-      "label": "GB / Finance (free)",
-      "rank": 45,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "6763444186",
-      "country": "gb",
-      "score": 95
-    },
-    {
-      "name": "NextPayday",
-      "label": "AU / Finance (free)",
-      "rank": 58,
-      "prev_rank": 74,
-      "delta": 16,
-      "signal": "+16 rank climb",
-      "app_id": "6748627198",
-      "country": "au",
-      "score": 90
-    },
-    {
-      "name": "Splitwise",
-      "label": "AU / Finance (free)",
-      "rank": 26,
-      "prev_rank": 31,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "458023433",
-      "country": "au",
-      "score": 89
-    },
-    {
-      "name": "Cellarbrations",
-      "label": "AU / Shopping (free)",
-      "rank": 74,
-      "prev_rank": 95,
-      "delta": 21,
-      "signal": "+21 rank climb",
-      "app_id": "1640761158",
-      "country": "au",
-      "score": 89
-    },
-    {
-      "name": "\u200eMy Package Delivery Tracker",
-      "label": "US / Shopping (free)",
-      "rank": 65,
-      "prev_rank": 82,
+      "prev_rank": 54,
       "delta": 17,
       "signal": "+17 rank climb",
-      "app_id": "6447516226",
-      "country": "us",
-      "score": 86
+      "app_id": "1080870587",
+      "country": "au",
+      "score": 114
     },
     {
-      "name": "The Card Network",
+      "name": "Amazon Shopping",
+      "label": "US / Shopping (free)",
+      "rank": 3,
+      "prev_rank": 8,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "297606951",
+      "country": "us",
+      "score": 112
+    },
+    {
+      "name": "YouTrip",
       "label": "AU / Finance (free)",
-      "rank": 35,
-      "prev_rank": 41,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "1481419515",
-      "country": "au",
-      "score": 83
-    },
-    {
-      "name": "Blue Light Card",
-      "label": "AU / Shopping (free)",
-      "rank": 32,
-      "prev_rank": 37,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1637398997",
-      "country": "au",
-      "score": 83
-    },
-    {
-      "name": "Atlas - Rewards Credit Card",
-      "label": "US / Finance (free)",
-      "rank": 33,
-      "prev_rank": 38,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1617487581",
-      "country": "us",
-      "score": 82
-    },
-    {
-      "name": "Yogurtland",
-      "label": "US / Food & Drink (free)",
-      "rank": 58,
-      "prev_rank": null,
-      "delta": null,
-      "signal": "NEW to chart",
-      "app_id": "604968321",
-      "country": "us",
-      "score": 82
-    },
-    {
-      "name": "IKEA",
-      "label": "AU / Shopping (free)",
-      "rank": 35,
-      "prev_rank": 40,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1452164827",
-      "country": "au",
-      "score": 80
-    },
-    {
-      "name": "Dave\u2019s Hot Chicken\u00ae",
-      "label": "US / Food & Drink (free)",
-      "rank": 35,
-      "prev_rank": 40,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1668228991",
-      "country": "us",
-      "score": 80
-    },
-    {
-      "name": "Officeworks",
-      "label": "AU / Shopping (free)",
-      "rank": 44,
+      "rank": 34,
       "prev_rank": 49,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1163043312",
+      "delta": 15,
+      "signal": "+15 rank climb",
+      "app_id": "1228562274",
       "country": "au",
-      "score": 71
+      "score": 111
     },
     {
-      "name": "Meesho: Online Shopping",
-      "label": "AU / Shopping (free)",
-      "rank": 45,
-      "prev_rank": 50,
+      "name": "Domino's Pizza USA",
+      "label": "US / Food & Drink (free)",
+      "rank": 6,
+      "prev_rank": 11,
       "delta": 5,
       "signal": "+5 rank climb",
-      "app_id": "1457958492",
-      "country": "au",
-      "score": 70
+      "app_id": "436491861",
+      "country": "us",
+      "score": 109
+    },
+    {
+      "name": "Flex - Split Your Rent in 2",
+      "label": "US / Finance (free)",
+      "rank": 43,
+      "prev_rank": 60,
+      "delta": 17,
+      "signal": "+17 rank climb",
+      "app_id": "1458274896",
+      "country": "us",
+      "score": 108
     },
     {
       "name": "JD Sports: Exclusive rewards",
       "label": "US / Shopping (free)",
-      "rank": 70,
-      "prev_rank": 83,
-      "delta": 13,
-      "signal": "+13 rank climb",
+      "rank": 51,
+      "prev_rank": 70,
+      "delta": 19,
+      "signal": "+19 rank climb",
       "app_id": "1477500619",
       "country": "us",
-      "score": 69
+      "score": 106
     },
     {
-      "name": "MyRecipes",
+      "name": "Cash Advance: Borrow Money",
+      "label": "US / Finance (free)",
+      "rank": 64,
+      "prev_rank": 87,
+      "delta": 23,
+      "signal": "+23 rank climb",
+      "app_id": "6796264140",
+      "country": "us",
+      "score": 105
+    },
+    {
+      "name": "Texas Roadhouse Mobile",
       "label": "US / Food & Drink (free)",
-      "rank": 63,
-      "prev_rank": 73,
+      "rank": 52,
+      "prev_rank": 71,
+      "delta": 19,
+      "signal": "+19 rank climb",
+      "app_id": "1097534083",
+      "country": "us",
+      "score": 105
+    },
+    {
+      "name": "Slice - Order Local Pizza",
+      "label": "US / Food & Drink (free)",
+      "rank": 55,
+      "prev_rank": 75,
+      "delta": 20,
+      "signal": "+20 rank climb",
+      "app_id": "699705083",
+      "country": "us",
+      "score": 105
+    },
+    {
+      "name": "WageGo: Earned Wage Access",
+      "label": "AU / Finance (free)",
+      "rank": 14,
+      "prev_rank": 20,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "6780753708",
+      "country": "au",
+      "score": 104
+    },
+    {
+      "name": "Latitude App",
+      "label": "AU / Finance (free)",
+      "rank": 26,
+      "prev_rank": 36,
       "delta": 10,
       "signal": "+10 rank climb",
-      "app_id": "6755009073",
-      "country": "us",
-      "score": 67
+      "app_id": "1373059866",
+      "country": "au",
+      "score": 104
     },
     {
-      "name": "Package Tracker - TrackPack",
-      "label": "US / Shopping (free)",
-      "rank": 67,
-      "prev_rank": 78,
+      "name": "Suica",
+      "label": "AU / Finance (free)",
+      "rank": 29,
+      "prev_rank": 40,
       "delta": 11,
       "signal": "+11 rank climb",
-      "app_id": "6762376278",
+      "app_id": "1156875272",
+      "country": "au",
+      "score": 104
+    },
+    {
+      "name": "Bank of America Mobile Banking",
+      "label": "US / Finance (free)",
+      "rank": 15,
+      "prev_rank": 21,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "284847138",
       "country": "us",
-      "score": 66
+      "score": 103
     },
     {
-      "name": "Stake \u2013 Stocks | ETFs | SMSF",
+      "name": "GEICO Mobile - Car Insurance",
+      "label": "US / Finance (free)",
+      "rank": 17,
+      "prev_rank": 23,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "331763096",
+      "country": "us",
+      "score": 101
+    },
+    {
+      "name": "Ember - Free Games. Big Wins.",
       "label": "AU / Finance (free)",
-      "rank": 57,
-      "prev_rank": 64,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "1399461540",
+      "rank": 75,
+      "prev_rank": 100,
+      "delta": 25,
+      "signal": "+25 rank climb",
+      "app_id": "1406211993",
       "country": "au",
-      "score": 64
+      "score": 100
     },
     {
-      "name": "Groupon - Local Deals Near Me",
-      "label": "AU / Shopping (free)",
-      "rank": 57,
-      "prev_rank": 64,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "352683833",
+      "name": "Little Caesars Pizza",
+      "label": "US / Food & Drink (free)",
+      "rank": 16,
+      "prev_rank": 21,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "992600579",
+      "country": "us",
+      "score": 99
+    },
+    {
+      "name": "Splitwise",
+      "label": "AU / Finance (free)",
+      "rank": 20,
+      "prev_rank": 26,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "458023433",
       "country": "au",
-      "score": 64
+      "score": 98
+    },
+    {
+      "name": "Papa Johns Pizza & Delivery",
+      "label": "US / Food & Drink (free)",
+      "rank": 32,
+      "prev_rank": 42,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "407517450",
+      "country": "us",
+      "score": 98
+    },
+    {
+      "name": "PhonePe: UPI & Credit Card App",
+      "label": "AU / Finance (free)",
+      "rank": 36,
+      "prev_rank": 47,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "1170055821",
+      "country": "au",
+      "score": 97
+    },
+    {
+      "name": "David Jones",
+      "label": "AU / Shopping (free)",
+      "rank": 21,
+      "prev_rank": 27,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "6477397747",
+      "country": "au",
+      "score": 97
+    },
+    {
+      "name": "Wayfair \u2013 Shop All Things Home",
+      "label": "US / Shopping (free)",
+      "rank": 18,
+      "prev_rank": 23,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "836767708",
+      "country": "us",
+      "score": 97
+    },
+    {
+      "name": "Rocco - Fast Cash Advance",
+      "label": "US / Finance (free)",
+      "rank": 37,
+      "prev_rank": 48,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "6764022479",
+      "country": "us",
+      "score": 96
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "term": "stablecoin",
+      "signal": "search +46% (7d)",
+      "score": 29
+    }
+  ],
   "reddit": [],
   "github": [
     {
-      "name": "Ebony-Vinyl/dsh-our-free-model",
-      "topic": "developer-tools",
-      "stars": 38231,
-      "desc": "\u5728 dsh \u91cc\u88c5\u4e0a\u8fd9\u4e2a\u63d2\u4ef6\u5373\u53ef\uff0c\u65e0\u9700\u767b\u5f55\u3001\u6ce8\u518c\u6216\u586b API Key\uff0c\u5c31\u80fd\u4f7f\u7528\u5305\u62ec DeepSeek V4.1 Flash\u3001Kimi K3 \u5728\u5185\u7684\u524d\u6cbf\u6a21\u578b\u2014\u2014\u5b8c\u5168\u514d\u8d39\uff0c\u4e0d\u9650\u91cf\u3002 All you do is install this plugi",
-      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-      "signal": "38231\u2605 in <30d",
-      "score": 38231
-    },
-    {
       "name": "QingYunA/answer-me-with-html",
       "topic": "ai-agent",
-      "stars": 4299,
+      "stars": 4336,
       "desc": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
       "url": "https://github.com/QingYunA/answer-me-with-html",
-      "signal": "4299\u2605 in <30d",
-      "score": 4299
+      "signal": "4336\u2605 in <30d",
+      "score": 4336
     },
     {
       "name": "onehumanbeing/esp32-iphone-agent",
       "topic": "ai-agent",
-      "stars": 3604,
+      "stars": 3714,
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No M",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "signal": "3604\u2605 in <30d",
-      "score": 3604
+      "signal": "3714\u2605 in <30d",
+      "score": 3714
     },
     {
       "name": "dzhng/jevgrep",
       "topic": "developer-tools",
-      "stars": 2864,
+      "stars": 2886,
       "desc": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
       "url": "https://github.com/dzhng/jevgrep",
-      "signal": "2864\u2605 in <30d",
-      "score": 2864
+      "signal": "2886\u2605 in <30d",
+      "score": 2886
     },
     {
       "name": "jiwoochris/artex-global",
       "topic": "ai-agent",
-      "stars": 2052,
+      "stars": 2104,
       "desc": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c(upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "url": "https://github.com/jiwoochris/artex-global",
-      "signal": "2052\u2605 in <30d",
-      "score": 2052
+      "signal": "2104\u2605 in <30d",
+      "score": 2104
     },
     {
       "name": "trhhubsd/ARTEX",
       "topic": "ai-agent",
-      "stars": 1781,
+      "stars": 1839,
       "desc": "ARTEX \u00b7 AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) \u00b7 AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf \u00b7 \u767e\u5ea6 agent+ \u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b",
       "url": "https://github.com/trhhubsd/ARTEX",
-      "signal": "1781\u2605 in <30d",
-      "score": 1781
+      "signal": "1839\u2605 in <30d",
+      "score": 1839
     },
     {
       "name": "rociiu/talorys",
       "topic": "ai-agent",
-      "stars": 1374,
+      "stars": 1380,
       "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with",
       "url": "https://github.com/rociiu/talorys",
-      "signal": "1374\u2605 in <30d",
-      "score": 1374
+      "signal": "1380\u2605 in <30d",
+      "score": 1380
     },
     {
       "name": "jwuthri-cloud/Tracely-ai",
       "topic": "developer-tools",
-      "stars": 1154,
+      "stars": 1162,
       "desc": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression test",
       "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "signal": "1154\u2605 in <30d",
-      "score": 1154
+      "signal": "1162\u2605 in <30d",
+      "score": 1162
     },
     {
       "name": "Aryanutkarsh/SeeCode",
       "topic": "developer-tools",
-      "stars": 718,
+      "stars": 722,
       "desc": "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.",
       "url": "https://github.com/Aryanutkarsh/SeeCode",
-      "signal": "718\u2605 in <30d",
-      "score": 718
+      "signal": "722\u2605 in <30d",
+      "score": 722
     },
     {
       "name": "kitlangton/scrawl",
       "topic": "developer-tools",
-      "stars": 707,
+      "stars": 721,
       "desc": "Show an agent a problem: mark up, record, send",
       "url": "https://github.com/kitlangton/scrawl",
-      "signal": "707\u2605 in <30d",
-      "score": 707
+      "signal": "721\u2605 in <30d",
+      "score": 721
+    },
+    {
+      "name": "hanzohanzhe/Grandet",
+      "topic": "developer-tools",
+      "stars": 695,
+      "desc": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed",
+      "url": "https://github.com/hanzohanzhe/Grandet",
+      "signal": "695\u2605 in <30d",
+      "score": 695
     },
     {
       "name": "LosaLosSantos/aurelio-finance",
       "topic": "fintech",
-      "stars": 304,
+      "stars": 306,
       "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts o",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "signal": "304\u2605 in <30d",
-      "score": 304
+      "signal": "306\u2605 in <30d",
+      "score": 306
     },
     {
       "name": "Stellar-Kolo/kolo-frontend",
