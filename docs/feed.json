@@ -1,281 +1,281 @@
 {
-  "generated_utc": "2026-11-05T14:36:49.681648+00:00",
-  "date": "2026-11-05",
+  "generated_utc": "2026-11-06T14:14:17.694762+00:00",
+  "date": "2026-11-06",
   "appstore": [
     {
-      "name": "MoMo PSB NG",
+      "name": "IG: Trade, Invest & Crypto",
+      "label": "GB / Finance (free)",
+      "rank": 24,
+      "prev_rank": 63,
+      "delta": 39,
+      "signal": "+39 rank climb",
+      "app_id": "6702015912",
+      "country": "gb",
+      "score": 193
+    },
+    {
+      "name": "Trust: Crypto & Bitcoin Wallet",
+      "label": "AU / Finance (free)",
+      "rank": 58,
+      "prev_rank": 92,
+      "delta": 34,
+      "signal": "+34 rank climb",
+      "app_id": "1288339409",
+      "country": "au",
+      "score": 144
+    },
+    {
+      "name": "adidas: Shoes & Clothing",
+      "label": "AU / Shopping (free)",
+      "rank": 35,
+      "prev_rank": 61,
+      "delta": 26,
+      "signal": "+26 rank climb",
+      "app_id": "1266591536",
+      "country": "au",
+      "score": 143
+    },
+    {
+      "name": "Popeyes\u00ae Chicken",
+      "label": "US / Food & Drink (free)",
+      "rank": 11,
+      "prev_rank": 26,
+      "delta": 15,
+      "signal": "+15 rank climb",
+      "app_id": "1386566985",
+      "country": "us",
+      "score": 134
+    },
+    {
+      "name": "Robinhood: Trading & Investing",
       "label": "US / Finance (free)",
       "rank": 15,
-      "prev_rank": 46,
-      "delta": 31,
-      "signal": "+31 rank climb",
-      "app_id": "6748454264",
+      "prev_rank": 29,
+      "delta": 14,
+      "signal": "+14 rank climb",
+      "app_id": "938003185",
       "country": "us",
-      "score": 178
-    },
-    {
-      "name": "Nintendo Store",
-      "label": "US / Shopping (free)",
-      "rank": 49,
-      "prev_rank": 86,
-      "delta": 37,
-      "signal": "+37 rank climb",
-      "app_id": "1495746988",
-      "country": "us",
-      "score": 162
-    },
-    {
-      "name": "IGA Rewards",
-      "label": "AU / Shopping (free)",
-      "rank": 28,
-      "prev_rank": 49,
-      "delta": 21,
-      "signal": "+21 rank climb",
-      "app_id": "6529527364",
-      "country": "au",
-      "score": 135
-    },
-    {
-      "name": "OPay Business",
-      "label": "US / Finance (free)",
-      "rank": 64,
-      "prev_rank": 95,
-      "delta": 31,
-      "signal": "+31 rank climb",
-      "app_id": "6467380679",
-      "country": "us",
-      "score": 129
+      "score": 127
     },
     {
       "name": "OG.com: Rip Cards,Trade Events",
       "label": "US / Finance (free)",
-      "rank": 37,
-      "prev_rank": 58,
-      "delta": 21,
-      "signal": "+21 rank climb",
-      "app_id": "6757954676",
-      "country": "us",
-      "score": 126
-    },
-    {
-      "name": "fomo - never miss out",
-      "label": "US / Finance (free)",
-      "rank": 25,
-      "prev_rank": 41,
+      "rank": 21,
+      "prev_rank": 37,
       "delta": 16,
       "signal": "+16 rank climb",
-      "app_id": "6741115427",
+      "app_id": "6757954676",
       "country": "us",
-      "score": 123
+      "score": 127
     },
     {
-      "name": "Rest Super",
+      "name": "AMP Super",
       "label": "AU / Finance (free)",
-      "rank": 12,
-      "prev_rank": 23,
-      "delta": 11,
-      "signal": "+11 rank climb",
-      "app_id": "1159541365",
+      "rank": 22,
+      "prev_rank": 34,
+      "delta": 12,
+      "signal": "+12 rank climb",
+      "app_id": "6788003308",
       "country": "au",
-      "score": 121
+      "score": 114
     },
     {
-      "name": "MoMo App",
+      "name": "MySynchrony",
       "label": "US / Finance (free)",
-      "rank": 45,
-      "prev_rank": 66,
-      "delta": 21,
-      "signal": "+21 rank climb",
-      "app_id": "6532622230",
+      "rank": 17,
+      "prev_rank": 27,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "1280992496",
       "country": "us",
-      "score": 118
-    },
-    {
-      "name": "David Jones",
-      "label": "AU / Shopping (free)",
-      "rank": 14,
-      "prev_rank": 23,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "6477397747",
-      "country": "au",
       "score": 113
     },
     {
-      "name": "Dunkin'",
-      "label": "US / Food & Drink (free)",
-      "rank": 16,
-      "prev_rank": 25,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "1056813463",
-      "country": "us",
-      "score": 111
-    },
-    {
-      "name": "Perpay - Shop and Build Credit",
-      "label": "US / Finance (free)",
-      "rank": 71,
-      "prev_rank": 98,
-      "delta": 27,
-      "signal": "+27 rank climb",
-      "app_id": "1421276642",
-      "country": "us",
-      "score": 110
-    },
-    {
-      "name": "BURGER KING\u00ae App",
-      "label": "US / Food & Drink (free)",
-      "rank": 11,
-      "prev_rank": 17,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "638323895",
-      "country": "us",
-      "score": 107
-    },
-    {
-      "name": "Barclaycard",
+      "name": "Sprive - Mortgage Free, Faster",
       "label": "GB / Finance (free)",
-      "rank": 12,
-      "prev_rank": 18,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "596487185",
+      "rank": 18,
+      "prev_rank": 28,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "1504836142",
       "country": "gb",
-      "score": 106
+      "score": 112
     },
     {
-      "name": "ReciMe: Recipes & Meal Planner",
-      "label": "US / Food & Drink (free)",
-      "rank": 9,
-      "prev_rank": 14,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1593779280",
-      "country": "us",
-      "score": 106
-    },
-    {
-      "name": "Wingstop",
-      "label": "US / Food & Drink (free)",
-      "rank": 12,
-      "prev_rank": 18,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "454719277",
-      "country": "us",
-      "score": 106
-    },
-    {
-      "name": "SoFi: Mobile Bank & Investing",
-      "label": "US / Finance (free)",
-      "rank": 16,
-      "prev_rank": 23,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "1191985736",
-      "country": "us",
-      "score": 105
-    },
-    {
-      "name": "Panda Express",
-      "label": "US / Food & Drink (free)",
-      "rank": 20,
-      "prev_rank": 27,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "903990394",
-      "country": "us",
-      "score": 101
-    },
-    {
-      "name": "Computershare Investor Centre",
+      "name": "IBKR Mobile - Invest Worldwide",
       "label": "AU / Finance (free)",
-      "rank": 57,
-      "prev_rank": 76,
-      "delta": 19,
-      "signal": "+19 rank climb",
-      "app_id": "6743446315",
+      "rank": 66,
+      "prev_rank": 90,
+      "delta": 24,
+      "signal": "+24 rank climb",
+      "app_id": "454558592",
       "country": "au",
-      "score": 100
+      "score": 106
     },
     {
-      "name": "Alinea: Automated Investing",
-      "label": "US / Finance (free)",
-      "rank": 48,
-      "prev_rank": 64,
-      "delta": 16,
-      "signal": "+16 rank climb",
-      "app_id": "1554623825",
-      "country": "us",
-      "score": 100
-    },
-    {
-      "name": "Macy's: Shop, Save, and Earn",
+      "name": "Nintendo Store",
       "label": "US / Shopping (free)",
-      "rank": 19,
-      "prev_rank": 25,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "341036067",
+      "rank": 36,
+      "prev_rank": 49,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1495746988",
       "country": "us",
-      "score": 99
+      "score": 103
     },
     {
-      "name": "Shake Shack",
-      "label": "US / Food & Drink (free)",
-      "rank": 44,
-      "prev_rank": 58,
-      "delta": 14,
-      "signal": "+14 rank climb",
-      "app_id": "317279545",
-      "country": "us",
-      "score": 98
-    },
-    {
-      "name": "ALDI Grocery Pickup & Delivery",
-      "label": "US / Shopping (free)",
-      "rank": 23,
-      "prev_rank": 29,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "429396645",
-      "country": "us",
-      "score": 95
-    },
-    {
-      "name": "Publix",
-      "label": "US / Shopping (free)",
-      "rank": 60,
-      "prev_rank": 78,
-      "delta": 18,
-      "signal": "+18 rank climb",
-      "app_id": "562794249",
-      "country": "us",
-      "score": 94
-    },
-    {
-      "name": "Westfield ANZ",
-      "label": "AU / Shopping (free)",
-      "rank": 31,
-      "prev_rank": 39,
+      "name": "moomoo - Trading & Investing",
+      "label": "AU / Finance (free)",
+      "rank": 27,
+      "prev_rank": 35,
       "delta": 8,
       "signal": "+8 rank climb",
-      "app_id": "1456060976",
+      "app_id": "6752379941",
+      "country": "au",
+      "score": 97
+    },
+    {
+      "name": "DICK\u2019S Sporting Goods",
+      "label": "US / Shopping (free)",
+      "rank": 25,
+      "prev_rank": 32,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "556653197",
+      "country": "us",
+      "score": 96
+    },
+    {
+      "name": "Stake \u2013 Stocks | ETFs | SMSF",
+      "label": "AU / Finance (free)",
+      "rank": 43,
+      "prev_rank": 55,
+      "delta": 12,
+      "signal": "+12 rank climb",
+      "app_id": "1399461540",
       "country": "au",
       "score": 93
     },
     {
-      "name": "Vantage:All-In-One Trading App",
+      "name": "Atlas - Rewards Credit Card",
+      "label": "US / Finance (free)",
+      "rank": 34,
+      "prev_rank": 43,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1617487581",
+      "country": "us",
+      "score": 93
+    },
+    {
+      "name": "CMC Invest",
       "label": "AU / Finance (free)",
-      "rank": 56,
-      "prev_rank": 72,
-      "delta": 16,
-      "signal": "+16 rank climb",
-      "app_id": "1457929724",
+      "rank": 37,
+      "prev_rank": 46,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1559149606",
       "country": "au",
-      "score": 92
+      "score": 90
+    },
+    {
+      "name": "Betashares Direct | Investing",
+      "label": "AU / Finance (free)",
+      "rank": 49,
+      "prev_rank": 62,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1669109591",
+      "country": "au",
+      "score": 90
+    },
+    {
+      "name": "Emma - Budget Planner Tracker",
+      "label": "GB / Finance (free)",
+      "rank": 28,
+      "prev_rank": 34,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "1270062373",
+      "country": "gb",
+      "score": 90
+    },
+    {
+      "name": "People First Bank",
+      "label": "AU / Finance (free)",
+      "rank": 74,
+      "prev_rank": 95,
+      "delta": 21,
+      "signal": "+21 rank climb",
+      "app_id": "6503123279",
+      "country": "au",
+      "score": 89
+    },
+    {
+      "name": "Tembo - Savings and mortgages",
+      "label": "GB / Finance (free)",
+      "rank": 72,
+      "prev_rank": 92,
+      "delta": 20,
+      "signal": "+20 rank climb",
+      "app_id": "1481067268",
+      "country": "gb",
+      "score": 88
+    },
+    {
+      "name": "NextPayday",
+      "label": "AU / Finance (free)",
+      "rank": 67,
+      "prev_rank": 85,
+      "delta": 18,
+      "signal": "+18 rank climb",
+      "app_id": "6748627198",
+      "country": "au",
+      "score": 87
+    },
+    {
+      "name": "Zip - Buy Now, Pay Later",
+      "label": "US / Finance (free)",
+      "rank": 41,
+      "prev_rank": 50,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1425045070",
+      "country": "us",
+      "score": 86
+    },
+    {
+      "name": "Resy",
+      "label": "US / Food & Drink (free)",
+      "rank": 38,
+      "prev_rank": 46,
+      "delta": 8,
+      "signal": "+8 rank climb",
+      "app_id": "866163372",
+      "country": "us",
+      "score": 86
+    },
+    {
+      "name": "Schwab Mobile: Invest & Trade",
+      "label": "US / Finance (free)",
+      "rank": 54,
+      "prev_rank": 67,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "407358186",
+      "country": "us",
+      "score": 85
+    },
+    {
+      "name": "Splitwise",
+      "label": "GB / Finance (free)",
+      "rank": 45,
+      "prev_rank": 55,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "458023433",
+      "country": "gb",
+      "score": 85
     }
   ],
   "trends": [],
@@ -284,83 +284,83 @@
     {
       "name": "ccch1mneyyy/dsh-Go",
       "topic": "ai-agent",
-      "stars": 11035,
+      "stars": 12598,
       "desc": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "signal": "11035\u2605 in <30d",
-      "score": 11035
-    },
-    {
-      "name": "wangzan101/Mika",
-      "topic": "ai-agent",
-      "stars": 6998,
-      "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "url": "https://github.com/wangzan101/Mika",
-      "signal": "6998\u2605 in <30d",
-      "score": 6998
+      "signal": "12598\u2605 in <30d",
+      "score": 12598
     },
     {
       "name": "l0ng-ai/openidea",
       "topic": "developer-tools",
-      "stars": 6630,
+      "stars": 7338,
       "desc": "The IDE you know, rebuilt in Rust. IntelliJ IDEA\u2013style keymap, tool windows and search-everywhere in a fast native app: ",
       "url": "https://github.com/l0ng-ai/openidea",
-      "signal": "6630\u2605 in <30d",
-      "score": 6630
+      "signal": "7338\u2605 in <30d",
+      "score": 7338
+    },
+    {
+      "name": "wangzan101/Mika",
+      "topic": "ai-agent",
+      "stars": 7320,
+      "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "url": "https://github.com/wangzan101/Mika",
+      "signal": "7320\u2605 in <30d",
+      "score": 7320
     },
     {
       "name": "rddmwmddr/android-ad-cleaner",
       "topic": "ai-agent",
-      "stars": 6520,
+      "stars": 6682,
       "desc": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "signal": "6520\u2605 in <30d",
-      "score": 6520
+      "signal": "6682\u2605 in <30d",
+      "score": 6682
     },
     {
       "name": "microsoft/TokenEconomizer",
       "topic": "developer-tools",
-      "stars": 4820,
+      "stars": 4866,
       "desc": "Experience-Driven Black-Box Cost Control for Coding Agents",
       "url": "https://github.com/microsoft/TokenEconomizer",
-      "signal": "4820\u2605 in <30d",
-      "score": 4820
+      "signal": "4866\u2605 in <30d",
+      "score": 4866
     },
     {
       "name": "onehumanbeing/esp32-iphone-agent",
       "topic": "ai-agent",
-      "stars": 4427,
+      "stars": 4559,
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No M",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "signal": "4427\u2605 in <30d",
-      "score": 4427
+      "signal": "4559\u2605 in <30d",
+      "score": 4559
     },
     {
       "name": "haydenschmitty/floorplan",
       "topic": "developer-tools",
-      "stars": 2944,
+      "stars": 3042,
       "desc": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "url": "https://github.com/haydenschmitty/floorplan",
-      "signal": "2944\u2605 in <30d",
-      "score": 2944
+      "signal": "3042\u2605 in <30d",
+      "score": 3042
     },
     {
       "name": "modelflare-ai/AnyModelBot",
       "topic": "ai-agent",
-      "stars": 2705,
+      "stars": 2727,
       "desc": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla",
       "url": "https://github.com/modelflare-ai/AnyModelBot",
-      "signal": "2705\u2605 in <30d",
-      "score": 2705
+      "signal": "2727\u2605 in <30d",
+      "score": 2727
     },
     {
       "name": "indexable-inc/blaze",
       "topic": "developer-tools",
-      "stars": 2000,
+      "stars": 2030,
       "desc": "Incremental rust builds up to 92x faster than cargo/rustc",
       "url": "https://github.com/indexable-inc/blaze",
-      "signal": "2000\u2605 in <30d",
-      "score": 2000
+      "signal": "2030\u2605 in <30d",
+      "score": 2030
     },
     {
       "name": "jwuthri-cloud/Tracely-ai",
@@ -374,20 +374,20 @@
     {
       "name": "Stellar-Kolo/kolo-frontend",
       "topic": "fintech",
-      "stars": 130,
+      "stars": 132,
       "desc": "Kolo's Stellar community savings web app: Next.js member and admin dashboards, with wallet and Soroban integrations in d",
       "url": "https://github.com/Stellar-Kolo/kolo-frontend",
-      "signal": "130\u2605 in <30d",
-      "score": 130
+      "signal": "132\u2605 in <30d",
+      "score": 132
     },
     {
       "name": "Ngochiendev/vietqr-core",
       "topic": "fintech",
-      "stars": 96,
+      "stars": 106,
       "desc": "Th\u01b0 vi\u1ec7n .NET & Web API hi\u1ec7u n\u0103ng cao x\u1eed l\u00fd m\u00e3 QR thanh to\u00e1n VietQR chu\u1ea9n NAPAS247 & EMVCo. H\u1ed7 tr\u1ee3 .NET 6/8/9/10, nh\u00fang ",
       "url": "https://github.com/Ngochiendev/vietqr-core",
-      "signal": "96\u2605 in <30d",
-      "score": 96
+      "signal": "106\u2605 in <30d",
+      "score": 106
     }
   ],
   "notes": []
