@@ -1,281 +1,281 @@
 {
-  "generated_utc": "2026-11-08T13:21:39.783075+00:00",
-  "date": "2026-11-08",
+  "generated_utc": "2026-11-09T16:14:36.044332+00:00",
+  "date": "2026-11-09",
   "appstore": [
     {
-      "name": "Speedway: Rewards & Shopping",
-      "label": "US / Food & Drink (free)",
-      "rank": 30,
-      "prev_rank": 55,
-      "delta": 25,
-      "signal": "+25 rank climb",
-      "app_id": "568047979",
-      "country": "us",
-      "score": 145
-    },
-    {
-      "name": "Testerup: Play & Earn",
-      "label": "US / Finance (free)",
-      "rank": 27,
-      "prev_rank": 50,
-      "delta": 23,
-      "signal": "+23 rank climb",
-      "app_id": "1241984225",
-      "country": "us",
-      "score": 142
-    },
-    {
-      "name": "7-Eleven: Rewards & Shopping",
-      "label": "US / Food & Drink (free)",
-      "rank": 9,
-      "prev_rank": 24,
-      "delta": 15,
-      "signal": "+15 rank climb",
-      "app_id": "589653414",
-      "country": "us",
-      "score": 136
-    },
-    {
-      "name": "Toss - Make finance easier",
-      "label": "AU / Finance (free)",
-      "rank": 37,
-      "prev_rank": 61,
-      "delta": 24,
-      "signal": "+24 rank climb",
-      "app_id": "839333328",
-      "country": "au",
-      "score": 135
-    },
-    {
-      "name": "Frasers Plus",
-      "label": "GB / Finance (free)",
-      "rank": 19,
-      "prev_rank": 32,
-      "delta": 13,
-      "signal": "+13 rank climb",
-      "app_id": "1612215379",
-      "country": "gb",
-      "score": 120
-    },
-    {
-      "name": "Fetch: Earn Rewards Every Day",
-      "label": "US / Shopping (free)",
-      "rank": 19,
-      "prev_rank": 31,
-      "delta": 12,
-      "signal": "+12 rank climb",
-      "app_id": "1182474649",
-      "country": "us",
-      "score": 117
-    },
-    {
-      "name": "Spriggy",
-      "label": "AU / Finance (free)",
-      "rank": 30,
-      "prev_rank": 45,
-      "delta": 15,
-      "signal": "+15 rank climb",
-      "app_id": "1080870587",
-      "country": "au",
-      "score": 115
-    },
-    {
-      "name": "ReciMe: Recipes & Meal Planner",
-      "label": "US / Food & Drink (free)",
-      "rank": 12,
-      "prev_rank": 21,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "1593779280",
-      "country": "us",
-      "score": 115
-    },
-    {
-      "name": "Klarna | Smarter payments",
-      "label": "AU / Finance (free)",
+      "name": "Tiger Mist",
+      "label": "AU / Shopping (free)",
       "rank": 13,
-      "prev_rank": 21,
-      "delta": 8,
-      "signal": "+8 rank climb",
-      "app_id": "1115120118",
+      "prev_rank": 91,
+      "delta": 78,
+      "signal": "+78 rank climb",
+      "app_id": "6742203644",
       "country": "au",
-      "score": 111
+      "score": 321
     },
     {
-      "name": "Swiipr",
-      "label": "GB / Finance (free)",
-      "rank": 58,
-      "prev_rank": 81,
-      "delta": 23,
-      "signal": "+23 rank climb",
-      "app_id": "1571757427",
-      "country": "gb",
-      "score": 111
-    },
-    {
-      "name": "Suica",
-      "label": "AU / Finance (free)",
-      "rank": 20,
-      "prev_rank": 29,
-      "delta": 9,
-      "signal": "+9 rank climb",
-      "app_id": "1156875272",
+      "name": "Elite Eleven",
+      "label": "AU / Shopping (free)",
+      "rank": 38,
+      "prev_rank": 86,
+      "delta": 48,
+      "signal": "+48 rank climb",
+      "app_id": "1604277968",
       "country": "au",
-      "score": 107
-    },
-    {
-      "name": "Splitwise",
-      "label": "AU / Finance (free)",
-      "rank": 12,
-      "prev_rank": 18,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "458023433",
-      "country": "au",
-      "score": 106
-    },
-    {
-      "name": "Raiz | Earn, Save & Invest",
-      "label": "AU / Finance (free)",
-      "rank": 31,
-      "prev_rank": 43,
-      "delta": 12,
-      "signal": "+12 rank climb",
-      "app_id": "1065771295",
-      "country": "au",
-      "score": 105
-    },
-    {
-      "name": "Up \u2014 Simplify Money",
-      "label": "AU / Finance (free)",
-      "rank": 11,
-      "prev_rank": 16,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1350717115",
-      "country": "au",
-      "score": 104
-    },
-    {
-      "name": "Fundo: Fast & Easy Loans",
-      "label": "AU / Finance (free)",
-      "rank": 36,
-      "prev_rank": 49,
-      "delta": 13,
-      "signal": "+13 rank climb",
-      "app_id": "6746297021",
-      "country": "au",
-      "score": 103
-    },
-    {
-      "name": "Rocket Money - Bills & Budgets",
-      "label": "US / Finance (free)",
-      "rank": 16,
-      "prev_rank": 22,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "1130616675",
-      "country": "us",
-      "score": 102
-    },
-    {
-      "name": "IKEA",
-      "label": "US / Shopping (free)",
-      "rank": 52,
-      "prev_rank": 70,
-      "delta": 18,
-      "signal": "+18 rank climb",
-      "app_id": "1452164827",
-      "country": "us",
-      "score": 102
-    },
-    {
-      "name": "Experian: Credit Score",
-      "label": "GB / Finance (free)",
-      "rank": 14,
-      "prev_rank": 19,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1114748256",
-      "country": "gb",
-      "score": 101
-    },
-    {
-      "name": "Intuit Credit Karma",
-      "label": "US / Finance (free)",
-      "rank": 18,
-      "prev_rank": 24,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "519817714",
-      "country": "us",
-      "score": 100
-    },
-    {
-      "name": "Sprive - Mortgage Free, Faster",
-      "label": "GB / Finance (free)",
-      "rank": 15,
-      "prev_rank": 20,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1504836142",
-      "country": "gb",
-      "score": 100
-    },
-    {
-      "name": "Dave: Credit, Cash & Money App",
-      "label": "US / Finance (free)",
-      "rank": 21,
-      "prev_rank": 26,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1193801909",
-      "country": "us",
-      "score": 94
+      "score": 206
     },
     {
       "name": "Taptap Send: Money Transfer",
       "label": "US / Finance (free)",
-      "rank": 40,
-      "prev_rank": 51,
-      "delta": 11,
-      "signal": "+11 rank climb",
+      "rank": 14,
+      "prev_rank": 40,
+      "delta": 26,
+      "signal": "+26 rank climb",
       "app_id": "1413346006",
       "country": "us",
-      "score": 93
+      "score": 164
     },
     {
-      "name": "CommSec",
+      "name": "The Card Network",
       "label": "AU / Finance (free)",
-      "rank": 25,
-      "prev_rank": 30,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "880540304",
+      "rank": 28,
+      "prev_rank": 54,
+      "delta": 26,
+      "signal": "+26 rank climb",
+      "app_id": "1481419515",
       "country": "au",
-      "score": 90
+      "score": 150
     },
     {
-      "name": "Cuvva",
-      "label": "GB / Finance (free)",
-      "rank": 30,
-      "prev_rank": 36,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "979980804",
-      "country": "gb",
-      "score": 88
+      "name": "Flare",
+      "label": "AU / Finance (free)",
+      "rank": 18,
+      "prev_rank": 39,
+      "delta": 21,
+      "signal": "+21 rank climb",
+      "app_id": "1587276031",
+      "country": "au",
+      "score": 145
     },
     {
-      "name": "Hollister Co.",
-      "label": "US / Shopping (free)",
-      "rank": 55,
-      "prev_rank": 69,
+      "name": "Investor Centre - MUFG CM",
+      "label": "AU / Finance (free)",
+      "rank": 65,
+      "prev_rank": 100,
+      "delta": 35,
+      "signal": "+35 rank climb",
+      "app_id": "1402529056",
+      "country": "au",
+      "score": 140
+    },
+    {
+      "name": "Refundid: Returns Tracking",
+      "label": "AU / Finance (free)",
+      "rank": 40,
+      "prev_rank": 66,
+      "delta": 26,
+      "signal": "+26 rank climb",
+      "app_id": "6476960779",
+      "country": "au",
+      "score": 138
+    },
+    {
+      "name": "ANZ Shield",
+      "label": "AU / Finance (free)",
+      "rank": 57,
+      "prev_rank": 88,
+      "delta": 31,
+      "signal": "+31 rank climb",
+      "app_id": "898121037",
+      "country": "au",
+      "score": 136
+    },
+    {
+      "name": "Xero Verify",
+      "label": "AU / Finance (free)",
+      "rank": 14,
+      "prev_rank": 27,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "1510862201",
+      "country": "au",
+      "score": 125
+    },
+    {
+      "name": "AAMI App",
+      "label": "AU / Finance (free)",
+      "rank": 24,
+      "prev_rank": 40,
+      "delta": 16,
+      "signal": "+16 rank climb",
+      "app_id": "1510690149",
+      "country": "au",
+      "score": 124
+    },
+    {
+      "name": "Australian Retirement Trust",
+      "label": "AU / Finance (free)",
+      "rank": 60,
+      "prev_rank": 86,
+      "delta": 26,
+      "signal": "+26 rank climb",
+      "app_id": "1232128380",
+      "country": "au",
+      "score": 118
+    },
+    {
+      "name": "Candles - Trade Everything",
+      "label": "US / Finance (free)",
+      "rank": 33,
+      "prev_rank": 49,
+      "delta": 16,
+      "signal": "+16 rank climb",
+      "app_id": "6739891028",
+      "country": "us",
+      "score": 115
+    },
+    {
+      "name": "Hostplus",
+      "label": "AU / Finance (free)",
+      "rank": 29,
+      "prev_rank": 43,
       "delta": 14,
       "signal": "+14 rank climb",
-      "app_id": "383915209",
+      "app_id": "1499755194",
+      "country": "au",
+      "score": 113
+    },
+    {
+      "name": "ANZ Australia",
+      "label": "AU / Finance (free)",
+      "rank": 9,
+      "prev_rank": 16,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "870929663",
+      "country": "au",
+      "score": 112
+    },
+    {
+      "name": "Shop: Track, Pay, Discover",
+      "label": "AU / Shopping (free)",
+      "rank": 3,
+      "prev_rank": 8,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1223471316",
+      "country": "au",
+      "score": 112
+    },
+    {
+      "name": "Smart Salary Packaging",
+      "label": "AU / Finance (free)",
+      "rank": 56,
+      "prev_rank": 78,
+      "delta": 22,
+      "signal": "+22 rank climb",
+      "app_id": "6751791423",
+      "country": "au",
+      "score": 110
+    },
+    {
+      "name": "AustralianSuper",
+      "label": "AU / Finance (free)",
+      "rank": 15,
+      "prev_rank": 23,
+      "delta": 8,
+      "signal": "+8 rank climb",
+      "app_id": "1020067456",
+      "country": "au",
+      "score": 109
+    },
+    {
+      "name": "ReciMe: Recipes & Meal Planner",
+      "label": "US / Food & Drink (free)",
+      "rank": 7,
+      "prev_rank": 12,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "1593779280",
       "country": "us",
-      "score": 87
+      "score": 108
+    },
+    {
+      "name": "TapCook: Budget Meal Plans",
+      "label": "US / Food & Drink (free)",
+      "rank": 22,
+      "prev_rank": 32,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "6769601354",
+      "country": "us",
+      "score": 108
+    },
+    {
+      "name": "St.George Mobile Banking",
+      "label": "AU / Finance (free)",
+      "rank": 47,
+      "prev_rank": 65,
+      "delta": 18,
+      "signal": "+18 rank climb",
+      "app_id": "294380705",
+      "country": "au",
+      "score": 107
+    },
+    {
+      "name": "Instacart: Groceries & Food",
+      "label": "US / Food & Drink (free)",
+      "rank": 12,
+      "prev_rank": 17,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "545599256",
+      "country": "us",
+      "score": 103
+    },
+    {
+      "name": "Budget Direct App",
+      "label": "AU / Finance (free)",
+      "rank": 31,
+      "prev_rank": 42,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "6443458988",
+      "country": "au",
+      "score": 102
+    },
+    {
+      "name": "Bankwest",
+      "label": "AU / Finance (free)",
+      "rank": 37,
+      "prev_rank": 50,
+      "delta": 13,
+      "signal": "+13 rank climb",
+      "app_id": "419259235",
+      "country": "au",
+      "score": 102
+    },
+    {
+      "name": "Bendigo Bank",
+      "label": "AU / Finance (free)",
+      "rank": 26,
+      "prev_rank": 35,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "482844929",
+      "country": "au",
+      "score": 101
+    },
+    {
+      "name": "Localize - Farmers Market",
+      "label": "US / Food & Drink (free)",
+      "rank": 35,
+      "prev_rank": 47,
+      "delta": 12,
+      "signal": "+12 rank climb",
+      "app_id": "6756440767",
+      "country": "us",
+      "score": 101
     }
   ],
   "trends": [],
@@ -284,110 +284,110 @@
     {
       "name": "ccch1mneyyy/dsh-Go",
       "topic": "ai-agent",
-      "stars": 15526,
+      "stars": 17396,
       "desc": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "signal": "15526\u2605 in <30d",
-      "score": 15526
+      "signal": "17396\u2605 in <30d",
+      "score": 17396
     },
     {
       "name": "l0ng-ai/openidea",
       "topic": "developer-tools",
-      "stars": 7764,
+      "stars": 8122,
       "desc": "The IDE you know, rebuilt in Rust. IntelliJ IDEA\u2013style keymap, tool windows and search-everywhere in a fast native app: ",
       "url": "https://github.com/l0ng-ai/openidea",
-      "signal": "7764\u2605 in <30d",
-      "score": 7764
+      "signal": "8122\u2605 in <30d",
+      "score": 8122
     },
     {
       "name": "wangzan101/Mika",
       "topic": "ai-agent",
-      "stars": 7688,
+      "stars": 7884,
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
-      "signal": "7688\u2605 in <30d",
-      "score": 7688
+      "signal": "7884\u2605 in <30d",
+      "score": 7884
     },
     {
       "name": "rddmwmddr/android-ad-cleaner",
       "topic": "ai-agent",
-      "stars": 7082,
+      "stars": 7235,
       "desc": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "signal": "7082\u2605 in <30d",
-      "score": 7082
+      "signal": "7235\u2605 in <30d",
+      "score": 7235
     },
     {
       "name": "microsoft/TokenEconomizer",
       "topic": "developer-tools",
-      "stars": 5033,
+      "stars": 5465,
       "desc": "Experience-Driven Black-Box Cost Control for Coding Agents",
       "url": "https://github.com/microsoft/TokenEconomizer",
-      "signal": "5033\u2605 in <30d",
-      "score": 5033
+      "signal": "5465\u2605 in <30d",
+      "score": 5465
     },
     {
       "name": "onehumanbeing/esp32-iphone-agent",
       "topic": "ai-agent",
-      "stars": 4663,
+      "stars": 4748,
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No M",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "signal": "4663\u2605 in <30d",
-      "score": 4663
+      "signal": "4748\u2605 in <30d",
+      "score": 4748
     },
     {
       "name": "haydenschmitty/floorplan",
       "topic": "developer-tools",
-      "stars": 3212,
+      "stars": 3319,
       "desc": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "url": "https://github.com/haydenschmitty/floorplan",
-      "signal": "3212\u2605 in <30d",
-      "score": 3212
+      "signal": "3319\u2605 in <30d",
+      "score": 3319
     },
     {
       "name": "modelflare-ai/AnyModelBot",
       "topic": "ai-agent",
-      "stars": 2739,
+      "stars": 2742,
       "desc": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla",
       "url": "https://github.com/modelflare-ai/AnyModelBot",
-      "signal": "2739\u2605 in <30d",
-      "score": 2739
+      "signal": "2742\u2605 in <30d",
+      "score": 2742
     },
     {
       "name": "indexable-inc/blaze",
       "topic": "developer-tools",
-      "stars": 2061,
+      "stars": 2092,
       "desc": "Incremental rust builds up to 92x faster than cargo/rustc",
       "url": "https://github.com/indexable-inc/blaze",
-      "signal": "2061\u2605 in <30d",
-      "score": 2061
+      "signal": "2092\u2605 in <30d",
+      "score": 2092
     },
     {
       "name": "jwuthri-cloud/Tracely-ai",
       "topic": "developer-tools",
-      "stars": 979,
+      "stars": 946,
       "desc": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression test",
       "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "signal": "979\u2605 in <30d",
-      "score": 979
+      "signal": "946\u2605 in <30d",
+      "score": 946
     },
     {
       "name": "Ngochiendev/vietqr-core",
       "topic": "fintech",
-      "stars": 129,
+      "stars": 140,
       "desc": "Th\u01b0 vi\u1ec7n .NET & Web API hi\u1ec7u n\u0103ng cao x\u1eed l\u00fd m\u00e3 QR thanh to\u00e1n VietQR chu\u1ea9n NAPAS247 & EMVCo. H\u1ed7 tr\u1ee3 .NET 6/8/9/10, nh\u00fang ",
       "url": "https://github.com/Ngochiendev/vietqr-core",
-      "signal": "129\u2605 in <30d",
-      "score": 129
+      "signal": "140\u2605 in <30d",
+      "score": 140
     },
     {
       "name": "Shubhamkumartrichy/claude-trading-skills-india",
       "topic": "fintech",
-      "stars": 56,
+      "stars": 57,
       "desc": "Claude Code skills for Indian stock market investors and traders \u2014 NSE/BSE analysis, F&O strategies, technical charting,",
       "url": "https://github.com/Shubhamkumartrichy/claude-trading-skills-india",
-      "signal": "56\u2605 in <30d",
-      "score": 56
+      "signal": "57\u2605 in <30d",
+      "score": 57
     }
   ],
   "notes": []
