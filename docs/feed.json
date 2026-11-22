@@ -1,381 +1,384 @@
 {
-  "generated_utc": "2026-11-21T14:37:42.012956+00:00",
-  "date": "2026-11-21",
+  "generated_utc": "2026-11-22T14:31:54.059005+00:00",
+  "date": "2026-11-22",
   "appstore": [
     {
-      "name": "H&M",
-      "label": "US / Shopping (free)",
-      "rank": 37,
-      "prev_rank": 92,
-      "delta": 55,
-      "signal": "+55 rank climb",
-      "app_id": "834465911",
+      "name": "Invo: A New Way to Trade",
+      "label": "US / Finance (free)",
+      "rank": 25,
+      "prev_rank": 97,
+      "delta": 72,
+      "signal": "+72 rank climb",
+      "app_id": "1601301148",
       "country": "us",
-      "score": 228
+      "score": 291
+    },
+    {
+      "name": "Invo: A New Way to Trade",
+      "label": "AU / Finance (free)",
+      "rank": 25,
+      "prev_rank": 73,
+      "delta": 48,
+      "signal": "+48 rank climb",
+      "app_id": "1601301148",
+      "country": "au",
+      "score": 219
+    },
+    {
+      "name": "Invo: A New Way to Trade",
+      "label": "GB / Finance (free)",
+      "rank": 39,
+      "prev_rank": 86,
+      "delta": 47,
+      "signal": "+47 rank climb",
+      "app_id": "1601301148",
+      "country": "gb",
+      "score": 202
     },
     {
       "name": "NeatEat - Meal Planner",
       "label": "US / Food & Drink (free)",
-      "rank": 39,
-      "prev_rank": 92,
-      "delta": 53,
-      "signal": "+53 rank climb",
+      "rank": 8,
+      "prev_rank": 39,
+      "delta": 31,
+      "signal": "+31 rank climb",
       "app_id": "6783742855",
       "country": "us",
-      "score": 220
+      "score": 185
     },
     {
-      "name": "Welcome Suica Mobile",
-      "label": "AU / Finance (free)",
-      "rank": 52,
-      "prev_rank": 79,
-      "delta": 27,
-      "signal": "+27 rank climb",
-      "app_id": "6738336566",
-      "country": "au",
-      "score": 129
+      "name": "Ralph Lauren: Luxury Shopping",
+      "label": "US / Shopping (free)",
+      "rank": 56,
+      "prev_rank": 90,
+      "delta": 34,
+      "signal": "+34 rank climb",
+      "app_id": "1590610314",
+      "country": "us",
+      "score": 146
     },
     {
-      "name": "Petbarn: Pet Store & Advice",
+      "name": "White Fox Boutique",
       "label": "AU / Shopping (free)",
-      "rank": 30,
-      "prev_rank": 48,
-      "delta": 18,
-      "signal": "+18 rank climb",
-      "app_id": "6511222021",
+      "rank": 40,
+      "prev_rank": 65,
+      "delta": 25,
+      "signal": "+25 rank climb",
+      "app_id": "1583672828",
       "country": "au",
-      "score": 124
+      "score": 135
     },
     {
-      "name": "Suica",
-      "label": "AU / Finance (free)",
-      "rank": 26,
-      "prev_rank": 40,
-      "delta": 14,
-      "signal": "+14 rank climb",
-      "app_id": "1156875272",
-      "country": "au",
-      "score": 116
-    },
-    {
-      "name": "Fundo: Fast & Easy Loans",
-      "label": "AU / Finance (free)",
-      "rank": 29,
-      "prev_rank": 44,
-      "delta": 15,
-      "signal": "+15 rank climb",
-      "app_id": "6746297021",
-      "country": "au",
-      "score": 116
-    },
-    {
-      "name": "Inter: Banking, credit card",
+      "name": "Polymarket: Trade Live Sports",
       "label": "US / Finance (free)",
-      "rank": 17,
+      "rank": 13,
       "prev_rank": 28,
-      "delta": 11,
-      "signal": "+11 rank climb",
-      "app_id": "839711154",
-      "country": "us",
-      "score": 116
-    },
-    {
-      "name": "Domino's Pizza USA",
-      "label": "US / Food & Drink (free)",
-      "rank": 7,
-      "prev_rank": 12,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "436491861",
-      "country": "us",
-      "score": 108
-    },
-    {
-      "name": "Frasers Plus",
-      "label": "GB / Finance (free)",
-      "rank": 17,
-      "prev_rank": 25,
-      "delta": 8,
-      "signal": "+8 rank climb",
-      "app_id": "1612215379",
-      "country": "gb",
-      "score": 107
-    },
-    {
-      "name": "F\u00e9lix Pago - Env\u00edos de dinero",
-      "label": "US / Finance (free)",
-      "rank": 49,
-      "prev_rank": 67,
-      "delta": 18,
-      "signal": "+18 rank climb",
-      "app_id": "6756128226",
-      "country": "us",
-      "score": 105
-    },
-    {
-      "name": "Zip - Get what you NEEDWANT\u2122",
-      "label": "AU / Finance (free)",
-      "rank": 11,
-      "prev_rank": 16,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "1411824359",
-      "country": "au",
-      "score": 104
-    },
-    {
-      "name": "Yelp: Food, Services & Reviews",
-      "label": "US / Food & Drink (free)",
-      "rank": 14,
-      "prev_rank": 20,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "284910350",
-      "country": "us",
-      "score": 104
-    },
-    {
-      "name": "LemFi \u2014 Send. Save. Grow.",
-      "label": "AU / Finance (free)",
-      "rank": 42,
-      "prev_rank": 57,
       "delta": 15,
       "signal": "+15 rank climb",
-      "app_id": "1533066809",
-      "country": "au",
-      "score": 103
-    },
-    {
-      "name": "Splitwise",
-      "label": "AU / Finance (free)",
-      "rank": 16,
-      "prev_rank": 22,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "458023433",
-      "country": "au",
-      "score": 102
-    },
-    {
-      "name": "PhonePe: UPI & Credit Card App",
-      "label": "AU / Finance (free)",
-      "rank": 32,
-      "prev_rank": 43,
-      "delta": 11,
-      "signal": "+11 rank climb",
-      "app_id": "1170055821",
-      "country": "au",
-      "score": 101
-    },
-    {
-      "name": "EQ Share Plans",
-      "label": "GB / Finance (free)",
-      "rank": 69,
-      "prev_rank": 92,
-      "delta": 23,
-      "signal": "+23 rank climb",
-      "app_id": "1575218981",
-      "country": "gb",
-      "score": 100
-    },
-    {
-      "name": "Papa Johns Pizza & Delivery",
-      "label": "US / Food & Drink (free)",
-      "rank": 31,
-      "prev_rank": 41,
-      "delta": 10,
-      "signal": "+10 rank climb",
-      "app_id": "407517450",
+      "app_id": "6648798962",
       "country": "us",
-      "score": 99
+      "score": 132
     },
     {
-      "name": "LEGO\u00ae Insiders: Shop & Rewards",
+      "name": "DealSeek: Coupons & Discounts",
       "label": "AU / Shopping (free)",
-      "rank": 60,
-      "prev_rank": 79,
-      "delta": 19,
-      "signal": "+19 rank climb",
-      "app_id": "6740403375",
+      "rank": 36,
+      "prev_rank": 58,
+      "delta": 22,
+      "signal": "+22 rank climb",
+      "app_id": "6745274862",
       "country": "au",
-      "score": 97
-    },
-    {
-      "name": "MoneyGram\u00ae: Money Transfer",
-      "label": "AU / Finance (free)",
-      "rank": 25,
-      "prev_rank": 32,
-      "delta": 7,
-      "signal": "+7 rank climb",
-      "app_id": "1085720801",
-      "country": "au",
-      "score": 96
-    },
-    {
-      "name": "State Farm\u00ae",
-      "label": "US / Finance (free)",
-      "rank": 20,
-      "prev_rank": 25,
-      "delta": 5,
-      "signal": "+5 rank climb",
-      "app_id": "318142137",
-      "country": "us",
-      "score": 95
+      "score": 130
     },
     {
       "name": "Sprive - Mortgage Free, Faster",
       "label": "GB / Finance (free)",
-      "rank": 23,
-      "prev_rank": 29,
-      "delta": 6,
-      "signal": "+6 rank climb",
+      "rank": 12,
+      "prev_rank": 23,
+      "delta": 11,
+      "signal": "+11 rank climb",
       "app_id": "1504836142",
       "country": "gb",
-      "score": 95
+      "score": 121
+    },
+    {
+      "name": "Splitwise",
+      "label": "AU / Finance (free)",
+      "rank": 7,
+      "prev_rank": 16,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "458023433",
+      "country": "au",
+      "score": 120
+    },
+    {
+      "name": "Emma - Budget Planner Tracker",
+      "label": "GB / Finance (free)",
+      "rank": 16,
+      "prev_rank": 27,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "1270062373",
+      "country": "gb",
+      "score": 117
+    },
+    {
+      "name": "Temu: Shop Like a Billionaire",
+      "label": "US / Shopping (free)",
+      "rank": 2,
+      "prev_rank": 8,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "1641486558",
+      "country": "us",
+      "score": 116
     },
     {
       "name": "Bath & Body Works | B&BW",
       "label": "US / Shopping (free)",
-      "rank": 30,
-      "prev_rank": 38,
-      "delta": 8,
-      "signal": "+8 rank climb",
+      "rank": 19,
+      "prev_rank": 30,
+      "delta": 11,
+      "signal": "+11 rank climb",
       "app_id": "1256027729",
+      "country": "us",
+      "score": 114
+    },
+    {
+      "name": "Sephora US: Makeup & Skincare",
+      "label": "US / Shopping (free)",
+      "rank": 22,
+      "prev_rank": 34,
+      "delta": 12,
+      "signal": "+12 rank climb",
+      "app_id": "393328150",
+      "country": "us",
+      "score": 114
+    },
+    {
+      "name": "GovAuctions.com - Shop Surplus",
+      "label": "US / Shopping (free)",
+      "rank": 18,
+      "prev_rank": 28,
+      "delta": 10,
+      "signal": "+10 rank climb",
+      "app_id": "6752552771",
+      "country": "us",
+      "score": 112
+    },
+    {
+      "name": "Macquarie Mobile Banking",
+      "label": "AU / Finance (free)",
+      "rank": 9,
+      "prev_rank": 14,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "942349750",
+      "country": "au",
+      "score": 106
+    },
+    {
+      "name": "Testerup: Play & Earn",
+      "label": "GB / Finance (free)",
+      "rank": 15,
+      "prev_rank": 22,
+      "delta": 7,
+      "signal": "+7 rank climb",
+      "app_id": "1241984225",
+      "country": "gb",
+      "score": 106
+    },
+    {
+      "name": "Toss - Make finance easier",
+      "label": "AU / Finance (free)",
+      "rank": 63,
+      "prev_rank": 85,
+      "delta": 22,
+      "signal": "+22 rank climb",
+      "app_id": "839333328",
+      "country": "au",
+      "score": 103
+    },
+    {
+      "name": "Sephora - Beauty Shopping",
+      "label": "AU / Shopping (free)",
+      "rank": 25,
+      "prev_rank": 34,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1152899196",
+      "country": "au",
+      "score": 102
+    },
+    {
+      "name": "Suica",
+      "label": "AU / Finance (free)",
+      "rank": 20,
+      "prev_rank": 26,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "1156875272",
+      "country": "au",
+      "score": 98
+    },
+    {
+      "name": "Dollar General-Digital Coupons",
+      "label": "US / Shopping (free)",
+      "rank": 35,
+      "prev_rank": 46,
+      "delta": 11,
+      "signal": "+11 rank climb",
+      "app_id": "561311442",
+      "country": "us",
+      "score": 98
+    },
+    {
+      "name": "Latitude App",
+      "label": "AU / Finance (free)",
+      "rank": 22,
+      "prev_rank": 28,
+      "delta": 6,
+      "signal": "+6 rank climb",
+      "app_id": "1373059866",
+      "country": "au",
+      "score": 96
+    },
+    {
+      "name": "Taptap Send: Money Transfer",
+      "label": "US / Finance (free)",
+      "rank": 32,
+      "prev_rank": 41,
+      "delta": 9,
+      "signal": "+9 rank climb",
+      "app_id": "1413346006",
+      "country": "us",
+      "score": 95
+    },
+    {
+      "name": "Lowe's Home Improvement",
+      "label": "US / Shopping (free)",
+      "rank": 21,
+      "prev_rank": 26,
+      "delta": 5,
+      "signal": "+5 rank climb",
+      "app_id": "457954781",
       "country": "us",
       "score": 94
     },
     {
-      "name": "Texas Roadhouse Mobile",
-      "label": "US / Food & Drink (free)",
+      "name": "Country Road - Since 1974",
+      "label": "AU / Shopping (free)",
       "rank": 49,
       "prev_rank": 63,
       "delta": 14,
       "signal": "+14 rank climb",
-      "app_id": "1097534083",
-      "country": "us",
+      "app_id": "1631154696",
+      "country": "au",
       "score": 93
-    },
-    {
-      "name": "Amex United Kingdom",
-      "label": "GB / Finance (free)",
-      "rank": 26,
-      "prev_rank": 32,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "399021772",
-      "country": "gb",
-      "score": 92
-    },
-    {
-      "name": "inKind",
-      "label": "US / Food & Drink (free)",
-      "rank": 26,
-      "prev_rank": 32,
-      "delta": 6,
-      "signal": "+6 rank climb",
-      "app_id": "1153771822",
-      "country": "us",
-      "score": 92
     }
   ],
-  "trends": [
-    {
-      "term": "AI agent",
-      "signal": "search +40% (7d)",
-      "score": 28
-    }
-  ],
+  "trends": [],
   "reddit": [],
   "github": [
     {
       "name": "ccch1mneyyy/dsh-Go",
       "topic": "ai-agent",
-      "stars": 29408,
+      "stars": 30033,
       "desc": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "signal": "29408\u2605 in <30d",
-      "score": 29408
+      "signal": "30033\u2605 in <30d",
+      "score": 30033
     },
     {
       "name": "wangzan101/Mika",
       "topic": "ai-agent",
-      "stars": 9364,
+      "stars": 9578,
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
-      "signal": "9364\u2605 in <30d",
-      "score": 9364
+      "signal": "9578\u2605 in <30d",
+      "score": 9578
     },
     {
       "name": "rddmwmddr/android-ad-cleaner",
       "topic": "ai-agent",
-      "stars": 8608,
+      "stars": 8739,
       "desc": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "signal": "8608\u2605 in <30d",
-      "score": 8608
+      "signal": "8739\u2605 in <30d",
+      "score": 8739
     },
     {
       "name": "haydenschmitty/floorplan",
       "topic": "developer-tools",
-      "stars": 5839,
+      "stars": 6139,
       "desc": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "url": "https://github.com/haydenschmitty/floorplan",
-      "signal": "5839\u2605 in <30d",
-      "score": 5839
+      "signal": "6139\u2605 in <30d",
+      "score": 6139
     },
     {
       "name": "modelflare-ai/AnyModelBot",
       "topic": "ai-agent",
-      "stars": 4963,
+      "stars": 4972,
       "desc": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla",
       "url": "https://github.com/modelflare-ai/AnyModelBot",
-      "signal": "4963\u2605 in <30d",
-      "score": 4963
+      "signal": "4972\u2605 in <30d",
+      "score": 4972
     },
     {
       "name": "DIYgod/pinky",
       "topic": "ai-agent",
-      "stars": 2631,
+      "stars": 2666,
       "desc": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itse",
       "url": "https://github.com/DIYgod/pinky",
-      "signal": "2631\u2605 in <30d",
-      "score": 2631
+      "signal": "2666\u2605 in <30d",
+      "score": 2666
     },
     {
       "name": "alexeyw/lot-map",
       "topic": "developer-tools",
-      "stars": 1096,
+      "stars": 1117,
       "desc": "Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, ",
       "url": "https://github.com/alexeyw/lot-map",
-      "signal": "1096\u2605 in <30d",
-      "score": 1096
+      "signal": "1117\u2605 in <30d",
+      "score": 1117
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "topic": "developer-tools",
+      "stars": 1025,
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "signal": "1025\u2605 in <30d",
+      "score": 1025
     },
     {
       "name": "devvmhq/devvm",
       "topic": "developer-tools",
-      "stars": 734,
+      "stars": 747,
       "desc": "One VM for every project. An isolated sandbox with your project\u2019s toolchain, ready for you or a coding agent to start co",
       "url": "https://github.com/devvmhq/devvm",
-      "signal": "734\u2605 in <30d",
-      "score": 734
+      "signal": "747\u2605 in <30d",
+      "score": 747
     },
     {
       "name": "ShuaiMXu/happyhands",
       "topic": "developer-tools",
-      "stars": 527,
+      "stars": 534,
       "desc": "Open-source, AI-assisted UI design review for coding agents. Inspect screenshots, scope code changes and compare results",
       "url": "https://github.com/ShuaiMXu/happyhands",
-      "signal": "527\u2605 in <30d",
-      "score": 527
+      "signal": "534\u2605 in <30d",
+      "score": 534
     },
     {
-      "name": "chutingyean/Agent-Cockpit",
-      "topic": "developer-tools",
-      "stars": 519,
-      "desc": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced",
-      "url": "https://github.com/chutingyean/Agent-Cockpit",
-      "signal": "519\u2605 in <30d",
-      "score": 519
+      "name": "agustrisna170892-afk/alpaca-0dte-trading-terminal",
+      "topic": "fintech",
+      "stars": 154,
+      "desc": "Alpaca 0DTE Trading Terminal: Real-time Options Execution and Analytics Platform",
+      "url": "https://github.com/agustrisna170892-afk/alpaca-0dte-trading-terminal",
+      "signal": "154\u2605 in <30d",
+      "score": 154
     },
     {
       "name": "Ngochiendev/vietqr-core",
@@ -385,15 +388,6 @@
       "url": "https://github.com/Ngochiendev/vietqr-core",
       "signal": "154\u2605 in <30d",
       "score": 154
-    },
-    {
-      "name": "agustrisna170892-afk/alpaca-0dte-trading-terminal",
-      "topic": "fintech",
-      "stars": 153,
-      "desc": "Alpaca 0DTE Trading Terminal: Real-time Options Execution and Analytics Platform",
-      "url": "https://github.com/agustrisna170892-afk/alpaca-0dte-trading-terminal",
-      "signal": "153\u2605 in <30d",
-      "score": 153
     }
   ],
   "notes": []
